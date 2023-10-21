@@ -1,0 +1,313 @@
+<string id="Altitude" scope="glance">Korkeus</string>
+<string id="Altitude_Ascent" scope="foreground">Nousu</string>
+<string id="Altitude_Descent" scope="foreground">Alamäki</string>
+<string id="Altitude_Oxygen" scope="foreground">Happi</string>
+<string id="Altitude_Precision" scope="foreground">Tarkkuus</string>
+<string id="Altitude_Precision_0" scope="foreground">0 Desimaalia</string>
+<string id="Altitude_Precision_1" scope="foreground">1 Desimaali</string>
+<string id="Altitude_Precision_2" scope="foreground">2 Desimaalia</string>
+<string id="Altitude_Risk" scope="foreground">Riski</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Nolla</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Näytä yksiköt</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Äärimmäistä</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Korkea</string>
+<string id="Altitude_ZoneLow" scope="foreground">Matala</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Kohtalainen</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Paljon Korkea</string>
+<string id="AOD" scope="foreground">AMOLED-laitteet</string>
+<string id="AOD_Enabled" scope="foreground">Ota AOD-tila käyttöön</string>
+<string id="Barometer" scope="glance">Barometri</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Mittayksiköt</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Näytä yksiköt</string>
+<string id="Clock" scope="foreground">Kello</string>
+<string id="Clock_AmPmColor" scope="foreground">AM/PM-väri</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Näytä AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Suurenna kelloteksti</string>
+<string id="Clock_HoursColor" scope="foreground">Tunnin väri</string>
+<string id="Clock_MinutesColor" scope="foreground">Minuuttien väri</string>
+<string id="Clock_SecondsColor" scope="foreground">Sekuntien väri</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Näytä sekunnit</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Ota käyttöön vain sekuntia aktiivisena</string>
+<string id="Compass" scope="glance">Kompassi</string>
+<string id="Compass_Color" scope="foreground">Väri</string>
+<string id="Compass_Declination" scope="foreground">Deklinaatio</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Asteiden muoto</string>
+<string id="Compass_Deviation" scope="foreground">Poikkeama</string>
+<string id="Compass_RefreshRate" scope="foreground">Päivitystaajuus</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">komplikaatiot</string>
+<string id="Complications_BottomColor" scope="foreground">Tietojen pohjaväri</string>
+<string id="Complications_BottomType" scope="foreground">Alempi tietokohde</string>
+<string id="Complications_BottomType_0" scope="foreground">Ei mitään</string>
+<string id="Complications_BottomType_1" scope="foreground">Aktiiviset minuutit tänään</string>
+<string id="Complications_BottomType_10" scope="foreground">Päivämäärä</string>
+<string id="Complications_BottomType_11" scope="foreground">Päivänvalo – auringonnousu</string>
+<string id="Complications_BottomType_12" scope="foreground">Päivänvalo – auringonlasku</string>
+<string id="Complications_BottomType_13" scope="foreground">Päivä – seuraava tapahtuma</string>
+<string id="Complications_BottomType_14" scope="foreground">Etäisyys</string>
+<string id="Complications_BottomType_15" scope="foreground">Kerros - noussut</string>
+<string id="Complications_BottomType_16" scope="foreground">Kerroset – laskevat</string>
+<string id="Complications_BottomType_17" scope="foreground">kerrokset – yhteensä</string>
+<string id="Complications_BottomType_18" scope="foreground">syke</string>
+<string id="Complications_BottomType_19" scope="foreground">sykealue</string>
+<string id="Complications_BottomType_2" scope="foreground">Aktiiviset minuutit tällä viikolla</string>
+<string id="Complications_BottomType_20" scope="foreground">Siirrä tasoa</string>
+<string id="Complications_BottomType_21" scope="foreground">Hengitystaajuus</string>
+<string id="Complications_BottomType_22" scope="foreground">Merenpinnan paine</string>
+<string id="Complications_BottomType_23" scope="foreground">Nopeus (vaatii GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Vaiheet</string>
+<string id="Complications_BottomType_25" scope="foreground">Lämpötila</string>
+<string id="Complications_BottomType_26" scope="foreground">Toipumisaika</string>
+<string id="Complications_BottomType_27" scope="foreground">Sää – tuntuu siltä</string>
+<string id="Complications_BottomType_28" scope="foreground">Sää – Ennustettu korkea/matalin</string>
+<string id="Complications_BottomType_29" scope="foreground">Sää – Sateen mahdollisuus</string>
+<string id="Complications_BottomType_3" scope="foreground">Korkeus</string>
+<string id="Complications_BottomType_30" scope="foreground">Sää – suhteellinen kosteus</string>
+<string id="Complications_BottomType_31" scope="foreground">Sää – lämpötila</string>
+<string id="Complications_BottomType_32" scope="foreground">Sää – Tuulen nopeus</string>
+<string id="Complications_BottomType_4" scope="foreground">Ympäristön paine</string>
+<string id="Complications_BottomType_5" scope="foreground">rungon akku</string>
+<string id="Complications_BottomType_6" scope="foreground">kalorit</string>
+<string id="Complications_BottomType_7" scope="foreground">Nykyinen otsikko - Asteet</string>
+<string id="Complications_BottomType_8" scope="foreground">Nykyinen otsikko - NATO-tutkinnot</string>
+<string id="Complications_BottomType_9" scope="foreground">Nykyinen otsikko - NESW</string>
+<string id="Complications_Color" scope="foreground">Tietojen väri</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Suurenna tietotekstin kokoa</string>
+<string id="Complications_IconEnabled" scope="foreground">Ota kuvake käyttöön</string>
+<string id="Complications_Label_Active" scope="foreground">Aktiivinen</string>
+<string id="Complications_Label_Altitude" scope="foreground">Korkeus</string>
+<string id="Complications_Label_Ascended" scope="foreground">Noussut</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometri</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Kehon akku</string>
+<string id="Complications_Label_Calories" scope="foreground">kalorit</string>
+<string id="Complications_Label_Current" scope="foreground">Nykyinen</string>
+<string id="Complications_Label_Descended" scope="foreground">laskeva</string>
+<string id="Complications_Label_Distance" scope="foreground">Etäisyys</string>
+<string id="Complications_Label_Floors" scope="foreground">Latit</string>
+<string id="Complications_Label_Heading" scope="foreground">Otsikko</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Asteet</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Todellinen pohjoinen</string>
+<string id="Complications_Label_HeartRate" scope="foreground">syke</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">sykealue</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Siirrä tasoa</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Palautus</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Hengitys</string>
+<string id="Complications_Label_Speed" scope="foreground">Nopeus</string>
+<string id="Complications_Label_Steps" scope="foreground">Vaiheet</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Auringonnousu</string>
+<string id="Complications_Label_Sunset" scope="foreground">Auringonlasku</string>
+<string id="Complications_Label_Temperature" scope="foreground">Lämpötila</string>
+<string id="Complications_Label_Today" scope="foreground">Tänään</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Huomenna</string>
+<string id="Complications_Label_Total" scope="foreground">Yhteensä</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Lämpötila</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Tuntuu</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Korkea/matala</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Sateen mahdollisuus</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Kosteus</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">tuulen nopeus</string>
+<string id="Complications_Label_Week" scope="foreground">Viikko</string>
+<string id="Complications_TopColor" scope="foreground">Tietojen suosituin väri</string>
+<string id="Complications_TopType" scope="foreground">Suosituin tietokohde</string>
+<string id="Complications_TopType_0" scope="foreground">Ei mitään</string>
+<string id="Complications_TopType_1" scope="foreground">Aktiiviset minuutit tänään</string>
+<string id="Complications_TopType_10" scope="foreground">Päivämäärä</string>
+<string id="Complications_TopType_11" scope="foreground">Päivänvalo – auringonnousu</string>
+<string id="Complications_TopType_12" scope="foreground">Päivänvalo – auringonlasku</string>
+<string id="Complications_TopType_13" scope="foreground">Päivä – seuraava tapahtuma</string>
+<string id="Complications_TopType_14" scope="foreground">Etäisyys</string>
+<string id="Complications_TopType_15" scope="foreground">Kerros - noussut</string>
+<string id="Complications_TopType_16" scope="foreground">Kerrokset - Laskevat</string>
+<string id="Complications_TopType_17" scope="foreground">kerrokset – yhteensä</string>
+<string id="Complications_TopType_18" scope="foreground">syke</string>
+<string id="Complications_TopType_19" scope="foreground">sykealue</string>
+<string id="Complications_TopType_2" scope="foreground">Aktiiviset minuutit tällä viikolla</string>
+<string id="Complications_TopType_20" scope="foreground">Siirrä tasoa</string>
+<string id="Complications_TopType_21" scope="foreground">hengitystaajuus</string>
+<string id="Complications_TopType_22" scope="foreground">Merenpinnan paine</string>
+<string id="Complications_TopType_23" scope="foreground">Nopeus (vaatii GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Vaiheet</string>
+<string id="Complications_TopType_25" scope="foreground">Lämpötila</string>
+<string id="Complications_TopType_26" scope="foreground">Toipumisaika</string>
+<string id="Complications_TopType_27" scope="foreground">Sää – tuntuu siltä</string>
+<string id="Complications_TopType_28" scope="foreground">Sää – Ennustettu korkea/matalin</string>
+<string id="Complications_TopType_29" scope="foreground">Sää – Sateen mahdollisuus</string>
+<string id="Complications_TopType_3" scope="foreground">Korkeus</string>
+<string id="Complications_TopType_30" scope="foreground">Sää – suhteellinen kosteus</string>
+<string id="Complications_TopType_31" scope="foreground">Sää – lämpötila</string>
+<string id="Complications_TopType_32" scope="foreground">Sää – tuulen nopeus</string>
+<string id="Complications_TopType_4" scope="foreground">Ympäristön paine</string>
+<string id="Complications_TopType_5" scope="foreground">rungon akku</string>
+<string id="Complications_TopType_6" scope="foreground">kalorit</string>
+<string id="Complications_TopType_7" scope="foreground">Nykyinen otsikko - Asteet</string>
+<string id="Complications_TopType_8" scope="foreground">Nykyinen otsikko - NATO-tutkinnot</string>
+<string id="Complications_TopType_9" scope="foreground">Nykyinen otsikko - NESW</string>
+<string id="Complications_Type" scope="foreground">Tietokohde</string>
+<string id="Complications_Type_0" scope="foreground">Ei mitään</string>
+<string id="Complications_Type_1" scope="foreground">Aktiiviset minuutit tänään</string>
+<string id="Complications_Type_10" scope="foreground">Päivämäärä</string>
+<string id="Complications_Type_11" scope="foreground">Päivänvalo – auringonnousu</string>
+<string id="Complications_Type_12" scope="foreground">Päivävalo – auringonlasku</string>
+<string id="Complications_Type_13" scope="foreground">Päivänvalo – seuraava tapahtuma</string>
+<string id="Complications_Type_14" scope="foreground">Etäisyys</string>
+<string id="Complications_Type_15" scope="foreground">Kerros - noussut</string>
+<string id="Complications_Type_16" scope="foreground">Kerroset – laskevat</string>
+<string id="Complications_Type_17" scope="foreground">kerrokset – yhteensä</string>
+<string id="Complications_Type_18" scope="foreground">syke</string>
+<string id="Complications_Type_19" scope="foreground">sykealue</string>
+<string id="Complications_Type_2" scope="foreground">Aktiiviset minuutit tällä viikolla</string>
+<string id="Complications_Type_20" scope="foreground">Siirrä tasoa</string>
+<string id="Complications_Type_21" scope="foreground">Hengitystaajuus</string>
+<string id="Complications_Type_22" scope="foreground">Merenpinnan paine</string>
+<string id="Complications_Type_23" scope="foreground">Nopeus (vaatii GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Vaiheet</string>
+<string id="Complications_Type_25" scope="foreground">Lämpötila</string>
+<string id="Complications_Type_26" scope="foreground">Toipumisaika</string>
+<string id="Complications_Type_27" scope="foreground">Sää – tuntuu</string>
+<string id="Complications_Type_28" scope="foreground">Sää – Ennustettu korkea/matalin</string>
+<string id="Complications_Type_29" scope="foreground">Sää – Sateen mahdollisuus</string>
+<string id="Complications_Type_3" scope="foreground">Korkeus</string>
+<string id="Complications_Type_30" scope="foreground">Sää – suhteellinen kosteus</string>
+<string id="Complications_Type_31" scope="foreground">Sää – Lämpötila</string>
+<string id="Complications_Type_32" scope="foreground">Sää – Tuulen nopeus</string>
+<string id="Complications_Type_4" scope="foreground">Ympäristön paine</string>
+<string id="Complications_Type_5" scope="foreground">rungon akku</string>
+<string id="Complications_Type_6" scope="foreground">kalorit</string>
+<string id="Complications_Type_7" scope="foreground">Nykyinen otsikko - Asteet</string>
+<string id="Complications_Type_8" scope="foreground">Nykyinen otsikko - Naton tutkinnot</string>
+<string id="Complications_Type_9" scope="foreground">Nykyinen otsikko - NESW</string>
+<string id="Coordinates" scope="foreground">Koordinaatit</string>
+<string id="Coordinates_Format" scope="foreground">Muotoile</string>
+<string id="Coordinates_Format_0" scope="foreground">Asteet</string>
+<string id="Coordinates_Format_1" scope="foreground">Astetta/minuuttia</string>
+<string id="Coordinates_Format_2" scope="foreground">Astetta/minuuttia/sekuntia</string>
+<string id="Coordinates_Format_3" scope="foreground">Sotilasverkon viitejärjestelmä</string>
+<string id="Days" scope="foreground">Päiviä</string>
+<string id="Days_Color" scope="foreground">Sormuksen väri</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Suurenna tekstin kokoa</string>
+<string id="Days_Goal" scope="foreground">Tavoite</string>
+<string id="Days_TextColor" scope="foreground">Tekstin väri</string>
+<string id="Days_TextGoalColor" scope="foreground">Tavoitteen tekstin väri</string>
+<string id="Days_Type" scope="foreground">Tiedot</string>
+<string id="Days_Type_0" scope="foreground">Ei mitään</string>
+<string id="Days_Type_1" scope="foreground">Vaiheet</string>
+<string id="Days_Type_2" scope="foreground">Latit</string>
+<string id="Days_Type_3" scope="foreground">Aktiiviset minuutit</string>
+<string id="Days_Type_4" scope="foreground">kalorit</string>
+<string id="Days_Type_5" scope="foreground">Etäisyys</string>
+<string id="Global_Settings" scope="foreground">Asetukset</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Käytä GPS</string>
+<string id="GPS_Latitude" scope="foreground">Leveysaste</string>
+<string id="GPS_Longitude" scope="foreground">Pituusaste</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">syke</string>
+<string id="HeartRate_Adjustment" scope="foreground">Säätö</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Lepää</string>
+<string id="History" scope="foreground">Historia</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Vähennä vahvistusta</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">VIIMEINEN $1$ TUNTI</string>
+<string id="History_Type" scope="foreground">Kaaviotyyli</string>
+<string id="History_Type_0" scope="foreground">Sarake</string>
+<string id="History_Type_1" scope="foreground">Spliini</string>
+<string id="Location_Acquiring" scope="foreground">GPS-sijaintia haetaan. Näet selkeästi taivaalle.</string>
+<string id="Location_InvalidLong" scope="foreground">Sijaintia ei voi saada, tarkista laitteen GPS tai asetukset.</string>
+<string id="Location_InvalidShort" scope="glance">Virheellinen sijainti</string>
+<string id="Location_RequiredLong" scope="foreground">Tarvitset GPS-sijainnin, napauta tai valitse widget.</string>
+<string id="Location_RequiredShort" scope="glance">Sijainti vaaditaan</string>
+<string id="LowBattery" scope="foreground">Akun varaus vähissä</string>
+<string id="LowBattery_Enabled" scope="foreground">Ota käyttöön heikon akun tila</string>
+<string id="MinimalDays" scope="foreground">Minimipäiviä</string>
+<string id="MIP" scope="foreground">MIP-laitteet</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Herää nostamalla/napauttamalla</string>
+<string id="Months_April" scope="foreground">huhtikuu</string>
+<string id="Months_August" scope="foreground">Elokuu</string>
+<string id="Months_December" scope="foreground">Joulukuu</string>
+<string id="Months_February" scope="foreground">Helmikuu</string>
+<string id="Months_January" scope="foreground">tammikuu</string>
+<string id="Months_July" scope="foreground">heinäkuu</string>
+<string id="Months_June" scope="foreground">kesäkuu</string>
+<string id="Months_March" scope="foreground">Maaliskuu</string>
+<string id="Months_May" scope="foreground">toukokuu</string>
+<string id="Months_November" scope="foreground">Marraskuu</string>
+<string id="Months_October" scope="foreground">lokakuu</string>
+<string id="Months_September" scope="foreground">Syyskuu</string>
+<string id="SimplyElegant" scope="foreground">Yksinkertaisesti tyylikäs</string>
+<string id="Sleep" scope="foreground">Sleep</string>
+<string id="Sleep_Enabled" scope="foreground">Ota lepotila käyttöön</string>
+<string id="StormAlert" scope="foreground">Paineenmuutoshälytys</string>
+<string id="StormAlert_Active" scope="foreground">Varoitus</string>
+<string id="StormAlert_Message" scope="foreground">Viesti</string>
+<string id="StormAlert_MessageError" scope="foreground">Viesti on pakollinen</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Muutosnopeus</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 millibaaria kolmessa tunnissa</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 millibaaria kolmessa tunnissa</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 millibaari 3 tunnissa</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 millibaaria kolmessa tunnissa</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 millibaaria 3 tunnissa</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 millibaaria kolmessa tunnissa</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 millibaaria 3 tunnissa</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 millibaaria kolmessa tunnissa</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 millibaaria kolmessa tunnissa</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 millibaaria kolmessa tunnissa</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 millibaaria kolmessa tunnissa</string>
+<string id="SunTimes" scope="glance">aurinkoajat</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Seuraava tapahtuma</string>
+<string id="SunTimes_Sunrise" scope="foreground">Auringonnousu</string>
+<string id="SunTimes_SunriseIn" scope="glance">Sunrise In</string>
+<string id="SunTimes_Sunset" scope="foreground">Auringonlasku</string>
+<string id="SunTimes_SunsetIn" scope="glance">Auringonlasku</string>
+<string id="SunTimes_Today" scope="foreground">Tänään</string>
+<string id="System" scope="foreground">Tilakuvakkeet</string>
+<string id="System_AlarmsEnabled" scope="foreground">Hälytyskuvake</string>
+<string id="System_BatteryDay" scope="foreground">Päivä</string>
+<string id="System_BatteryDays" scope="foreground">Päiviä</string>
+<string id="System_BatteryEnabled" scope="foreground">Akkukuvake</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth-kuvake</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Älä häiritse -kuvake</string>
+<string id="System_NotificationsEnabled" scope="foreground">Ilmoituskuvake</string>
+<string id="Temperature" scope="glance">Lämpötila</string>
+<string id="Temperature_Adjustment" scope="foreground">Säätö</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Muunna ytimeksi</string>
+<string id="Time" scope="foreground">Aika</string>
+<string id="Time_DisplayFormat" scope="foreground">Näyttömuoto</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Oletus</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 tuntia</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 tuntia</string>
+<string id="Time_NextEventEnabled" scope="foreground">Näytä seuraava tapahtuma</string>
+<string id="Twilight" scope="foreground">Twilight</string>
+<string id="Twilight_Level" scope="foreground">Taso</string>
+<string id="Twilight_Level_0" scope="foreground">tähtitiede</string>
+<string id="Twilight_Level_1" scope="foreground">merenkulku</string>
+<string id="Twilight_Level_2" scope="foreground">Siviili</string>
+<string id="Units" scope="foreground">Yksiköt</string>
+<string id="Units_Date" scope="foreground">Päivämäärä</string>
+<string id="Units_Date_0" scope="foreground">DDD PP</string>
+<string id="Units_Date_1" scope="foreground">KKM PP</string>
+<string id="Units_Date_2" scope="foreground">KK PP VV</string>
+<string id="Units_Date_3" scope="foreground">PP KK VV</string>
+<string id="Units_Pressure" scope="foreground">Barometri</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Käytä suurempaa kirjasinta</string>
+<string id="UX_MeterHandStyle" scope="foreground">Mittarin käden tyyli</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Tyyli 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Tyyli 2</string>

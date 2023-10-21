@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Magasság</string>
+<string id="Altitude_Ascent" scope="foreground">Emelkedés</string>
+<string id="Altitude_Descent" scope="foreground">Süllyedés</string>
+<string id="Altitude_Oxygen" scope="foreground">Oxigén</string>
+<string id="Altitude_Precision" scope="foreground">Pontosság</string>
+<string id="Altitude_Precision_0" scope="foreground">0 tizedesjegy</string>
+<string id="Altitude_Precision_1" scope="foreground">1 tizedes</string>
+<string id="Altitude_Precision_2" scope="foreground">2 tizedesjegy</string>
+<string id="Altitude_Risk" scope="foreground">Kockázat</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Nincs</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Egységek megjelenítése</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Extrém</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Magas</string>
+<string id="Altitude_ZoneLow" scope="foreground">Alacsony</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Mérsékelt</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Nagyon magas</string>
+<string id="AOD" scope="foreground">AMOLED-eszközök</string>
+<string id="AOD_Enabled" scope="foreground">Az AOD mód engedélyezése</string>
+<string id="Barometer" scope="glance">Barométer</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Mértékegység</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">Hgmm</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Egységek megjelenítése</string>
+<string id="Clock" scope="foreground">Óra</string>
+<string id="Clock_AmPmColor" scope="foreground">Délelőtt/délután szín</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Délelőtt/délutáni idő megjelenítése</string>
+<string id="Clock_Enlarge" scope="foreground">Óraszöveg nagyítása</string>
+<string id="Clock_HoursColor" scope="foreground">Óraszám színe</string>
+<string id="Clock_MinutesColor" scope="foreground">Percek színe</string>
+<string id="Clock_SecondsColor" scope="foreground">Másodperces szín</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Másodpercek megjelenítése</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Csak a másodpercek engedélyezése aktív állapotban</string>
+<string id="Compass" scope="glance">iránytű</string>
+<string id="Compass_Color" scope="foreground">Szín</string>
+<string id="Compass_Declination" scope="foreground">Deklináció</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Fokformátum</string>
+<string id="Compass_Deviation" scope="foreground">Eltérés</string>
+<string id="Compass_Mils" scope="foreground">6400 Mils (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Frissítési gyakoriság</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Szövődmények</string>
+<string id="Complications_BottomColor" scope="foreground">Alsó adatszín</string>
+<string id="Complications_BottomType" scope="foreground">Alsó adatelem</string>
+<string id="Complications_BottomType_0" scope="foreground">Nincs</string>
+<string id="Complications_BottomType_1" scope="foreground">Aktív percek ma</string>
+<string id="Complications_BottomType_10" scope="foreground">Dátum</string>
+<string id="Complications_BottomType_11" scope="foreground">Nappal – Napkelte</string>
+<string id="Complications_BottomType_12" scope="foreground">Nappal – naplemente</string>
+<string id="Complications_BottomType_13" scope="foreground">Daylight – Következő esemény</string>
+<string id="Complications_BottomType_14" scope="foreground">Távolság</string>
+<string id="Complications_BottomType_15" scope="foreground">Szintek – Emelkedett</string>
+<string id="Complications_BottomType_16" scope="foreground">Szintek – ereszkedő</string>
+<string id="Complications_BottomType_17" scope="foreground">Szintek – összesen</string>
+<string id="Complications_BottomType_18" scope="foreground">Pulzusszám</string>
+<string id="Complications_BottomType_19" scope="foreground">Pulzuszóna</string>
+<string id="Complications_BottomType_2" scope="foreground">Aktív percek ezen a héten</string>
+<string id="Complications_BottomType_20" scope="foreground">Szint áthelyezése</string>
+<string id="Complications_BottomType_21" scope="foreground">Légzési gyakoriság</string>
+<string id="Complications_BottomType_22" scope="foreground">Tengerszinti nyomás</string>
+<string id="Complications_BottomType_23" scope="foreground">Sebesség (GPS szükséges)</string>
+<string id="Complications_BottomType_24" scope="foreground">Lépések</string>
+<string id="Complications_BottomType_25" scope="foreground">Hőmérséklet</string>
+<string id="Complications_BottomType_26" scope="foreground">Helyreállítási idő</string>
+<string id="Complications_BottomType_27" scope="foreground">Időjárás – olyan, mint</string>
+<string id="Complications_BottomType_28" scope="foreground">Időjárás – előrejelzett magas/alacsony</string>
+<string id="Complications_BottomType_29" scope="foreground">Időjárás – Csapadék valószínűsége</string>
+<string id="Complications_BottomType_3" scope="foreground">Magasság</string>
+<string id="Complications_BottomType_30" scope="foreground">Időjárás – Relatív páratartalom</string>
+<string id="Complications_BottomType_31" scope="foreground">Időjárás – Hőmérséklet</string>
+<string id="Complications_BottomType_32" scope="foreground">Időjárás – szélsebesség</string>
+<string id="Complications_BottomType_4" scope="foreground">Környezeti nyomás</string>
+<string id="Complications_BottomType_5" scope="foreground">Test akkumulátor</string>
+<string id="Complications_BottomType_6" scope="foreground">kalóriák</string>
+<string id="Complications_BottomType_7" scope="foreground">Jelenlegi címsor – fokok</string>
+<string id="Complications_BottomType_8" scope="foreground">Jelenlegi cím – NATO-fokozatok</string>
+<string id="Complications_BottomType_9" scope="foreground">Jelenlegi címsor – NESW</string>
+<string id="Complications_Color" scope="foreground">Adatszín</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Adatszöveg méretének nagyítása</string>
+<string id="Complications_IconEnabled" scope="foreground">Ikon engedélyezése</string>
+<string id="Complications_Label_Active" scope="foreground">Aktív</string>
+<string id="Complications_Label_Altitude" scope="foreground">Magasság</string>
+<string id="Complications_Label_Ascended" scope="foreground">Növekvő</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barométer</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Test akkumulátor</string>
+<string id="Complications_Label_Calories" scope="foreground">kalóriák</string>
+<string id="Complications_Label_Current" scope="foreground">Jelenlegi</string>
+<string id="Complications_Label_Descended" scope="foreground">Csökkenő</string>
+<string id="Complications_Label_Distance" scope="foreground">Távolság</string>
+<string id="Complications_Label_Floors" scope="foreground">Plakok</string>
+<string id="Complications_Label_Heading" scope="foreground">Címsor</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Fokok</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Valódi észak</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Pulzusszám</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Pulzuszóna</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Szint áthelyezése</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Helyreállítás</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Légzés</string>
+<string id="Complications_Label_Speed" scope="foreground">Sebesség</string>
+<string id="Complications_Label_Steps" scope="foreground">Lépések</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Napfelkelte</string>
+<string id="Complications_Label_Sunset" scope="foreground">Naplemente</string>
+<string id="Complications_Label_Temperature" scope="foreground">Hőmérséklet</string>
+<string id="Complications_Label_Today" scope="foreground">Ma</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Holnap</string>
+<string id="Complications_Label_Total" scope="foreground">Összesen</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Hőmérséklet</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Úgy érzi, mint</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Magas/Alacsony</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Eső esély</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Páratartalom</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Szélsebesség</string>
+<string id="Complications_Label_Week" scope="foreground">Hét</string>
+<string id="Complications_TopColor" scope="foreground">Legfelső adatszín</string>
+<string id="Complications_TopType" scope="foreground">Legnépszerűbb adatelem</string>
+<string id="Complications_TopType_0" scope="foreground">Nincs</string>
+<string id="Complications_TopType_1" scope="foreground">Aktív percek ma</string>
+<string id="Complications_TopType_10" scope="foreground">Dátum</string>
+<string id="Complications_TopType_11" scope="foreground">Nappal – Napkelte</string>
+<string id="Complications_TopType_12" scope="foreground">Nappal – naplemente</string>
+<string id="Complications_TopType_13" scope="foreground">Daylight – Következő esemény</string>
+<string id="Complications_TopType_14" scope="foreground">Távolság</string>
+<string id="Complications_TopType_15" scope="foreground">Szintek – Emelkedett</string>
+<string id="Complications_TopType_16" scope="foreground">Szintek – ereszkedő</string>
+<string id="Complications_TopType_17" scope="foreground">Szintek – összesen</string>
+<string id="Complications_TopType_18" scope="foreground">Pulzusszám</string>
+<string id="Complications_TopType_19" scope="foreground">Pulzuszóna</string>
+<string id="Complications_TopType_2" scope="foreground">Aktív percek ezen a héten</string>
+<string id="Complications_TopType_20" scope="foreground">Szint áthelyezése</string>
+<string id="Complications_TopType_21" scope="foreground">Légzési gyakoriság</string>
+<string id="Complications_TopType_22" scope="foreground">Tengerszinti nyomás</string>
+<string id="Complications_TopType_23" scope="foreground">Sebesség (GPS szükséges)</string>
+<string id="Complications_TopType_24" scope="foreground">Lépések</string>
+<string id="Complications_TopType_25" scope="foreground">Hőmérséklet</string>
+<string id="Complications_TopType_26" scope="foreground">Helyreállítási idő</string>
+<string id="Complications_TopType_27" scope="foreground">Időjárás – jó érzés</string>
+<string id="Complications_TopType_28" scope="foreground">Időjárás – előrejelzés szerint magas/alacsony</string>
+<string id="Complications_TopType_29" scope="foreground">Időjárás – Csapadék valószínűsége</string>
+<string id="Complications_TopType_3" scope="foreground">Magasság</string>
+<string id="Complications_TopType_30" scope="foreground">Időjárás – relatív páratartalom</string>
+<string id="Complications_TopType_31" scope="foreground">Időjárás – Hőmérséklet</string>
+<string id="Complications_TopType_32" scope="foreground">Időjárás – szélsebesség</string>
+<string id="Complications_TopType_4" scope="foreground">Környezeti nyomás</string>
+<string id="Complications_TopType_5" scope="foreground">Test akkumulátor</string>
+<string id="Complications_TopType_6" scope="foreground">kalóriák</string>
+<string id="Complications_TopType_7" scope="foreground">Jelenlegi címsor – fokok</string>
+<string id="Complications_TopType_8" scope="foreground">Jelenlegi cím – NATO-fokozatok</string>
+<string id="Complications_TopType_9" scope="foreground">Jelenlegi címsor – NESW</string>
+<string id="Complications_Type" scope="foreground">Adatelem</string>
+<string id="Complications_Type_0" scope="foreground">Nincs</string>
+<string id="Complications_Type_1" scope="foreground">Aktív percek ma</string>
+<string id="Complications_Type_10" scope="foreground">Dátum</string>
+<string id="Complications_Type_11" scope="foreground">Nappal – Napkelte</string>
+<string id="Complications_Type_12" scope="foreground">Nappal – Napnyugta</string>
+<string id="Complications_Type_13" scope="foreground">Daylight – következő esemény</string>
+<string id="Complications_Type_14" scope="foreground">Távolság</string>
+<string id="Complications_Type_15" scope="foreground">Szintek – Emelkedett</string>
+<string id="Complications_Type_16" scope="foreground">Szintek – ereszkedő</string>
+<string id="Complications_Type_17" scope="foreground">Szintek – összesen</string>
+<string id="Complications_Type_18" scope="foreground">Pulzusszám</string>
+<string id="Complications_Type_19" scope="foreground">Pulzuszóna</string>
+<string id="Complications_Type_2" scope="foreground">Aktív percek ezen a héten</string>
+<string id="Complications_Type_20" scope="foreground">Szint áthelyezése</string>
+<string id="Complications_Type_21" scope="foreground">Légzési gyakoriság</string>
+<string id="Complications_Type_22" scope="foreground">Tengerszinti nyomás</string>
+<string id="Complications_Type_23" scope="foreground">Sebesség (GPS szükséges)</string>
+<string id="Complications_Type_24" scope="foreground">Lépések</string>
+<string id="Complications_Type_25" scope="foreground">Hőmérséklet</string>
+<string id="Complications_Type_26" scope="foreground">Helyreállítási idő</string>
+<string id="Complications_Type_27" scope="foreground">Időjárás – olyan, mint</string>
+<string id="Complications_Type_28" scope="foreground">Időjárás – előrejelzés szerint magas/alacsony</string>
+<string id="Complications_Type_29" scope="foreground">Időjárás – Csapadék valószínűsége</string>
+<string id="Complications_Type_3" scope="foreground">Magasság</string>
+<string id="Complications_Type_30" scope="foreground">Időjárás – Relatív páratartalom</string>
+<string id="Complications_Type_31" scope="foreground">Időjárás – Hőmérséklet</string>
+<string id="Complications_Type_32" scope="foreground">Időjárás – szélsebesség</string>
+<string id="Complications_Type_4" scope="foreground">Környezeti nyomás</string>
+<string id="Complications_Type_5" scope="foreground">Test akkumulátor</string>
+<string id="Complications_Type_6" scope="foreground">kalóriák</string>
+<string id="Complications_Type_7" scope="foreground">Jelenlegi címsor – fokok</string>
+<string id="Complications_Type_8" scope="foreground">Jelenlegi címsor – NATO-fokozatok</string>
+<string id="Complications_Type_9" scope="foreground">Jelenlegi címsor – NESW</string>
+<string id="Coordinates" scope="foreground">Koordináták</string>
+<string id="Coordinates_Format" scope="foreground">Formázás</string>
+<string id="Coordinates_Format_0" scope="foreground">Fokok</string>
+<string id="Coordinates_Format_1" scope="foreground">Fok/perc</string>
+<string id="Coordinates_Format_2" scope="foreground">Fok/perc/másodperc</string>
+<string id="Coordinates_Format_3" scope="foreground">Katonai rács referenciarendszer</string>
+<string id="Days" scope="foreground">Napok</string>
+<string id="Days_Color" scope="foreground">gyűrű színe</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Szövegméret nagyítása</string>
+<string id="Days_Goal" scope="foreground">Cél</string>
+<string id="Days_TextColor" scope="foreground">Szöveg színe</string>
+<string id="Days_TextGoalColor" scope="foreground">Cél szövegének színe</string>
+<string id="Days_Type" scope="foreground">Mutató</string>
+<string id="Days_Type_0" scope="foreground">Nincs</string>
+<string id="Days_Type_1" scope="foreground">Lépések</string>
+<string id="Days_Type_2" scope="foreground">Szintek</string>
+<string id="Days_Type_3" scope="foreground">Aktív percek</string>
+<string id="Days_Type_4" scope="foreground">kalóriák</string>
+<string id="Days_Type_5" scope="foreground">Távolság</string>
+<string id="Global_Settings" scope="foreground">Beállítások</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">GPS használata</string>
+<string id="GPS_Latitude" scope="foreground">Szélesség</string>
+<string id="GPS_Longitude" scope="foreground">Hosszúság</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Pulzusszám</string>
+<string id="HeartRate_Adjustment" scope="foreground">Kiigazítás</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Pihenés</string>
+<string id="History" scope="foreground">Előzmények</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Az erősítés csökkentése</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">LEGUTÓBBI $1$ ÓRA</string>
+<string id="History_Type" scope="foreground">Grafikon stílusa</string>
+<string id="History_Type_0" scope="foreground">Oszlop</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">GPS-pozíció meghatározása, kérjük, legyen tiszta kilátása az égboltra.</string>
+<string id="Location_InvalidLong" scope="foreground">Nem lehet meghatározni a tartózkodási helyet. Kérjük, ellenőrizze az eszköz GPS-ét vagy beállításait.</string>
+<string id="Location_InvalidShort" scope="glance">Érvénytelen hely</string>
+<string id="Location_RequiredLong" scope="foreground">GPS-pozícióra van szüksége, koppintson vagy válassza ki a widgetet.</string>
+<string id="Location_RequiredShort" scope="glance">Hely szükséges</string>
+<string id="LowBattery" scope="foreground">Alacsony akkumulátor töltöttség</string>
+<string id="LowBattery_Enabled" scope="foreground">Az alacsony akkumulátor töltöttségi üzemmód engedélyezése</string>
+<string id="MinimalDays" scope="foreground">Minimális napok</string>
+<string id="MIP" scope="foreground">MIP-eszközök</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Ébresztés emelése/koppintással</string>
+<string id="Months_April" scope="foreground">április</string>
+<string id="Months_August" scope="foreground">augusztus</string>
+<string id="Months_December" scope="foreground">December</string>
+<string id="Months_February" scope="foreground">február</string>
+<string id="Months_January" scope="foreground">január</string>
+<string id="Months_July" scope="foreground">július</string>
+<string id="Months_June" scope="foreground">június</string>
+<string id="Months_March" scope="foreground">Március</string>
+<string id="Months_May" scope="foreground">május</string>
+<string id="Months_November" scope="foreground">november</string>
+<string id="Months_October" scope="foreground">október</string>
+<string id="Months_September" scope="foreground">Szeptember</string>
+<string id="SimplyElegant" scope="foreground">Egyszerűen elegáns</string>
+<string id="Sleep" scope="foreground">Alvó állapot</string>
+<string id="Sleep_Enabled" scope="foreground">Alvó üzemmód engedélyezése</string>
+<string id="StormAlert" scope="foreground">Nyomásváltozásra vonatkozó figyelmeztetés</string>
+<string id="StormAlert_Active" scope="foreground">Figyelmeztetés</string>
+<string id="StormAlert_Message" scope="foreground">Üzenet</string>
+<string id="StormAlert_MessageError" scope="foreground">Az üzenet kötelező</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Változás mértéke</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 millibar 3 óránként</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 millibar 3 óránként</string>
+<string id="SunTimes" scope="glance">Sun Times</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Következő esemény</string>
+<string id="SunTimes_Sunrise" scope="foreground">Napfelkelte</string>
+<string id="SunTimes_SunriseIn" scope="glance">Sunrise In</string>
+<string id="SunTimes_Sunset" scope="foreground">Naplemente</string>
+<string id="SunTimes_SunsetIn" scope="glance">Naplemente</string>
+<string id="SunTimes_Today" scope="foreground">Ma</string>
+<string id="System" scope="foreground">Állapotikonok</string>
+<string id="System_AlarmsEnabled" scope="foreground">Riasztás ikon</string>
+<string id="System_BatteryDay" scope="foreground">Nap</string>
+<string id="System_BatteryDays" scope="foreground">Napok</string>
+<string id="System_BatteryEnabled" scope="foreground">Akkumulátor ikon</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth-ikon</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Ne zavarj ikon</string>
+<string id="System_NotificationsEnabled" scope="foreground">Értesítési ikon</string>
+<string id="Temperature" scope="glance">Hőmérséklet</string>
+<string id="Temperature_Adjustment" scope="foreground">Kiigazítás</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Konvertálás Core-ra</string>
+<string id="Time" scope="foreground">Idő</string>
+<string id="Time_DisplayFormat" scope="foreground">Megjelenítési formátum</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Alapértelmezett</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 óra</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 óra</string>
+<string id="Time_NextEventEnabled" scope="foreground">Következő esemény megjelenítése</string>
+<string id="Twilight" scope="foreground">Alkonyat</string>
+<string id="Twilight_Level" scope="foreground">Szint</string>
+<string id="Twilight_Level_0" scope="foreground">Csillagászati</string>
+<string id="Twilight_Level_1" scope="foreground">Tengerészeti</string>
+<string id="Twilight_Level_2" scope="foreground">Civil</string>
+<string id="Units" scope="foreground">Egységek</string>
+<string id="Units_Date" scope="foreground">Dátum</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMH DD</string>
+<string id="Units_Date_2" scope="foreground">ÉH NN</string>
+<string id="Units_Date_3" scope="foreground">ÉÉ HMM NN</string>
+<string id="Units_Pressure" scope="foreground">Barométer</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">Hgmm</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Nagyobb betűtípus használata</string>
+<string id="UX_MeterHandStyle" scope="foreground">Mérőmutató stílusa</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">1. stílus</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">2. stílus</string>

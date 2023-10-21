@@ -1,0 +1,16 @@
+<properties>
+  <property id="Device_Id" type="string">fr945lte</property>
+
+  <property id="Font_SmallAscentAdjustment" type="number">-1</property>
+  <property id="Font_ExtraTinyAscentAdjustment" type="number">-1</property>
+
+  <property id="Font_NumberThaiHotDescentAdjustment" type="number">8</property>
+  <property id="Font_NumberHotDescentAdjustment" type="number">6</property>
+  <property id="Font_NumberMediumDescentAdjustment" type="number">1</property>
+  <property id="Font_NumberSmallDescentAdjustment" type="number">1</property>
+  <property id="Font_LargeDescentAdjustment" type="number">0</property>
+  <property id="Font_MediumDescentAdjustment" type="number">0</property>
+  <property id="Font_SmallDescentAdjustment" type="number">0</property>
+  <property id="Font_TinyDescentAdjustment" type="number">-1</property>
+  <property id="Font_ExtraTinyDescentAdjustment" type="number">1</property>
+</properties>

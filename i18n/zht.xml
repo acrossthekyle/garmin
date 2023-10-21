@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">海拔高度</string>
+<string id="Altitude_Ascent" scope="foreground">上升</string>
+<string id="Altitude_Descent" scope="foreground">下降</string>
+<string id="Altitude_Oxygen" scope="foreground">氧氣</string>
+<string id="Altitude_Precision" scope="foreground">精度</string>
+<string id="Altitude_Precision_0" scope="foreground">0 小數</string>
+<string id="Altitude_Precision_1" scope="foreground">1 小數</string>
+<string id="Altitude_Precision_2" scope="foreground">2 位小數</string>
+<string id="Altitude_Risk" scope="foreground">風險</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">無</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">顯示單位</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">極端</string>
+<string id="Altitude_ZoneHigh" scope="foreground">高</string>
+<string id="Altitude_ZoneLow" scope="foreground">低</string>
+<string id="Altitude_ZoneModerate" scope="foreground">中等</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">非常高</string>
+<string id="AOD" scope="foreground">AMOLED 設備</string>
+<string id="AOD_Enabled" scope="foreground">啟用 AOD 模式</string>
+<string id="Barometer" scope="glance">晴雨表</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">測量單位</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">百帕</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">毫米汞柱</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">毫巴</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">顯示單位</string>
+<string id="Clock" scope="foreground">時鐘</string>
+<string id="Clock_AmPmColor" scope="foreground">上午/下午顏色</string>
+<string id="Clock_AmPmEnabled" scope="foreground">顯示上午/下午</string>
+<string id="Clock_Enlarge" scope="foreground">放大時鐘文字</string>
+<string id="Clock_HoursColor" scope="foreground">小時顏色</string>
+<string id="Clock_MinutesColor" scope="foreground">分鐘顏色</string>
+<string id="Clock_SecondsColor" scope="foreground">秒顏色</string>
+<string id="Clock_SecondsEnabled" scope="foreground">顯示秒</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">僅在活動時啟用秒</string>
+<string id="Compass" scope="glance">指南針</string>
+<string id="Compass_Color" scope="foreground">顏色</string>
+<string id="Compass_Declination" scope="foreground">赤緯</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">度數格式</string>
+<string id="Compass_Deviation" scope="foreground">偏差</string>
+<string id="Compass_Mils" scope="foreground">6400 密耳（北約）</string>
+<string id="Compass_RefreshRate" scope="foreground">刷新率</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 毫秒</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 毫秒</string>
+<string id="Complications" scope="foreground">併發症</string>
+<string id="Complications_BottomColor" scope="foreground">底部資料顏色</string>
+<string id="Complications_BottomType" scope="foreground">底部資料項</string>
+<string id="Complications_BottomType_0" scope="foreground">無</string>
+<string id="Complications_BottomType_1" scope="foreground">今日活躍分鐘數</string>
+<string id="Complications_BottomType_10" scope="foreground">日期</string>
+<string id="Complications_BottomType_11" scope="foreground">日光 - 日出</string>
+<string id="Complications_BottomType_12" scope="foreground">日光 - 日落</string>
+<string id="Complications_BottomType_13" scope="foreground">日光 - 下一個活動</string>
+<string id="Complications_BottomType_14" scope="foreground">距離</string>
+<string id="Complications_BottomType_15" scope="foreground">樓層 - 上升</string>
+<string id="Complications_BottomType_16" scope="foreground">樓層 - 下降</string>
+<string id="Complications_BottomType_17" scope="foreground">樓層 - 總計</string>
+<string id="Complications_BottomType_18" scope="foreground">心率</string>
+<string id="Complications_BottomType_19" scope="foreground">心率區</string>
+<string id="Complications_BottomType_2" scope="foreground">本週活躍分鐘數</string>
+<string id="Complications_BottomType_20" scope="foreground">移動等級</string>
+<string id="Complications_BottomType_21" scope="foreground">呼吸頻率</string>
+<string id="Complications_BottomType_22" scope="foreground">海平面氣壓</string>
+<string id="Complications_BottomType_23" scope="foreground">速度（需要 GPS）</string>
+<string id="Complications_BottomType_24" scope="foreground">步驟</string>
+<string id="Complications_BottomType_25" scope="foreground">溫度</string>
+<string id="Complications_BottomType_26" scope="foreground">恢復時間</string>
+<string id="Complications_BottomType_27" scope="foreground">天氣 - 感覺像</string>
+<string id="Complications_BottomType_28" scope="foreground">天氣 - 預測高/低</string>
+<string id="Complications_BottomType_29" scope="foreground">天氣 - 降水幾率</string>
+<string id="Complications_BottomType_3" scope="foreground">海拔高度</string>
+<string id="Complications_BottomType_30" scope="foreground">天氣 - 相對濕度</string>
+<string id="Complications_BottomType_31" scope="foreground">天氣 - 溫度</string>
+<string id="Complications_BottomType_32" scope="foreground">天氣 - 風速</string>
+<string id="Complications_BottomType_4" scope="foreground">環境壓力</string>
+<string id="Complications_BottomType_5" scope="foreground">身體電池</string>
+<string id="Complications_BottomType_6" scope="foreground">卡路里</string>
+<string id="Complications_BottomType_7" scope="foreground">目前標題 - 度</string>
+<string id="Complications_BottomType_8" scope="foreground">目前標題 - 北約度數</string>
+<string id="Complications_BottomType_9" scope="foreground">目前標題 - 新訊息</string>
+<string id="Complications_Color" scope="foreground">資料顏色</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">放大資料文字大小</string>
+<string id="Complications_IconEnabled" scope="foreground">啟用圖示</string>
+<string id="Complications_Label_Active" scope="foreground">活動</string>
+<string id="Complications_Label_Altitude" scope="foreground">海拔</string>
+<string id="Complications_Label_Ascended" scope="foreground">升序</string>
+<string id="Complications_Label_Barometer" scope="foreground">晴雨表</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">身體電池</string>
+<string id="Complications_Label_Calories" scope="foreground">卡路里</string>
+<string id="Complications_Label_Current" scope="foreground">目前</string>
+<string id="Complications_Label_Descended" scope="foreground">降序</string>
+<string id="Complications_Label_Distance" scope="foreground">距離</string>
+<string id="Complications_Label_Floors" scope="foreground">樓層</string>
+<string id="Complications_Label_Heading" scope="foreground">標題</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">度數</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">正北</string>
+<string id="Complications_Label_HeartRate" scope="foreground">心率</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">心率區</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">移動等級</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">恢復</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">呼吸</string>
+<string id="Complications_Label_Speed" scope="foreground">速度</string>
+<string id="Complications_Label_Steps" scope="foreground">步驟</string>
+<string id="Complications_Label_Sunrise" scope="foreground">日出</string>
+<string id="Complications_Label_Sunset" scope="foreground">日落</string>
+<string id="Complications_Label_Temperature" scope="foreground">溫度</string>
+<string id="Complications_Label_Today" scope="foreground">今天</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">明天</string>
+<string id="Complications_Label_Total" scope="foreground">總計</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">溫度</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">感覺像</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">高/低</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">下雨幾率</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">濕度</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">風速</string>
+<string id="Complications_Label_Week" scope="foreground">週</string>
+<string id="Complications_TopColor" scope="foreground">頂部資料顏色</string>
+<string id="Complications_TopType" scope="foreground">頂部資料項目</string>
+<string id="Complications_TopType_0" scope="foreground">無</string>
+<string id="Complications_TopType_1" scope="foreground">今日活躍分鐘數</string>
+<string id="Complications_TopType_10" scope="foreground">日期</string>
+<string id="Complications_TopType_11" scope="foreground">日光 - 日出</string>
+<string id="Complications_TopType_12" scope="foreground">日光 - 日落</string>
+<string id="Complications_TopType_13" scope="foreground">日光 - 下一個活動</string>
+<string id="Complications_TopType_14" scope="foreground">距離</string>
+<string id="Complications_TopType_15" scope="foreground">樓層 - 上升</string>
+<string id="Complications_TopType_16" scope="foreground">樓層 - 下降</string>
+<string id="Complications_TopType_17" scope="foreground">樓層 - 總計</string>
+<string id="Complications_TopType_18" scope="foreground">心率</string>
+<string id="Complications_TopType_19" scope="foreground">心率區</string>
+<string id="Complications_TopType_2" scope="foreground">本週活躍分鐘數</string>
+<string id="Complications_TopType_20" scope="foreground">移動等級</string>
+<string id="Complications_TopType_21" scope="foreground">呼吸頻率</string>
+<string id="Complications_TopType_22" scope="foreground">海平面氣壓</string>
+<string id="Complications_TopType_23" scope="foreground">速度（需要 GPS）</string>
+<string id="Complications_TopType_24" scope="foreground">步驟</string>
+<string id="Complications_TopType_25" scope="foreground">溫度</string>
+<string id="Complications_TopType_26" scope="foreground">恢復時間</string>
+<string id="Complications_TopType_27" scope="foreground">天氣 - 感覺像</string>
+<string id="Complications_TopType_28" scope="foreground">天氣 - 預測高/低</string>
+<string id="Complications_TopType_29" scope="foreground">天氣 - 降水幾率</string>
+<string id="Complications_TopType_3" scope="foreground">海拔高度</string>
+<string id="Complications_TopType_30" scope="foreground">天氣 - 相對濕度</string>
+<string id="Complications_TopType_31" scope="foreground">天氣 - 溫度</string>
+<string id="Complications_TopType_32" scope="foreground">天氣 - 風速</string>
+<string id="Complications_TopType_4" scope="foreground">環境壓力</string>
+<string id="Complications_TopType_5" scope="foreground">身體電池</string>
+<string id="Complications_TopType_6" scope="foreground">卡路里</string>
+<string id="Complications_TopType_7" scope="foreground">目前標題 - 度</string>
+<string id="Complications_TopType_8" scope="foreground">目前標題 - 北約度數</string>
+<string id="Complications_TopType_9" scope="foreground">目前標題 - 新內容</string>
+<string id="Complications_Type" scope="foreground">資料項</string>
+<string id="Complications_Type_0" scope="foreground">無</string>
+<string id="Complications_Type_1" scope="foreground">今日活躍分鐘數</string>
+<string id="Complications_Type_10" scope="foreground">日期</string>
+<string id="Complications_Type_11" scope="foreground">日光 - 日出</string>
+<string id="Complications_Type_12" scope="foreground">日光 - 日落</string>
+<string id="Complications_Type_13" scope="foreground">日光 - 下一個活動</string>
+<string id="Complications_Type_14" scope="foreground">距離</string>
+<string id="Complications_Type_15" scope="foreground">樓層 - 上升</string>
+<string id="Complications_Type_16" scope="foreground">樓層 - 下降</string>
+<string id="Complications_Type_17" scope="foreground">樓層 - 總計</string>
+<string id="Complications_Type_18" scope="foreground">心率</string>
+<string id="Complications_Type_19" scope="foreground">心率區</string>
+<string id="Complications_Type_2" scope="foreground">本週活躍分鐘數</string>
+<string id="Complications_Type_20" scope="foreground">移動等級</string>
+<string id="Complications_Type_21" scope="foreground">呼吸頻率</string>
+<string id="Complications_Type_22" scope="foreground">海平面氣壓</string>
+<string id="Complications_Type_23" scope="foreground">速度（需要 GPS）</string>
+<string id="Complications_Type_24" scope="foreground">步驟</string>
+<string id="Complications_Type_25" scope="foreground">溫度</string>
+<string id="Complications_Type_26" scope="foreground">恢復時間</string>
+<string id="Complications_Type_27" scope="foreground">天氣 - 感覺像</string>
+<string id="Complications_Type_28" scope="foreground">天氣 - 預測高/低</string>
+<string id="Complications_Type_29" scope="foreground">天氣 - 降水幾率</string>
+<string id="Complications_Type_3" scope="foreground">海拔高度</string>
+<string id="Complications_Type_30" scope="foreground">天氣 - 相對濕度</string>
+<string id="Complications_Type_31" scope="foreground">天氣 - 溫度</string>
+<string id="Complications_Type_32" scope="foreground">天氣 - 風速</string>
+<string id="Complications_Type_4" scope="foreground">環境壓力</string>
+<string id="Complications_Type_5" scope="foreground">身體電池</string>
+<string id="Complications_Type_6" scope="foreground">卡路里</string>
+<string id="Complications_Type_7" scope="foreground">目前標題 - 度</string>
+<string id="Complications_Type_8" scope="foreground">目前標題 - 北約度數</string>
+<string id="Complications_Type_9" scope="foreground">目前標題 - 新內容</string>
+<string id="Coordinates" scope="foreground">座標</string>
+<string id="Coordinates_Format" scope="foreground">格式</string>
+<string id="Coordinates_Format_0" scope="foreground">度數</string>
+<string id="Coordinates_Format_1" scope="foreground">度/分</string>
+<string id="Coordinates_Format_2" scope="foreground">度/分/秒</string>
+<string id="Coordinates_Format_3" scope="foreground">軍事網格參考系統</string>
+<string id="Days" scope="foreground">天</string>
+<string id="Days_Color" scope="foreground">戒指顏色</string>
+<string id="Days_EnlargeEnabled" scope="foreground">放大文字大小</string>
+<string id="Days_Goal" scope="foreground">目標</string>
+<string id="Days_TextColor" scope="foreground">文字顏色</string>
+<string id="Days_TextGoalColor" scope="foreground">目標文字顏色</string>
+<string id="Days_Type" scope="foreground">指標</string>
+<string id="Days_Type_0" scope="foreground">無</string>
+<string id="Days_Type_1" scope="foreground">步驟</string>
+<string id="Days_Type_2" scope="foreground">樓層</string>
+<string id="Days_Type_3" scope="foreground">活躍分鐘數</string>
+<string id="Days_Type_4" scope="foreground">卡路里</string>
+<string id="Days_Type_5" scope="foreground">距離</string>
+<string id="Global_Settings" scope="foreground">設置</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">使用 GPS</string>
+<string id="GPS_Latitude" scope="foreground">緯度</string>
+<string id="GPS_Longitude" scope="foreground">經度</string>
+<string id="Heart_Bpm" scope="foreground">每分鐘</string>
+<string id="Heart_Hrv" scope="foreground">心率</string>
+<string id="HeartRate" scope="glance">心率</string>
+<string id="HeartRate_Adjustment" scope="foreground">調整</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">正在休息</string>
+<string id="History" scope="foreground">歷史</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">減少放大</string>
+<string id="History_Max" scope="foreground">最大</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">過去 1 美元小時</string>
+<string id="History_Type" scope="foreground">圖表樣式</string>
+<string id="History_Type_0" scope="foreground">列</string>
+<string id="History_Type_1" scope="foreground">樣條線</string>
+<string id="Location_Acquiring" scope="foreground">正在獲取 GPS 位置，請確保天空視野清晰。</string>
+<string id="Location_InvalidLong" scope="foreground">無法獲取位置，請檢查設備 GPS 或設置。</string>
+<string id="Location_InvalidShort" scope="glance">位置無效</string>
+<string id="Location_RequiredLong" scope="foreground">需要 GPS 位置，請點擊或選擇小部件。</string>
+<string id="Location_RequiredShort" scope="glance">需要位置</string>
+<string id="LowBattery" scope="foreground">電池電量低</string>
+<string id="LowBattery_Enabled" scope="foreground">啟用低電量模式</string>
+<string id="MinimalDays" scope="foreground">最短天數</string>
+<string id="MIP" scope="foreground">MIP 設備</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">抬起/點擊喚醒</string>
+<string id="Months_April" scope="foreground">四月</string>
+<string id="Months_August" scope="foreground">八月</string>
+<string id="Months_December" scope="foreground">十二月</string>
+<string id="Months_February" scope="foreground">二月</string>
+<string id="Months_January" scope="foreground">一月</string>
+<string id="Months_July" scope="foreground">七月</string>
+<string id="Months_June" scope="foreground">六月</string>
+<string id="Months_March" scope="foreground">三月</string>
+<string id="Months_May" scope="foreground">五月</string>
+<string id="Months_November" scope="foreground">十一月</string>
+<string id="Months_October" scope="foreground">十月</string>
+<string id="Months_September" scope="foreground">九月</string>
+<string id="RefreshRate_100" scope="foreground">100 毫秒</string>
+<string id="RefreshRate_1000" scope="foreground">1 秒</string>
+<string id="SimplyElegant" scope="foreground">簡單優雅</string>
+<string id="Sleep" scope="foreground">睡眠</string>
+<string id="Sleep_Enabled" scope="foreground">啟用睡眠模式</string>
+<string id="StormAlert" scope="foreground">壓力變化警報</string>
+<string id="StormAlert_Active" scope="foreground">警報</string>
+<string id="StormAlert_Message" scope="foreground">消息</string>
+<string id="StormAlert_MessageError" scope="foreground">該消息為必填項</string>
+<string id="StormAlert_RateOfChange" scope="foreground">變化率</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">每 3 小時 6 毫巴</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">每 3 小時 5.5 毫巴</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">每 3 小時 1 毫巴</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">每 3 小時 5 毫巴</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">每 3 小時 4.5 毫巴</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">每 3 小時 4 毫巴</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">每 3 小時 3.5 毫巴</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">每 3 小時 3 毫巴</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">每 3 小時 2.5 毫巴</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">每 3 小時 2 毫巴</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">每 3 小時 1.5 毫巴</string>
+<string id="SunTimes" scope="glance">太陽時報</string>
+<string id="SunTimes_NextEventIn" scope="foreground">下一個活動</string>
+<string id="SunTimes_Sunrise" scope="foreground">日出</string>
+<string id="SunTimes_SunriseIn" scope="glance">日出</string>
+<string id="SunTimes_Sunset" scope="foreground">日落</string>
+<string id="SunTimes_SunsetIn" scope="glance">日落</string>
+<string id="SunTimes_Today" scope="foreground">今天</string>
+<string id="System" scope="foreground">狀態圖示</string>
+<string id="System_AlarmsEnabled" scope="foreground">鬧鐘圖示</string>
+<string id="System_BatteryDay" scope="foreground">日</string>
+<string id="System_BatteryDays" scope="foreground">day</string>
+<string id="System_BatteryEnabled" scope="foreground">電池圖示</string>
+<string id="System_BluetoothEnabled" scope="foreground">藍牙圖示</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">請勿打擾圖示</string>
+<string id="System_NotificationsEnabled" scope="foreground">通知圖示</string>
+<string id="Temperature" scope="glance">溫度</string>
+<string id="Temperature_Adjustment" scope="foreground">調整</string>
+<string id="Temperature_CoreEnabled" scope="foreground">轉換為核心</string>
+<string id="Time" scope="foreground">時間</string>
+<string id="Time_DisplayFormat" scope="foreground">顯示格式</string>
+<string id="Time_DisplayFormat_0" scope="foreground">默認</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 小時</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 小時</string>
+<string id="Time_NextEventEnabled" scope="foreground">顯示下一個事件</string>
+<string id="Twilight" scope="foreground">暮光</string>
+<string id="Twilight_Level" scope="foreground">級別</string>
+<string id="Twilight_Level_0" scope="foreground">天文</string>
+<string id="Twilight_Level_1" scope="foreground">航海</string>
+<string id="Twilight_Level_2" scope="foreground">民用</string>
+<string id="Units" scope="foreground">單位</string>
+<string id="Units_Date" scope="foreground">日期</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM YY</string>
+<string id="Units_Pressure" scope="foreground">晴雨表</string>
+<string id="Units_Pressure_0" scope="foreground">百帕</string>
+<string id="Units_Pressure_1" scope="foreground">吋汞柱</string>
+<string id="Units_Pressure_2" scope="foreground">毫米汞柱</string>
+<string id="Units_Pressure_3" scope="foreground">毫巴</string>
+<string id="UX" scope="foreground">用戶體驗</string>
+<string id="UX_LargerFontEnabled" scope="foreground">使用更大的字體</string>
+<string id="UX_MeterHandStyle" scope="foreground">儀表指針樣式</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">樣式 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">樣式 2</string>

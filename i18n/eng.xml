@@ -1,0 +1,313 @@
+<string id="Altitude" scope="glance">Altitude</string>
+<string id="Altitude_Ascent" scope="foreground">Ascent</string>
+<string id="Altitude_Descent" scope="foreground">Descent</string>
+<string id="Altitude_Oxygen" scope="foreground">Oxygen</string>
+<string id="Altitude_Precision" scope="foreground">Precision</string>
+<string id="Altitude_Precision_0" scope="foreground">0 Decimals</string>
+<string id="Altitude_Precision_1" scope="foreground">1 Decimal</string>
+<string id="Altitude_Precision_2" scope="foreground">2 Decimals</string>
+<string id="Altitude_Risk" scope="foreground">Risk</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">None</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Show Units</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Extreme</string>
+<string id="Altitude_ZoneHigh" scope="foreground">High</string>
+<string id="Altitude_ZoneLow" scope="foreground">Low</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Moderate</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Very High</string>
+<string id="AOD" scope="foreground">AMOLED Devices</string>
+<string id="AOD_Enabled" scope="foreground">Enable AOD Mode</string>
+<string id="Barometer" scope="glance">Barometer</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Unit of Measurement</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Show Units</string>
+<string id="Clock" scope="foreground">Clock</string>
+<string id="Clock_AmPmColor" scope="foreground">AM/PM Color</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Show AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Enlarge Clock Text</string>
+<string id="Clock_HoursColor" scope="foreground">Hours Color</string>
+<string id="Clock_MinutesColor" scope="foreground">Minutes Color</string>
+<string id="Clock_SecondsColor" scope="foreground">Seconds Color</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Show Seconds</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Enable Seconds Only When Active</string>
+<string id="Compass" scope="glance">Compass</string>
+<string id="Compass_Color" scope="foreground">Color</string>
+<string id="Compass_Declination" scope="foreground">Declination</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Degrees Format</string>
+<string id="Compass_DegreesFormat_0" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat_1" scope="foreground">6400 Mils (NATO)</string>
+<string id="Compass_Deviation" scope="foreground">Deviation</string>
+<string id="Compass_RefreshRate" scope="foreground">Refresh Rate</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Complications</string>
+<string id="Complications_BottomColor" scope="foreground">Bottom Data Color</string>
+<string id="Complications_BottomType" scope="foreground">Bottom Data Item</string>
+<string id="Complications_BottomType_0" scope="foreground">None</string>
+<string id="Complications_BottomType_1" scope="foreground">Active Minutes Today</string>
+<string id="Complications_BottomType_10" scope="foreground">Date</string>
+<string id="Complications_BottomType_11" scope="foreground">Daylight - Sunrise</string>
+<string id="Complications_BottomType_12" scope="foreground">Daylight - Sunset</string>
+<string id="Complications_BottomType_13" scope="foreground">Daylight - Next Event</string>
+<string id="Complications_BottomType_14" scope="foreground">Distance</string>
+<string id="Complications_BottomType_15" scope="foreground">Floors - Ascended</string>
+<string id="Complications_BottomType_16" scope="foreground">Floors - Descended</string>
+<string id="Complications_BottomType_17" scope="foreground">Floors - Total</string>
+<string id="Complications_BottomType_18" scope="foreground">Heart Rate</string>
+<string id="Complications_BottomType_19" scope="foreground">Heart Rate Zone</string>
+<string id="Complications_BottomType_2" scope="foreground">Active Minutes This Week</string>
+<string id="Complications_BottomType_20" scope="foreground">Move Level</string>
+<string id="Complications_BottomType_21" scope="foreground">Respiration Rate</string>
+<string id="Complications_BottomType_22" scope="foreground">Sea Level Pressure</string>
+<string id="Complications_BottomType_23" scope="foreground">Speed (Needs GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Steps</string>
+<string id="Complications_BottomType_25" scope="foreground">Temperature</string>
+<string id="Complications_BottomType_26" scope="foreground">Time to Recovery</string>
+<string id="Complications_BottomType_27" scope="foreground">Weather - Feels Like</string>
+<string id="Complications_BottomType_28" scope="foreground">Weather - Forecasted High/Low</string>
+<string id="Complications_BottomType_29" scope="foreground">Weather - Precipitation Chance</string>
+<string id="Complications_BottomType_3" scope="foreground">Altitude</string>
+<string id="Complications_BottomType_30" scope="foreground">Weather - Relative Humidity</string>
+<string id="Complications_BottomType_31" scope="foreground">Weather - Temperature</string>
+<string id="Complications_BottomType_32" scope="foreground">Weather - Wind Speed</string>
+<string id="Complications_BottomType_4" scope="foreground">Ambient Pressure</string>
+<string id="Complications_BottomType_5" scope="foreground">Body Battery</string>
+<string id="Complications_BottomType_6" scope="foreground">Calories</string>
+<string id="Complications_BottomType_7" scope="foreground">Current Heading - Degrees</string>
+<string id="Complications_BottomType_8" scope="foreground">Current Heading - NATO Degrees</string>
+<string id="Complications_BottomType_9" scope="foreground">Current Heading - NESW</string>
+<string id="Complications_Color" scope="foreground">Data Color</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Enlarge Data Text Size</string>
+<string id="Complications_IconEnabled" scope="foreground">Enable Icon</string>
+<string id="Complications_Label_Active" scope="foreground">Active</string>
+<string id="Complications_Label_Altitude" scope="foreground">Elevation</string>
+<string id="Complications_Label_Ascended" scope="foreground">Ascended</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometer</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Body Battery</string>
+<string id="Complications_Label_Calories" scope="foreground">Calories</string>
+<string id="Complications_Label_Current" scope="foreground">Current</string>
+<string id="Complications_Label_Descended" scope="foreground">Descended</string>
+<string id="Complications_Label_Distance" scope="foreground">Distance</string>
+<string id="Complications_Label_Floors" scope="foreground">Floors</string>
+<string id="Complications_Label_Heading" scope="foreground">Heading</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Degrees</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">True North</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Heart Rate</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Heart Rate Zone</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Move Level</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Recovery</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Respiration</string>
+<string id="Complications_Label_Speed" scope="foreground">Speed</string>
+<string id="Complications_Label_Steps" scope="foreground">Steps</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Sunrise</string>
+<string id="Complications_Label_Sunset" scope="foreground">Sunset</string>
+<string id="Complications_Label_Temperature" scope="foreground">Temperature</string>
+<string id="Complications_Label_Today" scope="foreground">Today</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Tomorrow</string>
+<string id="Complications_Label_Total" scope="foreground">Total</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Temperature</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Feels Like</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">High/Low</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Rain Chance</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Humidity</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Wind Speed</string>
+<string id="Complications_Label_Week" scope="foreground">Week</string>
+<string id="Complications_TopColor" scope="foreground">Top Data Color</string>
+<string id="Complications_TopType" scope="foreground">Top Data Item</string>
+<string id="Complications_TopType_0" scope="foreground">None</string>
+<string id="Complications_TopType_1" scope="foreground">Active Minutes Today</string>
+<string id="Complications_TopType_10" scope="foreground">Date</string>
+<string id="Complications_TopType_11" scope="foreground">Daylight - Sunrise</string>
+<string id="Complications_TopType_12" scope="foreground">Daylight - Sunset</string>
+<string id="Complications_TopType_13" scope="foreground">Daylight - Next Event</string>
+<string id="Complications_TopType_14" scope="foreground">Distance</string>
+<string id="Complications_TopType_15" scope="foreground">Floors - Ascended</string>
+<string id="Complications_TopType_16" scope="foreground">Floors - Descended</string>
+<string id="Complications_TopType_17" scope="foreground">Floors - Total</string>
+<string id="Complications_TopType_18" scope="foreground">Heart Rate</string>
+<string id="Complications_TopType_19" scope="foreground">Heart Rate Zone</string>
+<string id="Complications_TopType_2" scope="foreground">Active Minutes This Week</string>
+<string id="Complications_TopType_20" scope="foreground">Move Level</string>
+<string id="Complications_TopType_21" scope="foreground">Respiration Rate</string>
+<string id="Complications_TopType_22" scope="foreground">Sea Level Pressure</string>
+<string id="Complications_TopType_23" scope="foreground">Speed (Needs GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Steps</string>
+<string id="Complications_TopType_25" scope="foreground">Temperature</string>
+<string id="Complications_TopType_26" scope="foreground">Time to Recovery</string>
+<string id="Complications_TopType_27" scope="foreground">Weather - Feels Like</string>
+<string id="Complications_TopType_28" scope="foreground">Weather - Forecasted High/Low</string>
+<string id="Complications_TopType_29" scope="foreground">Weather - Precipitation Chance</string>
+<string id="Complications_TopType_3" scope="foreground">Altitude</string>
+<string id="Complications_TopType_30" scope="foreground">Weather - Relative Humidity</string>
+<string id="Complications_TopType_31" scope="foreground">Weather - Temperature</string>
+<string id="Complications_TopType_32" scope="foreground">Weather - Wind Speed</string>
+<string id="Complications_TopType_4" scope="foreground">Ambient Pressure</string>
+<string id="Complications_TopType_5" scope="foreground">Body Battery</string>
+<string id="Complications_TopType_6" scope="foreground">Calories</string>
+<string id="Complications_TopType_7" scope="foreground">Current Heading - Degrees</string>
+<string id="Complications_TopType_8" scope="foreground">Current Heading - NATO Degrees</string>
+<string id="Complications_TopType_9" scope="foreground">Current Heading - NESW</string>
+<string id="Complications_Type" scope="foreground">Data Item</string>
+<string id="Complications_Type_0" scope="foreground">None</string>
+<string id="Complications_Type_1" scope="foreground">Active Minutes Today</string>
+<string id="Complications_Type_10" scope="foreground">Date</string>
+<string id="Complications_Type_11" scope="foreground">Daylight - Sunrise</string>
+<string id="Complications_Type_12" scope="foreground">Daylight - Sunset</string>
+<string id="Complications_Type_13" scope="foreground">Daylight - Next Event</string>
+<string id="Complications_Type_14" scope="foreground">Distance</string>
+<string id="Complications_Type_15" scope="foreground">Floors - Ascended</string>
+<string id="Complications_Type_16" scope="foreground">Floors - Descended</string>
+<string id="Complications_Type_17" scope="foreground">Floors - Total</string>
+<string id="Complications_Type_18" scope="foreground">Heart Rate</string>
+<string id="Complications_Type_19" scope="foreground">Heart Rate Zone</string>
+<string id="Complications_Type_2" scope="foreground">Active Minutes This Week</string>
+<string id="Complications_Type_20" scope="foreground">Move Level</string>
+<string id="Complications_Type_21" scope="foreground">Respiration Rate</string>
+<string id="Complications_Type_22" scope="foreground">Sea Level Pressure</string>
+<string id="Complications_Type_23" scope="foreground">Speed (Needs GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Steps</string>
+<string id="Complications_Type_25" scope="foreground">Temperature</string>
+<string id="Complications_Type_26" scope="foreground">Time to Recovery</string>
+<string id="Complications_Type_27" scope="foreground">Weather - Feels Like</string>
+<string id="Complications_Type_28" scope="foreground">Weather - Forecasted High/Low</string>
+<string id="Complications_Type_29" scope="foreground">Weather - Precipitation Chance</string>
+<string id="Complications_Type_3" scope="foreground">Altitude</string>
+<string id="Complications_Type_30" scope="foreground">Weather - Relative Humidity</string>
+<string id="Complications_Type_31" scope="foreground">Weather - Temperature</string>
+<string id="Complications_Type_32" scope="foreground">Weather - Wind Speed</string>
+<string id="Complications_Type_4" scope="foreground">Ambient Pressure</string>
+<string id="Complications_Type_5" scope="foreground">Body Battery</string>
+<string id="Complications_Type_6" scope="foreground">Calories</string>
+<string id="Complications_Type_7" scope="foreground">Current Heading - Degrees</string>
+<string id="Complications_Type_8" scope="foreground">Current Heading - NATO Degrees</string>
+<string id="Complications_Type_9" scope="foreground">Current Heading - NESW</string>
+<string id="Coordinates" scope="foreground">Coordinates</string>
+<string id="Coordinates_Format" scope="foreground">Format</string>
+<string id="Coordinates_Format_0" scope="foreground">Degrees</string>
+<string id="Coordinates_Format_1" scope="foreground">Degrees/Minutes</string>
+<string id="Coordinates_Format_2" scope="foreground">Degrees/Minutes/Seconds</string>
+<string id="Coordinates_Format_3" scope="foreground">Military Grid Reference System</string>
+<string id="Days" scope="foreground">Days</string>
+<string id="Days_Color" scope="foreground">Ring Color</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Enlarge Text Size</string>
+<string id="Days_Goal" scope="foreground">Goal</string>
+<string id="Days_TextColor" scope="foreground">Text Color</string>
+<string id="Days_TextGoalColor" scope="foreground">Goal Text Color</string>
+<string id="Days_Type" scope="foreground">Metric</string>
+<string id="Days_Type_0" scope="foreground">None</string>
+<string id="Days_Type_1" scope="foreground">Steps</string>
+<string id="Days_Type_2" scope="foreground">Floors</string>
+<string id="Days_Type_3" scope="foreground">Active Minutes</string>
+<string id="Days_Type_4" scope="foreground">Calories</string>
+<string id="Days_Type_5" scope="foreground">Distance</string>
+<string id="Global_Settings" scope="foreground">Settings</string>
+<string id="GPS" scope="foreground">Location</string>
+<string id="GPS_Enabled" scope="foreground">Use GPS</string>
+<string id="GPS_Latitude" scope="foreground">Latitude</string>
+<string id="GPS_Longitude" scope="foreground">Longitude</string>
+<string id="HeartRate" scope="glance">Heart Rate</string>
+<string id="HeartRate_Adjustment" scope="foreground">Adjustment</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Resting</string>
+<string id="History" scope="foreground">History</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Reduce Amplification</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">LAST $1$ HOURS</string>
+<string id="History_Type" scope="foreground">Graph Style</string>
+<string id="History_Type_0" scope="foreground">Column</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Getting GPS position, please have a clear view of the sky.</string>
+<string id="Location_InvalidLong" scope="foreground">Cannot acquire location, please check device GPS or settings.</string>
+<string id="Location_InvalidShort" scope="glance">Invalid Location</string>
+<string id="Location_RequiredLong" scope="foreground">Need GPS position, please tap or select widget.</string>
+<string id="Location_RequiredShort" scope="glance">Location Required</string>
+<string id="LowBattery" scope="foreground">Low Battery</string>
+<string id="LowBattery_Enabled" scope="foreground">Enable Low Battery Mode</string>
+<string id="MinimalDays" scope="foreground">Minimal Days</string>
+<string id="MIP" scope="foreground">MIP Devices</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Raise/Tap To Wake</string>
+<string id="Months_April" scope="foreground">April</string>
+<string id="Months_August" scope="foreground">August</string>
+<string id="Months_December" scope="foreground">December</string>
+<string id="Months_February" scope="foreground">February</string>
+<string id="Months_January" scope="foreground">January</string>
+<string id="Months_July" scope="foreground">July</string>
+<string id="Months_June" scope="foreground">June</string>
+<string id="Months_March" scope="foreground">March</string>
+<string id="Months_May" scope="foreground">May</string>
+<string id="Months_November" scope="foreground">November</string>
+<string id="Months_October" scope="foreground">October</string>
+<string id="Months_September" scope="foreground">September</string>
+<string id="SimplyElegant" scope="foreground">Simply Elegant</string>
+<string id="Sleep" scope="foreground">Sleep</string>
+<string id="Sleep_Enabled" scope="foreground">Enable Sleeping Mode</string>
+<string id="StormAlert" scope="foreground">Pressure Change Alert</string>
+<string id="StormAlert_Active" scope="foreground">Alert</string>
+<string id="StormAlert_Message" scope="foreground">Message</string>
+<string id="StormAlert_MessageError" scope="foreground">The message is required</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Rate of Change</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5.5 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4.5 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3.5 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2.5 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 millibars per 3 hours</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1.5 millibars per 3 hours</string>
+<string id="SunTimes" scope="glance">Sun Times</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Next Event In</string>
+<string id="SunTimes_Sunrise" scope="foreground">Sunrise</string>
+<string id="SunTimes_SunriseIn" scope="glance">Sunrise In</string>
+<string id="SunTimes_Sunset" scope="foreground">Sunset</string>
+<string id="SunTimes_SunsetIn" scope="glance">Sunset In</string>
+<string id="SunTimes_Today" scope="foreground">Today</string>
+<string id="System" scope="foreground">Status Icons</string>
+<string id="System_AlarmsEnabled" scope="foreground">Alarm Icon</string>
+<string id="System_BatteryDay" scope="foreground">Day</string>
+<string id="System_BatteryDays" scope="foreground">Days</string>
+<string id="System_BatteryEnabled" scope="foreground">Battery Icon</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth Icon</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Do-Not-Disturb Icon</string>
+<string id="System_NotificationsEnabled" scope="foreground">Notifications Icon</string>
+<string id="Temperature" scope="glance">Temperature</string>
+<string id="Temperature_Adjustment" scope="foreground">Adjustment</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Convert to Core</string>
+<string id="Time" scope="foreground">Time</string>
+<string id="Time_DisplayFormat" scope="foreground">Display Format</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Default</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 Hour</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 Hour</string>
+<string id="Time_NextEventEnabled" scope="foreground">Show Next Event</string>
+<string id="Twilight" scope="foreground">Twilight</string>
+<string id="Twilight_Level" scope="foreground">Level</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomical</string>
+<string id="Twilight_Level_1" scope="foreground">Nautical</string>
+<string id="Twilight_Level_2" scope="foreground">Civil</string>
+<string id="Units" scope="foreground">Units</string>
+<string id="Units_Date" scope="foreground">Date</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM YY</string>
+<string id="Units_Pressure" scope="foreground">Barometer</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Use Larger Font</string>
+<string id="UX_MeterHandStyle" scope="foreground">Meter Hand Style</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Style 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Style 2</string>

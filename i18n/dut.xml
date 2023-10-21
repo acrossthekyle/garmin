@@ -1,0 +1,313 @@
+<string id="Altitude" scope="glance">Hoogte</string>
+<string id="Altitude_Ascent" scope="foreground">Opgang</string>
+<string id="Altitude_Descent" scope="foreground">Herkomst</string>
+<string id="Altitude_Oxygen" scope="foreground">Zuurstof</string>
+<string id="Altitude_Precision" scope="foreground">Precisie</string>
+<string id="Altitude_Precision_0" scope="foreground">0 Decimalen</string>
+<string id="Altitude_Precision_1" scope="foreground">1 Decimaal</string>
+<string id="Altitude_Precision_2" scope="foreground">2 Decimalen</string>
+<string id="Altitude_Risk" scope="foreground">Risico</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Geen</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Toon eenheden</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Extreem</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Hoog</string>
+<string id="Altitude_ZoneLow" scope="foreground">Laag</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Gematigd</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Erg Hoog</string>
+<string id="AOD" scope="foreground">AMOLED-apparaten</string>
+<string id="AOD_Enabled" scope="foreground">AOD-modus inschakelen</string>
+<string id="Barometer" scope="glance">Barometer</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Maateenheden</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Toon eenheden</string>
+<string id="Clock" scope="foreground">Klok</string>
+<string id="Clock_AmPmColor" scope="foreground">AM/PM-kleur</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Toon AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Kloktekst vergroten</string>
+<string id="Clock_HoursColor" scope="foreground">Urenkleur</string>
+<string id="Clock_MinutesColor" scope="foreground">Minutenkleur</string>
+<string id="Clock_SecondsColor" scope="foreground">Secondenkleur</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Seconden weergeven</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Schakel alleen seconden in indien actief</string>
+<string id="Compass" scope="glance">Kompas</string>
+<string id="Compass_Color" scope="foreground">Kleur</string>
+<string id="Compass_Declination" scope="foreground">Declinatie</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Gradennotatie</string>
+<string id="Compass_Deviation" scope="foreground">Afwijking</string>
+<string id="Compass_RefreshRate" scope="foreground">Vernieuwingsfrequentie</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Complicaties</string>
+<string id="Complications_BottomColor" scope="foreground">Kleur onderste gegevens</string>
+<string id="Complications_BottomType" scope="foreground">Onderste gegevensitem</string>
+<string id="Complications_BottomType_0" scope="foreground">Geen</string>
+<string id="Complications_BottomType_1" scope="foreground">Actieve minuten vandaag</string>
+<string id="Complications_BottomType_10" scope="foreground">Datum</string>
+<string id="Complications_BottomType_11" scope="foreground">Daglicht - Zonsopgang</string>
+<string id="Complications_BottomType_12" scope="foreground">Daglicht - Zonsondergang</string>
+<string id="Complications_BottomType_13" scope="foreground">Daglicht - Volgende gebeurtenis</string>
+<string id="Complications_BottomType_14" scope="foreground">Afstand</string>
+<string id="Complications_BottomType_15" scope="foreground">Verdiepingen - Oplopend</string>
+<string id="Complications_BottomType_16" scope="foreground">Verdiepingen - Afgedaald</string>
+<string id="Complications_BottomType_17" scope="foreground">Verdiepingen - Totaal</string>
+<string id="Complications_BottomType_18" scope="foreground">Hartslag</string>
+<string id="Complications_BottomType_19" scope="foreground">Hartslagzone</string>
+<string id="Complications_BottomType_2" scope="foreground">Actieve minuten deze week</string>
+<string id="Complications_BottomType_20" scope="foreground">Niveau verplaatsen</string>
+<string id="Complications_BottomType_21" scope="foreground">Ademhalingsfrequentie</string>
+<string id="Complications_BottomType_22" scope="foreground">Druk op zeeniveau</string>
+<string id="Complications_BottomType_23" scope="foreground">Snelheid (GPS nodig)</string>
+<string id="Complications_BottomType_24" scope="foreground">Stappen</string>
+<string id="Complications_BottomType_25" scope="foreground">Temperatuur</string>
+<string id="Complications_BottomType_26" scope="foreground">Tijd tot herstel</string>
+<string id="Complications_BottomType_27" scope="foreground">Weer - voelt als</string>
+<string id="Complications_BottomType_28" scope="foreground">Weer - voorspeld hoog/laag</string>
+<string id="Complications_BottomType_29" scope="foreground">Weer - Kans op neerslag</string>
+<string id="Complications_BottomType_3" scope="foreground">Hoogte</string>
+<string id="Complications_BottomType_30" scope="foreground">Weer - Relatieve vochtigheid</string>
+<string id="Complications_BottomType_31" scope="foreground">Weer - Temperatuur</string>
+<string id="Complications_BottomType_32" scope="foreground">Weer - Windsnelheid</string>
+<string id="Complications_BottomType_4" scope="foreground">Omgevingsdruk</string>
+<string id="Complications_BottomType_5" scope="foreground">Bodybatterij</string>
+<string id="Complications_BottomType_6" scope="foreground">Calorieën</string>
+<string id="Complications_BottomType_7" scope="foreground">Huidige koers - Graden</string>
+<string id="Complications_BottomType_8" scope="foreground">Huidige koers - NAVO-graden</string>
+<string id="Complications_BottomType_9" scope="foreground">Huidige koers - NESW</string>
+<string id="Complications_Color" scope="foreground">Gegevenskleur</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Vergroot de gegevenstekstgrootte</string>
+<string id="Complications_IconEnabled" scope="foreground">Pictogram inschakelen</string>
+<string id="Complications_Label_Active" scope="foreground">Actief</string>
+<string id="Complications_Label_Altitude" scope="foreground">Hoogte</string>
+<string id="Complications_Label_Ascended" scope="foreground">Opgestegen</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometer</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Bodybatterij</string>
+<string id="Complications_Label_Calories" scope="foreground">Calorieën</string>
+<string id="Complications_Label_Current" scope="foreground">Huidig</string>
+<string id="Complications_Label_Descended" scope="foreground">Afgedaald</string>
+<string id="Complications_Label_Distance" scope="foreground">Afstand</string>
+<string id="Complications_Label_Floors" scope="foreground">Vloeren</string>
+<string id="Complications_Label_Heading" scope="foreground">Kop</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Graden</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Ware Noorden</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Hartslag</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Hartslagzone</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Verplaats niveau</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Herstel</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Ademhaling</string>
+<string id="Complications_Label_Speed" scope="foreground">Snelheid</string>
+<string id="Complications_Label_Steps" scope="foreground">Stappen</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Zonsopgang</string>
+<string id="Complications_Label_Sunset" scope="foreground">Zonsondergang</string>
+<string id="Complications_Label_Temperature" scope="foreground">Temperatuur</string>
+<string id="Complications_Label_Today" scope="foreground">Vandaag</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Morgen</string>
+<string id="Complications_Label_Total" scope="foreground">Totaal</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Temperatuur</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Voelt als</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Hoog/Laag</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Regenkans</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Vochtigheid</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Windsnelheid</string>
+<string id="Complications_Label_Week" scope="foreground">Week</string>
+<string id="Complications_TopColor" scope="foreground">Kleur bovenste gegevens</string>
+<string id="Complications_TopType" scope="foreground">Topgegevensitem</string>
+<string id="Complications_TopType_0" scope="foreground">Geen</string>
+<string id="Complications_TopType_1" scope="foreground">Actieve minuten vandaag</string>
+<string id="Complications_TopType_10" scope="foreground">Datum</string>
+<string id="Complications_TopType_11" scope="foreground">Daglicht - Zonsopgang</string>
+<string id="Complications_TopType_12" scope="foreground">Daglicht - Zonsondergang</string>
+<string id="Complications_TopType_13" scope="foreground">Daglicht - Volgende gebeurtenis</string>
+<string id="Complications_TopType_14" scope="foreground">Afstand</string>
+<string id="Complications_TopType_15" scope="foreground">Verdiepingen - Oplopend</string>
+<string id="Complications_TopType_16" scope="foreground">Verdiepingen - Afgedaald</string>
+<string id="Complications_TopType_17" scope="foreground">Verdiepingen - Totaal</string>
+<string id="Complications_TopType_18" scope="foreground">Hartslag</string>
+<string id="Complications_TopType_19" scope="foreground">Hartslagzone</string>
+<string id="Complications_TopType_2" scope="foreground">Actieve minuten deze week</string>
+<string id="Complications_TopType_20" scope="foreground">Niveau verplaatsen</string>
+<string id="Complications_TopType_21" scope="foreground">Ademhalingsfrequentie</string>
+<string id="Complications_TopType_22" scope="foreground">Druk op zeeniveau</string>
+<string id="Complications_TopType_23" scope="foreground">Snelheid (GPS nodig)</string>
+<string id="Complications_TopType_24" scope="foreground">Stappen</string>
+<string id="Complications_TopType_25" scope="foreground">Temperatuur</string>
+<string id="Complications_TopType_26" scope="foreground">Tijd tot herstel</string>
+<string id="Complications_TopType_27" scope="foreground">Weer - voelt als</string>
+<string id="Complications_TopType_28" scope="foreground">Weer - voorspeld hoog/laag</string>
+<string id="Complications_TopType_29" scope="foreground">Weer - Kans op neerslag</string>
+<string id="Complications_TopType_3" scope="foreground">Hoogte</string>
+<string id="Complications_TopType_30" scope="foreground">Weer - Relatieve vochtigheid</string>
+<string id="Complications_TopType_31" scope="foreground">Weer - Temperatuur</string>
+<string id="Complications_TopType_32" scope="foreground">Weer - Windsnelheid</string>
+<string id="Complications_TopType_4" scope="foreground">Omgevingsdruk</string>
+<string id="Complications_TopType_5" scope="foreground">Bodybatterij</string>
+<string id="Complications_TopType_6" scope="foreground">Calorieën</string>
+<string id="Complications_TopType_7" scope="foreground">Huidige koers - Graden</string>
+<string id="Complications_TopType_8" scope="foreground">Huidige koers - NAVO-graden</string>
+<string id="Complications_TopType_9" scope="foreground">Huidige kop - NESW</string>
+<string id="Complications_Type" scope="foreground">Gegevensitem</string>
+<string id="Complications_Type_0" scope="foreground">Geen</string>
+<string id="Complications_Type_1" scope="foreground">Actieve minuten vandaag</string>
+<string id="Complications_Type_10" scope="foreground">Datum</string>
+<string id="Complications_Type_11" scope="foreground">Daglicht - Zonsopgang</string>
+<string id="Complications_Type_12" scope="foreground">Daglicht - Zonsondergang</string>
+<string id="Complications_Type_13" scope="foreground">Daglicht - Volgende gebeurtenis</string>
+<string id="Complications_Type_14" scope="foreground">Afstand</string>
+<string id="Complications_Type_15" scope="foreground">Verdiepingen - Opgelopen</string>
+<string id="Complications_Type_16" scope="foreground">Verdiepingen - Afgedaald</string>
+<string id="Complications_Type_17" scope="foreground">Verdiepingen - Totaal</string>
+<string id="Complications_Type_18" scope="foreground">Hartslag</string>
+<string id="Complications_Type_19" scope="foreground">Hartslagzone</string>
+<string id="Complications_Type_2" scope="foreground">Actieve minuten deze week</string>
+<string id="Complications_Type_20" scope="foreground">Verplaats niveau</string>
+<string id="Complications_Type_21" scope="foreground">Ademhalingsfrequentie</string>
+<string id="Complications_Type_22" scope="foreground">Druk op zeeniveau</string>
+<string id="Complications_Type_23" scope="foreground">Snelheid (GPS nodig)</string>
+<string id="Complications_Type_24" scope="foreground">Stappen</string>
+<string id="Complications_Type_25" scope="foreground">Temperatuur</string>
+<string id="Complications_Type_26" scope="foreground">Tijd tot herstel</string>
+<string id="Complications_Type_27" scope="foreground">Weer - voelt als</string>
+<string id="Complications_Type_28" scope="foreground">Weer - voorspeld hoog/laag</string>
+<string id="Complications_Type_29" scope="foreground">Weer - Kans op neerslag</string>
+<string id="Complications_Type_3" scope="foreground">Hoogte</string>
+<string id="Complications_Type_30" scope="foreground">Weer - Relatieve vochtigheid</string>
+<string id="Complications_Type_31" scope="foreground">Weer - Temperatuur</string>
+<string id="Complications_Type_32" scope="foreground">Weer - Windsnelheid</string>
+<string id="Complications_Type_4" scope="foreground">Omgevingsdruk</string>
+<string id="Complications_Type_5" scope="foreground">Bodybatterij</string>
+<string id="Complications_Type_6" scope="foreground">Calorieën</string>
+<string id="Complications_Type_7" scope="foreground">Huidige koers - Graden</string>
+<string id="Complications_Type_8" scope="foreground">Huidige koers - NAVO-graden</string>
+<string id="Complications_Type_9" scope="foreground">Huidige koers - NESW</string>
+<string id="Coordinates" scope="foreground">Coördinaten</string>
+<string id="Coordinates_Format" scope="foreground">Formaat</string>
+<string id="Coordinates_Format_0" scope="foreground">Graden</string>
+<string id="Coordinates_Format_1" scope="foreground">Graden/Minuten</string>
+<string id="Coordinates_Format_2" scope="foreground">Graden/Minuten/Seconden</string>
+<string id="Coordinates_Format_3" scope="foreground">Militair rasterreferentiesysteem</string>
+<string id="Days" scope="foreground">Dagen</string>
+<string id="Days_Color" scope="foreground">Ringkleur</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Tekstgrootte vergroten</string>
+<string id="Days_Goal" scope="foreground">Doel</string>
+<string id="Days_TextColor" scope="foreground">Tekstkleur</string>
+<string id="Days_TextGoalColor" scope="foreground">Doeltekstkleur</string>
+<string id="Days_Type" scope="foreground">Statistiek</string>
+<string id="Days_Type_0" scope="foreground">Geen</string>
+<string id="Days_Type_1" scope="foreground">Stappen</string>
+<string id="Days_Type_2" scope="foreground">Vloeren</string>
+<string id="Days_Type_3" scope="foreground">Actieve minuten</string>
+<string id="Days_Type_4" scope="foreground">Calorieën</string>
+<string id="Days_Type_5" scope="foreground">Afstand</string>
+<string id="Global_Settings" scope="foreground">Instellingen</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Gebruik GPS</string>
+<string id="GPS_Latitude" scope="foreground">Breedtegraad</string>
+<string id="GPS_Longitude" scope="foreground">Lengtegraad</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Hartslag</string>
+<string id="HeartRate_Adjustment" scope="foreground">Aanpassing</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Rusten</string>
+<string id="History" scope="foreground">Geschiedenis</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Verminder amplificatie</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">LAATSTE $1$ UREN</string>
+<string id="History_Type" scope="foreground">Grafiekstijl</string>
+<string id="History_Type_0" scope="foreground">Kolom</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">GPS-positie verkrijgen, zorg voor een duidelijk zicht op de lucht.</string>
+<string id="Location_InvalidLong" scope="foreground">Kan de locatie niet verkrijgen. Controleer de GPS of instellingen van het apparaat.</string>
+<string id="Location_InvalidShort" scope="glance">Ongeldige locatie</string>
+<string id="Location_RequiredLong" scope="foreground">GPS-positie nodig, tik of selecteer een widget.</string>
+<string id="Location_RequiredShort" scope="glance">Locatie vereist</string>
+<string id="LowBattery" scope="foreground">Batterij bijna leeg</string>
+<string id="LowBattery_Enabled" scope="foreground">Schakel de modus voor een lage batterij in</string>
+<string id="MinimalDays" scope="foreground">Minimale dagen</string>
+<string id="MIP" scope="foreground">MIP-apparaten</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Omhoog/Tik om te ontwaken</string>
+<string id="Months_April" scope="foreground">april</string>
+<string id="Months_August" scope="foreground">Augustus</string>
+<string id="Months_December" scope="foreground">December</string>
+<string id="Months_February" scope="foreground">Februari</string>
+<string id="Months_January" scope="foreground">Januari</string>
+<string id="Months_July" scope="foreground">Juli</string>
+<string id="Months_June" scope="foreground">Juni</string>
+<string id="Months_March" scope="foreground">Maart</string>
+<string id="Months_May" scope="foreground">Mei</string>
+<string id="Months_November" scope="foreground">november</string>
+<string id="Months_October" scope="foreground">Oktober</string>
+<string id="Months_September" scope="foreground">September</string>
+<string id="SimplyElegant" scope="foreground">Gewoon elegant</string>
+<string id="Slaap" scope="foreground">Slaap</string>
+<string id="Sleep_Enabled" scope="foreground">Slaapmodus inschakelen</string>
+<string id="StormAlert" scope="foreground">Alert drukverandering</string>
+<string id="StormAlert_Active" scope="foreground">Waarschuwing</string>
+<string id="StormAlert_Message" scope="foreground">Bericht</string>
+<string id="StormAlert_MessageError" scope="foreground">Het bericht is vereist</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Veranderingssnelheid</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 millibar per 3 uur</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 millibar per 3 uur</string>
+<string id="SunTimes" scope="glance">Zontijden</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Volgende gebeurtenis binnen</string>
+<string id="SunTimes_Sunrise" scope="foreground">Zonsopgang</string>
+<string id="SunTimes_SunriseIn" scope="glance">Zonsopgang in</string>
+<string id="SunTimes_Sunset" scope="foreground">Zonsondergang</string>
+<string id="SunTimes_SunsetIn" scope="glance">Zonsondergang</string>
+<string id="SunTimes_Today" scope="foreground">Vandaag</string>
+<string id="Systeem" scope="foreground">Statuspictogrammen</string>
+<string id="System_AlarmsEnabled" scope="foreground">Alarmpictogram</string>
+<string id="System_BatteryDay" scope="foreground">Dag</string>
+<string id="System_BatteryDays" scope="foreground">Dagen</string>
+<string id="System_BatteryEnabled" scope="foreground">Batterijpictogram</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth-pictogram</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Niet storen-pictogram</string>
+<string id="System_NotificationsEnabled" scope="foreground">Meldingspictogram</string>
+<string id="Temperature" scope="glance">Temperatuur</string>
+<string id="Temperature_Adjustment" scope="foreground">Aanpassing</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Converteren naar kern</string>
+<string id="Time" scope="foreground">Tijd</string>
+<string id="Time_DisplayFormat" scope="foreground">Weergaveformaat</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Standaard</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 uur</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 uur</string>
+<string id="Time_NextEventEnabled" scope="foreground">Volgende gebeurtenis weergeven</string>
+<string id="Twilight" scope="foreground">Schemering</string>
+<string id="Twilight_Level" scope="foreground">Niveau</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomisch</string>
+<string id="Twilight_Level_1" scope="foreground">Nautisch</string>
+<string id="Twilight_Level_2" scope="foreground">Civil</string>
+<string id="Units" scope="foreground">Eenheden</string>
+<string id="Units_Date" scope="foreground">Datum</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD JJ</string>
+<string id="Units_Date_3" scope="foreground">DD MMM JJ</string>
+<string id="Units_Pressure" scope="foreground">Barometer</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Gebruik een groter lettertype</string>
+<string id="UX_MeterHandStyle" scope="foreground">Meterwijzerstijl</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Stijl 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Stijl 2</string>

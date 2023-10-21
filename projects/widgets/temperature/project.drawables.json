@@ -1,0 +1,1124 @@
+{
+	"drawables": [
+		{
+			"suffix": "",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 35,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 20,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "68x120",
+					"color": "FFFFFF",
+					"x": "102",
+					"y": "20"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "114",
+				      "radius": "18",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "114",
+				      "radius": "18",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "114",
+				      "radius": "18",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "114",
+				      "radius": "18",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "129",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		},
+		{
+			"suffix": "round-218x218",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 30,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 20,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "61x110",
+					"color": "FFFFFF",
+					"x": "85",
+					"y": "10"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "96",
+				      "radius": "16",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "101",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "96",
+				      "radius": "16",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "101",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "96",
+				      "radius": "16",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "101",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "96",
+				      "radius": "16",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "109",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "101",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		},
+		{
+			"suffix": "round-240x240",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 30,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 20,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "61x110",
+					"color": "FFFFFF",
+					"x": "96",
+					"y": "25"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "111",
+				      "radius": "16",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "112",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "111",
+				      "radius": "16",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "112",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "111",
+				      "radius": "16",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "112",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "111",
+				      "radius": "16",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "120",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "7",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "112",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "16",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		},
+		{
+			"suffix": "round-280x280",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 35,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 20,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "72x130",
+					"color": "FFFFFF",
+					"x": "111",
+					"y": "25"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "127",
+				      "radius": "19",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "130",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "127",
+				      "radius": "19",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "130",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "127",
+				      "radius": "19",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "130",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "127",
+				      "radius": "19",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "139",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "9",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "130",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "19",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		},
+		{
+			"suffix": "round-360x360",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 64,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 30,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "105x190",
+					"color": "FFFFFF",
+					"x": "139",
+					"y": "15"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "164",
+				      "radius": "28",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "13",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "166",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "164",
+				      "radius": "28",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "13",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "166",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "164",
+				      "radius": "28",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "13",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "166",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "164",
+				      "radius": "28",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "180",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "13",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "166",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		},
+		{
+			"suffix": "round-390x390",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 64,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 35,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "111x200",
+					"color": "FFFFFF",
+					"x": "150",
+					"y": "20"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "177",
+				      "radius": "30",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "14",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "179",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "177",
+				      "radius": "30",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "14",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "179",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "177",
+				      "radius": "30",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "14",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "179",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "177",
+				      "radius": "30",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "193",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "14",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "179",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "29",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		},
+		{
+			"suffix": "round-416x416",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 64,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 35,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "117x210",
+					"color": "FFFFFF",
+					"x": "164",
+					"y": "25"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "194",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "194",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "194",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "194",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		},
+		{
+			"suffix": "round-454x454",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "temperature",
+					"size": 64,
+					"color": "FFAA55"
+				},
+				{
+					"type": "bitmap",
+					"id": "HeaderIcon",
+					"name": "temperature",
+					"size": 35,
+					"color": "FFAA55"
+				},
+				{
+					"type": "drawable-list",
+					"id": "Thermometer",
+					"name": "thermometer",
+					"size": "117x210",
+					"color": "FFFFFF",
+					"x": "180",
+					"y": "25"
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCold",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_BLUE"
+						},
+						{
+							"type": "rectangle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_BLUE"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerCool",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_DK_GREEN"
+						},
+						{
+							"type": "rectangle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_DK_GREEN"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerWarm",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_YELLOW"
+						},
+						{
+							"type": "rectangle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_YELLOW"
+						}
+					]
+				},
+				{
+					"type": "shapes",
+					"id": "ThermometerHot",
+					"shapes": [
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "190",
+				      "radius": "32",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "circle",
+				      "x": "226",
+				      "y": "$.THERMOMETER_Y",
+				      "radius": "15.5",
+				      "color": "COLOR_RED"
+						},
+						{
+							"type": "rectangle",
+				      "x": "210",
+				      "y": "$.THERMOMETER_Y",
+				      "width": "33",
+				      "height": "$.THERMOMETER_HEIGHT",
+				      "color": "COLOR_RED"
+						}
+					]
+				}
+			]
+		}
+	]
+}

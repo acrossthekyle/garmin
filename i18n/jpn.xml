@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">高度</string>
+<string id="Altitude_Ascent" scope="foreground">上昇</string>
+<string id="Altitude_Descent" scope="foreground">降下</string>
+<string id="Altitude_Oxygen" scope="foreground">酸素</string>
+<string id="Altitude_Precision" scope="foreground">精度</string>
+<string id="Altitude_Precision_0" scope="foreground">0 小数点以下</string>
+<string id="Altitude_Precision_1" scope="foreground">10 進数 1 </string>
+<string id="Altitude_Precision_2" scope="foreground">小数点 2 桁</string>
+<string id="Altitude_Risk" scope="foreground">リスク</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">なし</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">単位を表示</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">エクストリーム</string>
+<string id="Altitude_ZoneHigh" scope="foreground">高</string>
+<string id="Altitude_ZoneLow" scope="foreground">低</string>
+<string id="Altitude_ZoneModerate" scope="foreground">中程度</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">非常に高い</string>
+<string id="AOD" scope="foreground">AMOLED デバイス</string>
+<string id="AOD_Enabled" scope="foreground">AOD モードを有効にする</string>
+<string id="Barometer" scope="glance">気圧</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">測定単位</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">単位を表示</string>
+<string id="Clock" scope="foreground">時計</string>
+<string id="Clock_AmPmColor" scope="foreground">午前/午後の色</string>
+<string id="Clock_AmPmEnabled" scope="foreground">午前/午後を表示</string>
+<string id="Clock_Enlarge" scope="foreground">時計のテキストを拡大する</string>
+<string id="Clock_HoursColor" scope="foreground">時間の色</string>
+<string id="Clock_MinutesColor" scope="foreground">分の色</string>
+<string id="Clock_SecondsColor" scope="foreground">秒の色</string>
+<string id="Clock_SecondsEnabled" scope="foreground">秒を表示</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">アクティブなときのみ秒を有効にする</string>
+<string id="Compass" scope="glance">コンパス</string>
+<string id="Compass_Color" scope="foreground">色</string>
+<string id="Compass_Declination" scope="foreground">赤緯</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">度の形式</string>
+<string id="Compass_Deviation" scope="foreground">偏差</string>
+<string id="Compass_Mils" scope="foreground">6400 ミル (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">リフレッシュ レート</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ミリ秒</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ミリ秒</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ミリ秒</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 秒</string>
+<string id="Complications" scope="foreground">合併症</string>
+<string id="Complications_BottomColor" scope="foreground">下部データの色</string>
+<string id="Complications_BottomType" scope="foreground">最下位データ項目</string>
+<string id="Complications_BottomType_0" scope="foreground">なし</string>
+<string id="Complications_BottomType_1" scope="foreground">今日のアクティブ時間（分）</string>
+<string id="Complications_BottomType_10" scope="foreground">日付</string>
+<string id="Complications_BottomType_11" scope="foreground">日光 - 日の出</string>
+<string id="Complications_BottomType_12" scope="foreground">日中 - 日没</string>
+<string id="Complications_BottomType_13" scope="foreground">デイライト - 次のイベント</string>
+<string id="Complications_BottomType_14" scope="foreground">距離</string>
+<string id="Complications_BottomType_15" scope="foreground">フロア - アセンデッド</string>
+<string id="Complications_BottomType_16" scope="foreground">フロア - 降順</string>
+<string id="Complications_BottomType_17" scope="foreground">フロア - 合計</string>
+<string id="Complications_BottomType_18" scope="foreground">心拍数</string>
+<string id="Complications_BottomType_19" scope="foreground">心拍数ゾーン</string>
+<string id="Complications_BottomType_2" scope="foreground">今週のアクティブ時間（分）</string>
+<string id="Complications_BottomType_20" scope="foreground">レベルを移動</string>
+<string id="Complications_BottomType_21" scope="foreground">呼吸数</string>
+<string id="Complications_BottomType_22" scope="foreground">海面気圧</string>
+<string id="Complications_BottomType_23" scope="foreground">速度 (GPS が必要)</string>
+<string id="Complications_BottomType_24" scope="foreground">手順</string>
+<string id="Complications_BottomType_25" scope="foreground">温度</string>
+<string id="Complications_BottomType_26" scope="foreground">回復までの時間</string>
+<string id="Complications_BottomType_27" scope="foreground">天気 - 気分</string>
+<string id="Complications_BottomType_28" scope="foreground">天気 - 予想最高値/最低値</string>
+<string id="Complications_BottomType_29" scope="foreground">天気 - 降水確率</string>
+<string id="Complications_BottomType_3" scope="foreground">高度</string>
+<string id="Complications_BottomType_30" scope="foreground">天気 - 相対湿度</string>
+<string id="Complications_BottomType_31" scope="foreground">天気 - 気温</string>
+<string id="Complications_BottomType_32" scope="foreground">天気 - 風速</string>
+<string id="Complications_BottomType_4" scope="foreground">周囲気圧</string>
+<string id="Complications_BottomType_5" scope="foreground">ボディバッテリー</string>
+<string id="Complications_BottomType_6" scope="foreground">カロリー</string>
+<string id="Complications_BottomType_7" scope="foreground">現在の進行方向 - 度</string>
+<string id="Complications_BottomType_8" scope="foreground">現在の方向 - NATO 度</string>
+<string id="Complications_BottomType_9" scope="foreground">現在の見出し - NESW</string>
+<string id="Complications_Color" scope="foreground">データの色</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">データのテキスト サイズを拡大する</string>
+<string id="Complications_IconEnabled" scope="foreground">アイコンを有効にする</string>
+<string id="Complications_Label_Active" scope="foreground">アクティブ</string>
+<string id="Complications_Label_Altitude" scope="foreground">標高</string>
+<string id="Complications_Label_Ascended" scope="foreground">アセンデッド</string>
+<string id="Complications_Label_Barometer" scope="foreground">バロメーター</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">ボディバッテリー</string>
+<string id="Complications_Label_Calories" scope="foreground">カロリー</string>
+<string id="Complications_Label_Current" scope="foreground">現在</string>
+<string id="Complications_Label_Descended" scope="foreground">降順</string>
+<string id="Complications_Label_Distance" scope="foreground">距離</string>
+<string id="Complications_Label_Floors" scope="foreground">フロア</string>
+<string id="Complications_Label_Heading" scope="foreground">見出し</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">学位</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">真北</string>
+<string id="Complications_Label_HeartRate" scope="foreground">心拍数</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">心拍数ゾーン</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">レベルの移動</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">リカバリ</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">呼吸</string>
+<string id="Complications_Label_Speed" scope="foreground">速度</string>
+<string id="Complications_Label_Steps" scope="foreground">ステップ</string>
+<string id="Complications_Label_Sunrise" scope="foreground">日の出</string>
+<string id="Complications_Label_Sunset" scope="foreground">日没</string>
+<string id="Complications_Label_Temperature" scope="foreground">温度</string>
+<string id="Complications_Label_Today" scope="foreground">今日</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">明日</string>
+<string id="Complications_Label_Total" scope="foreground">合計</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">温度</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">こんな感じ</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">高値/低値</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">降水確率</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">湿度</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">風速</string>
+<string id="Complications_Label_Week" scope="foreground">週</string>
+<string id="Complications_TopColor" scope="foreground">トップデータの色</string>
+<string id="Complications_TopType" scope="foreground">上位データ項目</string>
+<string id="Complications_TopType_0" scope="foreground">なし</string>
+<string id="Complications_TopType_1" scope="foreground">今日のアクティブ時間（分）</string>
+<string id="Complications_TopType_10" scope="foreground">日付</string>
+<string id="Complications_TopType_11" scope="foreground">昼光 - 日の出</string>
+<string id="Complications_TopType_12" scope="foreground">日中 - 日没</string>
+<string id="Complications_TopType_13" scope="foreground">デイライト - 次のイベント</string>
+<string id="Complications_TopType_14" scope="foreground">距離</string>
+<string id="Complications_TopType_15" scope="foreground">フロア - アセンデッド</string>
+<string id="Complications_TopType_16" scope="foreground">フロア - 降順</string>
+<string id="Complications_TopType_17" scope="foreground">フロア - 合計</string>
+<string id="Complications_TopType_18" scope="foreground">心拍数</string>
+<string id="Complications_TopType_19" scope="foreground">心拍数ゾーン</string>
+<string id="Complications_TopType_2" scope="foreground">今週のアクティブ時間</string>
+<string id="Complications_TopType_20" scope="foreground">レベルを移動</string>
+<string id="Complications_TopType_21" scope="foreground">呼吸数</string>
+<string id="Complications_TopType_22" scope="foreground">海面気圧</string>
+<string id="Complications_TopType_23" scope="foreground">速度 (GPS が必要)</string>
+<string id="Complications_TopType_24" scope="foreground">手順</string>
+<string id="Complications_TopType_25" scope="foreground">温度</string>
+<string id="Complications_TopType_26" scope="foreground">回復までの時間</string>
+<string id="Complications_TopType_27" scope="foreground">天気 - 気分</string>
+<string id="Complications_TopType_28" scope="foreground">天気 - 予想最高値/最低値</string>
+<string id="Complications_TopType_29" scope="foreground">天気 - 降水確率</string>
+<string id="Complications_TopType_3" scope="foreground">高度</string>
+<string id="Complications_TopType_30" scope="foreground">天気 - 相対湿度</string>
+<string id="Complications_TopType_31" scope="foreground">天気 - 気温</string>
+<string id="Complications_TopType_32" scope="foreground">天気 - 風速</string>
+<string id="Complications_TopType_4" scope="foreground">周囲気圧</string>
+<string id="Complications_TopType_5" scope="foreground">ボディバッテリー</string>
+<string id="Complications_TopType_6" scope="foreground">カロリー</string>
+<string id="Complications_TopType_7" scope="foreground">現在の進行方向 - 度</string>
+<string id="Complications_TopType_8" scope="foreground">現在の見出し - NATO 度</string>
+<string id="Complications_TopType_9" scope="foreground">現在の見出し - NESW</string>
+<string id="Complications_Type" scope="foreground">データ項目</string>
+<string id="Complications_Type_0" scope="foreground">なし</string>
+<string id="Complications_Type_1" scope="foreground">今日のアクティブ時間（分）</string>
+<string id="Complications_Type_10" scope="foreground">日付</string>
+<string id="Complications_Type_11" scope="foreground">昼光 - 日の出</string>
+<string id="Complications_Type_12" scope="foreground">日中 - 日没</string>
+<string id="Complications_Type_13" scope="foreground">デイライト - 次のイベント</string>
+<string id="Complications_Type_14" scope="foreground">距離</string>
+<string id="Complications_Type_15" scope="foreground">フロア - アセンデッド</string>
+<string id="Complications_Type_16" scope="foreground">フロア - 降順</string>
+<string id="Complications_Type_17" scope="foreground">フロア - 合計</string>
+<string id="Complications_Type_18" scope="foreground">心拍数</string>
+<string id="Complications_Type_19" scope="foreground">心拍数ゾーン</string>
+<string id="Complications_Type_2" scope="foreground">今週のアクティブ時間（分）</string>
+<string id="Complications_Type_20" scope="foreground">レベルを移動</string>
+<string id="Complications_Type_21" scope="foreground">呼吸数</string>
+<string id="Complications_Type_22" scope="foreground">海面気圧</string>
+<string id="Complications_Type_23" scope="foreground">速度 (GPS が必要)</string>
+<string id="Complications_Type_24" scope="foreground">手順</string>
+<string id="Complications_Type_25" scope="foreground">温度</string>
+<string id="Complications_Type_26" scope="foreground">回復までの時間</string>
+<string id="Complications_Type_27" scope="foreground">天気 - 気分</string>
+<string id="Complications_Type_28" scope="foreground">天気 - 予想最高値/最低値</string>
+<string id="Complications_Type_29" scope="foreground">天気 - 降水確率</string>
+<string id="Complications_Type_3" scope="foreground">高度</string>
+<string id="Complications_Type_30" scope="foreground">天気 - 相対湿度</string>
+<string id="Complications_Type_31" scope="foreground">天気 - 気温</string>
+<string id="Complications_Type_32" scope="foreground">天気 - 風速</string>
+<string id="Complications_Type_4" scope="foreground">周囲気圧</string>
+<string id="Complications_Type_5" scope="foreground">ボディバッテリー</string>
+<string id="Complications_Type_6" scope="foreground">カロリー</string>
+<string id="Complications_Type_7" scope="foreground">現在の進行方向 - 度</string>
+<string id="Complications_Type_8" scope="foreground">現在の見出し - NATO 度</string>
+<string id="Complications_Type_9" scope="foreground">現在の見出し - NESW</string>
+<string id="Coordinates" scope="foreground">座標</string>
+<string id="Coordinates_Format" scope="foreground">形式</string>
+<string id="Coordinates_Format_0" scope="foreground">度</string>
+<string id="Coordinates_Format_1" scope="foreground">度/分</string>
+<string id="Coordinates_Format_2" scope="foreground">度/分/秒</string>
+<string id="Coordinates_Format_3" scope="foreground">軍事グリッド参照システム</string>
+<string id="Days" scope="foreground">日数</string>
+<string id="Days_Color" scope="foreground">リングの色</string>
+<string id="Days_EnlargeEnabled" scope="foreground">テキスト サイズを拡大する</string>
+<string id="Days_Goal" scope="foreground">目標</string>
+<string id="Days_TextColor" scope="foreground">テキストの色</string>
+<string id="Days_TextGoalColor" scope="foreground">目標のテキストの色</string>
+<string id="Days_Type" scope="foreground">指標</string>
+<string id="Days_Type_0" scope="foreground">なし</string>
+<string id="Days_Type_1" scope="foreground">手順</string>
+<string id="Days_Type_2" scope="foreground">フロア</string>
+<string id="Days_Type_3" scope="foreground">アクティブな時間 (分)</string>
+<string id="Days_Type_4" scope="foreground">カロリー</string>
+<string id="Days_Type_5" scope="foreground">距離</string>
+<string id="Global_Settings" scope="foreground">設定</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">GPS を使用する</string>
+<string id="GPS_Latitude" scope="foreground">緯度</string>
+<string id="GPS_Longitude" scope="foreground">経度</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">心拍数</string>
+<string id="HeartRate" scope="glance">心拍数</string>
+<string id="HeartRate_Adjustment" scope="foreground">調整</string>
+<string id="HeartRate_HRV" scope="foreground">心拍数</string>
+<string id="HeartRate_Resting" scope="foreground">休憩中</string>
+<string id="History" scope="foreground">履歴</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">増幅を減らす</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">過去 $1$ 時間</string>
+<string id="History_Type" scope="foreground">グラフのスタイル</string>
+<string id="History_Type_0" scope="foreground">列</string>
+<string id="History_Type_1" scope="foreground">スプライン</string>
+<string id="Location_Acquiring" scope="foreground">GPS 位置を取得するには、空がよく見えるようにしてください。</string>
+<string id="Location_InvalidLong" scope="foreground">位置情報を取得できません。デバイスの GPS または設定を確認してください。</string>
+<string id="Location_InvalidShort" scope="glance">無効な場所</string>
+<string id="Location_RequiredLong" scope="foreground">GPS 位置が必要です。ウィジェットをタップするか選択してください。</string>
+<string id="Location_RequiredShort" scope="glance">場所が必要です</string>
+<string id="LowBattery" scope="foreground">バッテリー残量低下</string>
+<string id="LowBattery_Enabled" scope="foreground">低バッテリーモードを有効にする</string>
+<string id="MinimalDays" scope="foreground">最小日数</string>
+<string id="MIP" scope="foreground">MIP デバイス</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">レイズ/タップしてウェイクアップ</string>
+<string id="Months_April" scope="foreground">4 月</string>
+<string id="Months_August" scope="foreground">8月</string>
+<string id="Months_December" scope="foreground">12 月</string>
+<string id="Months_February" scope="foreground">2 月</string>
+<string id="Months_January" scope="foreground">1 月</string>
+<string id="Months_July" scope="foreground">7 月</string>
+<string id="Months_June" scope="foreground">6 月</string>
+<string id="Months_March" scope="foreground">3 月</string>
+<string id="Months_May" scope="foreground">5 月</string>
+<string id="Months_November" scope="foreground">11 月</string>
+<string id="Months_October" scope="foreground">10 月</string>
+<string id="Months_September" scope="foreground">9 月</string>
+<string id="SimplyElegant" scope="foreground">シンプルエレガント</string>
+<string id="Sleep" scope="foreground">睡眠</string>
+<string id="Sleep_Enabled" scope="foreground">スリープ モードを有効にする</string>
+<string id="StormAlert" scope="foreground">圧力変化アラート</string>
+<string id="StormAlert_Active" scope="foreground">アラート</string>
+<string id="StormAlert_Message" scope="foreground">メッセージ</string>
+<string id="StormAlert_MessageError" scope="foreground">メッセージは必須です</string>
+<string id="StormAlert_RateOfChange" scope="foreground">変化率</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">3 時間あたり 6 ミリバール</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">3 時間あたり 5.5 ミリバール</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">3 時間あたり 1 ミリバール</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">3 時間あたり 5 ミリバール</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">3 時間あたり 4.5 ミリバール</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">3 時間あたり 4 ミリバール</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3 時間あたり 3.5 ミリバール</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 時間あたり 3 ミリバール</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">3 時間あたり 2.5 ミリバール</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">3 時間あたり 2 ミリバール</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">3 時間あたり 1.5 ミリバール</string>
+<string id="SunTimes" scope="glance">サンタイムズ</string>
+<string id="SunTimes_NextEventIn" scope="foreground">次のイベント</string>
+<string id="SunTimes_Sunrise" scope="foreground">日の出</string>
+<string id="SunTimes_SunriseIn" scope="glance">日の出</string>
+<string id="SunTimes_Sunset" scope="foreground">日没</string>
+<string id="SunTimes_SunsetIn" scope="glance">日没</string>
+<string id="SunTimes_Today" scope="foreground">今日</string>
+<string id="System" scope="foreground">ステータスアイコン</string>
+<string id="System_AlarmsEnabled" scope="foreground">アラーム アイコン</string>
+<string id="System_BatteryDay" scope="foreground">日</string>
+<string id="System_BatteryDays" scope="foreground">日数</string>
+<string id="System_BatteryEnabled" scope="foreground">バッテリー アイコン</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth アイコン</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">応答不可アイコン</string>
+<string id="System_NotificationsEnabled" scope="foreground">通知アイコン</string>
+<string id="Temperature" scope="glance">温度</string>
+<string id="Temperature_Adjustment" scope="foreground">調整</string>
+<string id="Temperature_CoreEnabled" scope="foreground">コアに変換</string>
+<string id="Time" scope="foreground">時間</string>
+<string id="Time_DisplayFormat" scope="foreground">表示形式</string>
+<string id="Time_DisplayFormat_0" scope="foreground">デフォルト</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 時間</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 時間</string>
+<string id="Time_NextEventEnabled" scope="foreground">次のイベントを表示</string>
+<string id="Twilight" scope="foreground">トワイライト</string>
+<string id="Twilight_Level" scope="foreground">レベル</string>
+<string id="Twilight_Level_0" scope="foreground">天文学</string>
+<string id="Twilight_Level_1" scope="foreground">航海</string>
+<string id="Twilight_Level_2" scope="foreground">民間</string>
+<string id="Units" scope="foreground">単位</string>
+<string id="Units_Date" scope="foreground">日付</string>
+<string id="Units_Date_0" scope="foreground">DDDD</string>
+<string id="Units_Date_1" scope="foreground">MMMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM YY</string>
+<string id="Units_Pressure" scope="foreground">気圧</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">ミリバール</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">大きなフォントを使用する</string>
+<string id="UX_MeterHandStyle" scope="foreground">メーター針のスタイル</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">スタイル 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">スタイル 2</string>

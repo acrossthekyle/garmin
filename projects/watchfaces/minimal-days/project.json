@@ -1,0 +1,223 @@
+{
+  "name": "Minimal Days",
+  "id": "13a345b5-37e9-4b11-a319-bc2ee1c52e92",
+  "version": "1.2.2",
+  "modules": [
+    "Positioning",
+    "UserProfile"
+  ],
+  "properties": [
+    {
+      "id": "Complications",
+      "items": [
+        {
+          "id": "Type",
+          "type": "number",
+          "default": 3,
+          "options": 33
+        },
+        {
+          "id": "Color",
+          "type": "color",
+          "default": "0xFFFFFF"
+        },
+        {
+          "id": "IconEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "EnlargeEnabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "Days",
+      "items": [
+        {
+          "id": "Type",
+          "type": "number",
+          "default": 1,
+          "options": 6
+        },
+        {
+          "id": "Goal",
+          "type": "number",
+          "default": 0
+        },
+        {
+          "id": "Color",
+          "type": "color",
+          "default": "0x0055FF"
+        },
+        {
+          "id": "TextColor",
+          "type": "color",
+          "default": "0xFFFFFF"
+        },
+        {
+          "id": "TextGoalColor",
+          "type": "color",
+          "default": "0x0055FF"
+        },
+        {
+          "id": "EnlargeEnabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "Clock",
+      "items": [
+        {
+          "id": "SecondsEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "SecondsOnlyWhenActiveEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "AmPmEnabled",
+          "type": "boolean",
+          "default": false
+        },
+        {
+          "id": "Enlarge",
+          "type": "boolean",
+          "default": false
+        },
+        {
+          "id": "HoursColor",
+          "type": "color",
+          "default": "0xFFFFFF"
+        },
+        {
+          "id": "MinutesColor",
+          "type": "color",
+          "default": "0xFFFFFF"
+        },
+        {
+          "id": "SecondsColor",
+          "type": "color",
+          "default": "0xFFFFFF"
+        },
+        {
+          "id": "AmPmColor",
+          "type": "color",
+          "default": "0xFFFFFF"
+        }
+      ]
+    },
+    {
+      "id": "GPS",
+      "items": [
+        {
+          "id": "Latitude",
+          "type": "float",
+          "default": "0.0"
+        },
+        {
+          "id": "Longitude",
+          "type": "float",
+          "default": "0.0"
+        }
+      ]
+    },
+    {
+      "id": "LowBattery",
+      "items": [
+        {
+          "id": "Enabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "Sleep",
+      "items": [
+        {
+          "id": "Enabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "System",
+      "items": [
+        {
+          "id": "AlarmsEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "BluetoothEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "DoNotDisturbEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "NotificationsEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "BatteryEnabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "AOD",
+      "items": [
+        {
+          "id": "Enabled",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    },
+    {
+      "id": "MIP",
+      "items": [
+        {
+          "id": "RaiseToWakeEnabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "Units",
+      "items": [
+        {
+          "id": "Date",
+          "type": "number",
+          "default": 0,
+          "options": 4
+        },
+        {
+          "id": "Pressure",
+          "type": "number",
+          "default": 0,
+          "options": 4
+        }
+      ]
+    }
+  ],
+  "drawables": [
+    "project.drawables.json"
+  ]
+}

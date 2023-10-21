@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Rakım</string>
+<string id="Altitude_Ascent" scope="foreground">Yükseliş</string>
+<string id="Altitude_Descent" scope="foreground">İniş</string>
+<string id="Altitude_Oxygen" scope="foreground">Oksijen</string>
+<string id="Altitude_Precision" scope="foreground">Hassaslık</string>
+<string id="Altitude_Precision_0" scope="foreground">0 Ondalık Sayı</string>
+<string id="Altitude_Precision_1" scope="foreground">1 Ondalık</string>
+<string id="Altitude_Precision_2" scope="foreground">2 Ondalık Sayı</string>
+<string id="Altitude_Risk" scope="foreground">Risk</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Yok</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Birimleri Göster</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Ekstrem</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Yüksek</string>
+<string id="Altitude_ZoneLow" scope="foreground">Düşük</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Orta</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Çok Yüksek</string>
+<string id="AOD" scope="foreground">AMOLED Cihazlar</string>
+<string id="AOD_Enabled" scope="foreground">AOD Modunu Etkinleştir</string>
+<string id="Barometer" scope="glance">Barometre</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Ölçü Birimi</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Birimleri Göster</string>
+<string id="Clock" scope="foreground">Saat</string>
+<string id="Clock_AmPmColor" scope="foreground">AM/PM Rengi</string>
+<string id="Clock_AmPmEnabled" scope="foreground">AM/PM'yi Göster</string>
+<string id="Clock_Enlarge" scope="foreground">Saat Metnini Büyüt</string>
+<string id="Clock_HoursColor" scope="foreground">Saat Rengi</string>
+<string id="Clock_MinutesColor" scope="foreground">Dakika Rengi</string>
+<string id="Clock_SecondsColor" scope="foreground">Saniye Rengi</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Saniyeyi Göster</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Yalnızca Etkin Olduğunda Saniyeleri Etkinleştir</string>
+<string id="Compass" scope="glance">Pusula</string>
+<string id="Compass_Color" scope="foreground">Renk</string>
+<string id="Compass_Declination" scope="foreground">Sapma</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Derece Biçimi</string>
+<string id="Compass_Deviation" scope="foreground">Sapma</string>
+<string id="Compass_Mils" scope="foreground">6400 Mil (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Yenileme Hızı</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Complications" scope="foreground">Komplikasyonlar</string>
+<string id="Complications_BottomColor" scope="foreground">Alt Veri Rengi</string>
+<string id="Complications_BottomType" scope="foreground">Alt Veri Öğesi</string>
+<string id="Complications_BottomType_0" scope="foreground">Yok</string>
+<string id="Complications_BottomType_1" scope="foreground">Bugünün Etkin Dakikaları</string>
+<string id="Complications_BottomType_10" scope="foreground">Tarih</string>
+<string id="Complications_BottomType_11" scope="foreground">Gün Işığı - Gün Doğumu</string>
+<string id="Complications_BottomType_12" scope="foreground">Gün Işığı - Gün Batımı</string>
+<string id="Complications_BottomType_13" scope="foreground">Gün Işığı - Sonraki Etkinlik</string>
+<string id="Complications_BottomType_14" scope="foreground">Mesafe</string>
+<string id="Complications_BottomType_15" scope="foreground">Katlar - Yükseltilmiş</string>
+<string id="Complications_BottomType_16" scope="foreground">Zeminler - Azalan</string>
+<string id="Complications_BottomType_17" scope="foreground">Katlar - Toplam</string>
+<string id="Complications_BottomType_18" scope="foreground">Kalp Atış Hızı</string>
+<string id="Complications_BottomType_19" scope="foreground">Kalp Atış Hızı Bölgesi</string>
+<string id="Complications_BottomType_2" scope="foreground">Bu Haftanın Etkin Dakikaları</string>
+<string id="Complications_BottomType_20" scope="foreground">Seviyeyi Taşı</string>
+<string id="Complications_BottomType_21" scope="foreground">Solunum Hızı</string>
+<string id="Complications_BottomType_22" scope="foreground">Deniz Seviyesi Basıncı</string>
+<string id="Complications_BottomType_23" scope="foreground">Hız (GPS Gerekir)</string>
+<string id="Complications_BottomType_24" scope="foreground">Adımlar</string>
+<string id="Complications_BottomType_25" scope="foreground">Sıcaklık</string>
+<string id="Complications_BottomType_26" scope="foreground">İyileşme Zamanı</string>
+<string id="Complications_BottomType_27" scope="foreground">Hava Durumu - Öyle Hissettiriyor</string>
+<string id="Complications_BottomType_28" scope="foreground">Hava Durumu - Tahmini Yüksek/Düşük</string>
+<string id="Complications_BottomType_29" scope="foreground">Hava Durumu - Yağış Olasılığı</string>
+<string id="Complications_BottomType_3" scope="foreground">Yükseklik</string>
+<string id="Complications_BottomType_30" scope="foreground">Hava Durumu - Bağıl Nem</string>
+<string id="Complications_BottomType_31" scope="foreground">Hava Durumu - Sıcaklık</string>
+<string id="Complications_BottomType_32" scope="foreground">Hava Durumu - Rüzgar Hızı</string>
+<string id="Complications_BottomType_4" scope="foreground">Ortam Basıncı</string>
+<string id="Complications_BottomType_5" scope="foreground">Gövde Pili</string>
+<string id="Complications_BottomType_6" scope="foreground">Kalori</string>
+<string id="Complications_BottomType_7" scope="foreground">Geçerli Başlık - Dereceler</string>
+<string id="Complications_BottomType_8" scope="foreground">Mevcut Başlık - NATO Dereceleri</string>
+<string id="Complications_BottomType_9" scope="foreground">Geçerli Başlık - NESW</string>
+<string id="Complications_Color" scope="foreground">Veri Rengi</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Veri Metni Boyutunu Büyüt</string>
+<string id="Complications_IconEnabled" scope="foreground">Simgeyi Etkinleştir</string>
+<string id="Complications_Label_Active" scope="foreground">Etkin</string>
+<string id="Complications_Label_Altitude" scope="foreground">Yükseklik</string>
+<string id="Complications_Label_Ascending" scope="foreground">Arttı</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometre</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Gövde Pili</string>
+<string id="Complications_Label_Calories" scope="foreground">Kalori</string>
+<string id="Complications_Label_Current" scope="foreground">Geçerli</string>
+<string id="Complications_Label_Desculated" scope="foreground">Aşağı</string>
+<string id="Complications_Label_Distance" scope="foreground">Mesafe</string>
+<string id="Complications_Label_Floors" scope="foreground">Zeminler</string>
+<string id="Complications_Label_Heading" scope="foreground">Başlık</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Derece</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Gerçek Kuzey</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Kalp Atış Hızı</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Kalp Atış Hızı Bölgesi</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Seviyeyi Taşı</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Kurtarma</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Solunum</string>
+<string id="Complications_Label_Speed" scope="foreground">Hız</string>
+<string id="Complications_Label_Steps" scope="foreground">Adımlar</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Gündoğumu</string>
+<string id="Complications_Label_Sunset" scope="foreground">Gün Batımı</string>
+<string id="Complications_Label_Temperature" scope="foreground">Sıcaklık</string>
+<string id="Complications_Label_Today" scope="foreground">Bugün</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Yarın</string>
+<string id="Complications_Label_Total" scope="foreground">Toplam</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Sıcaklık</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Öyle Hissediyor</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Yüksek/Düşük</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Yağmur Olasılığı</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Nem</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Rüzgar Hızı</string>
+<string id="Complications_Label_Week" scope="foreground">Hafta</string>
+<string id="Complications_TopColor" scope="foreground">En İyi Veri Rengi</string>
+<string id="Complications_TopType" scope="foreground">En Önemli Veri Öğesi</string>
+<string id="Complications_TopType_0" scope="foreground">Yok</string>
+<string id="Complications_TopType_1" scope="foreground">Bugünün Etkin Dakikaları</string>
+<string id="Complications_TopType_10" scope="foreground">Tarih</string>
+<string id="Complications_TopType_11" scope="foreground">Gün Işığı - Gün Doğumu</string>
+<string id="Complications_TopType_12" scope="foreground">Gün Işığı - Gün Batımı</string>
+<string id="Complications_TopType_13" scope="foreground">Gün Işığı - Sonraki Etkinlik</string>
+<string id="Complications_TopType_14" scope="foreground">Mesafe</string>
+<string id="Complications_TopType_15" scope="foreground">Zeminler - Yükseltilmiş</string>
+<string id="Complications_TopType_16" scope="foreground">Zeminler - Azalan</string>
+<string id="Complications_TopType_17" scope="foreground">Katlar - Toplam</string>
+<string id="Complications_TopType_18" scope="foreground">Kalp Atış Hızı</string>
+<string id="Complications_TopType_19" scope="foreground">Kalp Atış Hızı Bölgesi</string>
+<string id="Complications_TopType_2" scope="foreground">Bu Haftanın Etkin Dakikaları</string>
+<string id="Complications_TopType_20" scope="foreground">Seviyeyi Taşı</string>
+<string id="Complications_TopType_21" scope="foreground">Solunum Hızı</string>
+<string id="Complications_TopType_22" scope="foreground">Deniz Seviyesi Basıncı</string>
+<string id="Complications_TopType_23" scope="foreground">Hız (GPS Gerekir)</string>
+<string id="Complications_TopType_24" scope="foreground">Adımlar</string>
+<string id="Complications_TopType_25" scope="foreground">Sıcaklık</string>
+<string id="Complications_TopType_26" scope="foreground">İyileşme Süresi</string>
+<string id="Complications_TopType_27" scope="foreground">Hava Durumu - Öyle Hissettiriyor</string>
+<string id="Complications_TopType_28" scope="foreground">Hava Durumu - Tahmini Yüksek/Düşük</string>
+<string id="Complications_TopType_29" scope="foreground">Hava Durumu - Yağış Olasılığı</string>
+<string id="Complications_TopType_3" scope="foreground">Yükseklik</string>
+<string id="Complications_TopType_30" scope="foreground">Hava Durumu - Bağıl Nem</string>
+<string id="Complications_TopType_31" scope="foreground">Hava Durumu - Sıcaklık</string>
+<string id="Complications_TopType_32" scope="foreground">Hava Durumu - Rüzgar Hızı</string>
+<string id="Complications_TopType_4" scope="foreground">Ortam Basıncı</string>
+<string id="Complications_TopType_5" scope="foreground">Gövde Pili</string>
+<string id="Complications_TopType_6" scope="foreground">Kalori</string>
+<string id="Complications_TopType_7" scope="foreground">Geçerli Başlık - Dereceler</string>
+<string id="Complications_TopType_8" scope="foreground">Mevcut Başlık - NATO Dereceleri</string>
+<string id="Complications_TopType_9" scope="foreground">Geçerli Başlık - NESW</string>
+<string id="Complications_Type" scope="foreground">Veri Öğesi</string>
+<string id="Complications_Type_0" scope="foreground">Yok</string>
+<string id="Complications_Type_1" scope="foreground">Bugünün Etkin Dakikaları</string>
+<string id="Complications_Type_10" scope="foreground">Tarih</string>
+<string id="Complications_Type_11" scope="foreground">Gün Işığı - Gün Doğumu</string>
+<string id="Complications_Type_12" scope="foreground">Gün Işığı - Gün Batımı</string>
+<string id="Complications_Type_13" scope="foreground">Gün Işığı - Sonraki Etkinlik</string>
+<string id="Complications_Type_14" scope="foreground">Mesafe</string>
+<string id="Complications_Type_15" scope="foreground">Zeminler - Yükseltilmiş</string>
+<string id="Complications_Type_16" scope="foreground">Zeminler - Azalan</string>
+<string id="Complications_Type_17" scope="foreground">Katlar - Toplam</string>
+<string id="Complications_Type_18" scope="foreground">Kalp Atış Hızı</string>
+<string id="Complications_Type_19" scope="foreground">Kalp Atış Hızı Bölgesi</string>
+<string id="Complications_Type_2" scope="foreground">Bu Haftanın Etkin Dakikaları</string>
+<string id="Complications_Type_20" scope="foreground">Seviyeyi Taşı</string>
+<string id="Complications_Type_21" scope="foreground">Solunum Hızı</string>
+<string id="Complications_Type_22" scope="foreground">Deniz Seviyesi Basıncı</string>
+<string id="Complications_Type_23" scope="foreground">Hız (GPS Gerekir)</string>
+<string id="Complications_Type_24" scope="foreground">Adımlar</string>
+<string id="Complications_Type_25" scope="foreground">Sıcaklık</string>
+<string id="Complications_Type_26" scope="foreground">İyileşme Süresi</string>
+<string id="Complications_Type_27" scope="foreground">Hava Durumu - Öyle Hissettiriyor</string>
+<string id="Complications_Type_28" scope="foreground">Hava Durumu - Tahmini Yüksek/Düşük</string>
+<string id="Complications_Type_29" scope="foreground">Hava Durumu - Yağış Olasılığı</string>
+<string id="Complications_Type_3" scope="foreground">Yükseklik</string>
+<string id="Complications_Type_30" scope="foreground">Hava Durumu - Bağıl Nem</string>
+<string id="Complications_Type_31" scope="foreground">Hava Durumu - Sıcaklık</string>
+<string id="Complications_Type_32" scope="foreground">Hava Durumu - Rüzgar Hızı</string>
+<string id="Complications_Type_4" scope="foreground">Ortam Basıncı</string>
+<string id="Complications_Type_5" scope="foreground">Gövde Pili</string>
+<string id="Complications_Type_6" scope="foreground">Kalori</string>
+<string id="Complications_Type_7" scope="foreground">Geçerli Başlık - Dereceler</string>
+<string id="Complications_Type_8" scope="foreground">Mevcut Başlık - NATO Dereceleri</string>
+<string id="Complications_Type_9" scope="foreground">Geçerli Başlık - NESW</string>
+<string id="Coordinates" scope="foreground">Koordinatlar</string>
+<string id="Coordinates_Format" scope="foreground">Biçim</string>
+<string id="Coordinates_Format_0" scope="foreground">Derece</string>
+<string id="Coordinates_Format_1" scope="foreground">Derece/Dakika</string>
+<string id="Coordinates_Format_2" scope="foreground">Derece/Dakika/Saniye</string>
+<string id="Coordinates_Format_3" scope="foreground">Askeri Izgara Referans Sistemi</string>
+<string id="Days" scope="foreground">Günler</string>
+<string id="Days_Color" scope="foreground">Zil Rengi</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Metin Boyutunu Büyüt</string>
+<string id="Days_Goal" scope="foreground">Hedef</string>
+<string id="Days_TextColor" scope="foreground">Metin Rengi</string>
+<string id="Days_TextGoalColor" scope="foreground">Hedef Metni Rengi</string>
+<string id="Days_Type" scope="foreground">Metrik</string>
+<string id="Days_Type_0" scope="foreground">Yok</string>
+<string id="Days_Type_1" scope="foreground">Adımlar</string>
+<string id="Days_Type_2" scope="foreground">Katlar</string>
+<string id="Days_Type_3" scope="foreground">Etkin Dakikalar</string>
+<string id="Days_Type_4" scope="foreground">Kalori</string>
+<string id="Days_Type_5" scope="foreground">Mesafe</string>
+<string id="Global_Settings" scope="foreground">Ayarlar</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">GPS'i kullan</string>
+<string id="GPS_Latitude" scope="foreground">Enlem</string>
+<string id="GPS_Longitude" scope="foreground">Boylam</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Kalp Atış Hızı</string>
+<string id="HeartRate_Adjustment" scope="foreground">Ayarlama</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Dinleniyor</string>
+<string id="History" scope="foreground">Geçmiş</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Güçlendirmeyi Azaltın</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">SON 1$ SAAT</string>
+<string id="History_Type" scope="foreground">Grafik Stili</string>
+<string id="History_Type_0" scope="foreground">Sütun</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">GPS konumu alınıyor, lütfen gökyüzünü net bir şekilde görün.</string>
+<string id="Location_InvalidLong" scope="foreground">Konum alınamıyor, lütfen cihazın GPS'sini veya ayarlarını kontrol edin.</string>
+<string id="Location_InvalidShort" scope="glance">Geçersiz Konum</string>
+<string id="Location_RequiredLong" scope="foreground">GPS konumuna ihtiyacınız var, lütfen dokunun veya widget'ı seçin.</string>
+<string id="Location_RequiredShort" scope="glance">Konum Gerekli</string>
+<string id="LowBattery" scope="foreground">Düşük Pil</string>
+<string id="LowBattery_Enabled" scope="foreground">Düşük Pil Modunu Etkinleştir</string>
+<string id="MinimalDays" scope="foreground">Minimum Gün Sayısı</string>
+<string id="MIP" scope="foreground">MIP Cihazları</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Uyandırmak için Kaldır/Dokun</string>
+<string id="Months_April" scope="foreground">Nisan</string>
+<string id="Months_August" scope="foreground">Ağustos</string>
+<string id="Months_December" scope="foreground">Aralık</string>
+<string id="Months_February" scope="foreground">Şubat</string>
+<string id="Months_January" scope="foreground">Ocak</string>
+<string id="Months_July" scope="foreground">Temmuz</string>
+<string id="Months_June" scope="foreground">Haziran</string>
+<string id="Months_March" scope="foreground">Mart</string>
+<string id="Months_May" scope="foreground">Mayıs</string>
+<string id="Months_November" scope="foreground">Kasım</string>
+<string id="Months_October" scope="foreground">Ekim</string>
+<string id="Months_September" scope="foreground">Eylül</string>
+<string id="RefreshRate_100" scope="foreground">100 ms</string>
+<string id="RefreshRate_1000" scope="foreground">1 sn</string>
+<string id="SimplyElegant" scope="foreground">Tek Kelimeyle Zarif</string>
+<string id="Sleep" scope="foreground">Uyku</string>
+<string id="Sleep_Enabled" scope="foreground">Uyku Modunu Etkinleştir</string>
+<string id="StormAlert" scope="foreground">Basınç Değişikliği Uyarısı</string>
+<string id="StormAlert_Active" scope="foreground">Uyarı</string>
+<string id="StormAlert_Message" scope="foreground">Mesaj</string>
+<string id="StormAlert_MessageError" scope="foreground">Mesaj gerekli</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Değişim Oranı</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">3 saatte 6 milibar</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">3 saatte 5,5 milibar</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">3 saatte 1 milibar</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">3 saatte 5 milibar</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">3 saatte 4,5 milibar</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">3 saatte 4 milibar</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3 saatte 3,5 milibar</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 saatte 3 milibar</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">3 saatte 2,5 milibar</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">3 saatte 2 milibar</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">3 saatte 1,5 milibar</string>
+<string id="SunTimes" scope="glance">Pazlaşma Zamanları</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Sonraki Etkinlik Konumu</string>
+<string id="SunTimes_Sunrise" scope="foreground">Gündoğumu</string>
+<string id="SunTimes_SunriseIn" scope="glance">Gün Doğumu</string>
+<string id="SunTimes_Sunset" scope="foreground">Gün Batımı</string>
+<string id="SunTimes_SunsetIn" scope="glance">Gün Batımı</string>
+<string id="SunTimes_Today" scope="foreground">Bugün</string>
+<string id="System" scope="foreground">Durum Simgeleri</string>
+<string id="System_AlarmsEnabled" scope="foreground">Alarm Simgesi</string>
+<string id="System_BatteryDay" scope="foreground">Gün</string>
+<string id="System_BatteryDays" scope="foreground">Günler</string>
+<string id="System_BatteryEnabled" scope="foreground">Pil Simgesi</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth Simgesi</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Rahatsız Etmeyin Simgesi</string>
+<string id="System_NotificationsEnabled" scope="foreground">Bildirimler Simgesi</string>
+<string id="Temperature" scope="glance">Sıcaklık</string>
+<string id="Temperature_Adjustment" scope="foreground">Ayarlama</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Çekirdeğe Dönüştür</string>
+<string id="Time" scope="foreground">Zaman</string>
+<string id="Time_DisplayFormat" scope="foreground">Görüntüleme Formatı</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Varsayılan</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 Saat</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 Saat</string>
+<string id="Time_NextEventEnabled" scope="foreground">Sonraki Etkinliği Göster</string>
+<string id="Twilight" scope="foreground">Alacakaranlık</string>
+<string id="Twilight_Level" scope="foreground">Seviye</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomik</string>
+<string id="Twilight_Level_1" scope="foreground">Denizcilik</string>
+<string id="Twilight_Level_2" scope="foreground">Sivil</string>
+<string id="Units" scope="foreground">Birimler</string>
+<string id="Units_Date" scope="foreground">Tarih</string>
+<string id="Units_Date_0" scope="foreground">DDDDDD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">AAA GG YY</string>
+<string id="Units_Date_3" scope="foreground">GG AAA YY</string>
+<string id="Units_Pressure" scope="foreground">Barometre</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Daha Büyük Yazı Tipi Kullan</string>
+<string id="UX_MeterHandStyle" scope="foreground">Ölçüm İbresi Stili</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Stil 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Stil 2</string>

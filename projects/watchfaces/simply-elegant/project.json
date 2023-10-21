@@ -1,0 +1,183 @@
+{
+  "name": "Simply Elegant",
+  "id": "38cabbb2-9c57-4e70-b9f5-05aec2ebc8aa",
+  "version": "1.0.9",
+  "modules": [
+    "Positioning",
+    "SensorHistory",
+    "UserProfile"
+  ],
+  "properties": [
+    {
+      "id": "Complications",
+      "items": [
+        {
+          "id": "TopType",
+          "type": "number",
+          "default": 24,
+          "options": 33
+        },
+        {
+          "id": "TopColor",
+          "type": "color",
+          "default": "0xFF0000"
+        },
+        {
+          "id": "BottomType",
+          "type": "number",
+          "default": 3,
+          "options": 33
+        },
+        {
+          "id": "BottomColor",
+          "type": "color",
+          "default": "0xFF0000"
+        }
+      ]
+    },
+    {
+      "id": "Clock",
+      "items": [
+        {
+          "id": "SecondsEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "SecondsOnlyWhenActiveEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "AmPmEnabled",
+          "type": "boolean",
+          "default": false
+        },
+        {
+          "id": "Enlarge",
+          "type": "boolean",
+          "default": false
+        },
+        {
+          "id": "HoursColor",
+          "type": "color",
+          "default": "0xFF0000"
+        },
+        {
+          "id": "MinutesColor",
+          "type": "color",
+          "default": "0xFF0000"
+        },
+        {
+          "id": "SecondsColor",
+          "type": "color",
+          "default": "0xFF0000"
+        },
+        {
+          "id": "AmPmColor",
+          "type": "color",
+          "default": "0xFF0000"
+        }
+      ]
+    },
+    {
+      "id": "GPS",
+      "items": [
+        {
+          "id": "Latitude",
+          "type": "float",
+          "default": "0.0"
+        },
+        {
+          "id": "Longitude",
+          "type": "float",
+          "default": "0.0"
+        }
+      ]
+    },
+    {
+      "id": "LowBattery",
+      "items": [
+        {
+          "id": "Enabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "Sleep",
+      "items": [
+        {
+          "id": "Enabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "System",
+      "items": [
+        {
+          "id": "AlarmsEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "BluetoothEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "DoNotDisturbEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "NotificationsEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "BatteryEnabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "AOD",
+      "items": [
+        {
+          "id": "Enabled",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    },
+    {
+      "id": "MIP",
+      "items": [
+        {
+          "id": "RaiseToWakeEnabled",
+          "type": "boolean",
+          "default": false
+        }
+      ]
+    },
+    {
+      "id": "Units",
+      "items": [
+        {
+          "id": "Pressure",
+          "type": "number",
+          "default": 0,
+          "options": 4
+        }
+      ]
+    }
+  ],
+  "drawables": [
+    "project.drawables.json"
+  ]
+}

@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Wysokość</string>
+<string id="Altitude_Ascent" scope="foreground">Wzniesienie</string>
+<string id="Altitude_Descent" scope="foreground">Zejście</string>
+<string id="Altitude_Oxygen" scope="foreground">Tlen</string>
+<string id="Altitude_Precision" scope="foreground">Precyzja</string>
+<string id="Altitude_Precision_0" scope="foreground">0 miejsc dziesiętnych</string>
+<string id="Altitude_Precision_1" scope="foreground">1 miejsce po przecinku</string>
+<string id="Altitude_Precision_2" scope="foreground">2 miejsca po przecinku</string>
+<string id="Altitude_Risk" scope="foreground">Ryzyko</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Brak</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Pokaż jednostki</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Ekstremalne</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Wysoki</string>
+<string id="Altitude_ZoneLow" scope="foreground">Niski</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Umiarkowany</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Bardzo wysoko</string>
+<string id="AOD" scope="foreground">Urządzenia AMOLED</string>
+<string id="AOD_Enabled" scope="foreground">Włącz tryb AOD</string>
+<string id="Barometer" scope="glance">Barometr</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Jednostka miary</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Pokaż jednostki</string>
+<string id="Clock" scope="foreground">Zegar</string>
+<string id="Clock_AmPmColor" scope="foreground">Kolor rano/popołudniu</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Pokaż AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Powiększ tekst zegara</string>
+<string id="Clock_HoursColor" scope="foreground">Kolor godzin</string>
+<string id="Clock_MinutesColor" scope="foreground">Kolor minut</string>
+<string id="Clock_SecondsColor" scope="foreground">Kolor w sekundach</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Pokaż sekundy</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Włącz tylko sekundy, gdy jest aktywne</string>
+<string id="Compass" scope="glance">Kompas</string>
+<string id="Compass_Color" scope="foreground">Kolor</string>
+<string id="Compass_Declination" scope="foreground">Deklinacja</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Format stopni</string>
+<string id="Compass_Deviation" scope="foreground">Odchylenie</string>
+<string id="Compass_Mils" scope="foreground">6400 mil (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Częstotliwość odświeżania</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Komplikacje</string>
+<string id="Complications_BottomColor" scope="foreground">Kolor danych na dole</string>
+<string id="Complications_BottomType" scope="foreground">Dolny element danych</string>
+<string id="Complications_BottomType_0" scope="foreground">Brak</string>
+<string id="Complications_BottomType_1" scope="foreground">Minuty aktywności dzisiaj</string>
+<string id="Complications_BottomType_10" scope="foreground">Data</string>
+<string id="Complications_BottomType_11" scope="foreground">Światło dzienne - wschód słońca</string>
+<string id="Complications_BottomType_12" scope="foreground">Światło dzienne — zachód słońca</string>
+<string id="Complications_BottomType_13" scope="foreground">Światło dzienne – następne wydarzenie</string>
+<string id="Complications_BottomType_14" scope="foreground">Odległość</string>
+<string id="Complications_BottomType_15" scope="foreground">Piętra - wzniesione</string>
+<string id="Complications_BottomType_16" scope="foreground">Piętra - zejście</string>
+<string id="Complications_BottomType_17" scope="foreground">Piętra - Razem</string>
+<string id="Complications_BottomType_18" scope="foreground">Tętno</string>
+<string id="Complications_BottomType_19" scope="foreground">Strefa tętna</string>
+<string id="Complications_BottomType_2" scope="foreground">Aktywne minuty w tym tygodniu</string>
+<string id="Complications_BottomType_20" scope="foreground">Przesuń poziom</string>
+<string id="Complications_BottomType_21" scope="foreground">Częstość oddechu</string>
+<string id="Complications_BottomType_22" scope="foreground">Ciśnienie na poziomie morza</string>
+<string id="Complications_BottomType_23" scope="foreground">Prędkość (wymaga GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Kroki</string>
+<string id="Complications_BottomType_25" scope="foreground">Temperatura</string>
+<string id="Complications_BottomType_26" scope="foreground">Czas powrotu do zdrowia</string>
+<string id="Complications_BottomType_27" scope="foreground">Pogoda – wydaje się</string>
+<string id="Complications_BottomType_28" scope="foreground">Pogoda - prognozowana wysoka/niska</string>
+<string id="Complications_BottomType_29" scope="foreground">Pogoda – ryzyko opadów</string>
+<string id="Complications_BottomType_3" scope="foreground">Wysokość</string>
+<string id="Complications_BottomType_30" scope="foreground">Pogoda — wilgotność względna</string>
+<string id="Complications_BottomType_31" scope="foreground">Pogoda - Temperatura</string>
+<string id="Complications_BottomType_32" scope="foreground">Pogoda - prędkość wiatru</string>
+<string id="Complications_BottomType_4" scope="foreground">Ciśnienie otoczenia</string>
+<string id="Complications_BottomType_5" scope="foreground">Akumulator korpusu</string>
+<string id="Complications_BottomType_6" scope="foreground">Kalorie</string>
+<string id="Complications_BottomType_7" scope="foreground">Aktualny kurs - stopnie</string>
+<string id="Complications_BottomType_8" scope="foreground">Aktualny kierunek - Stopnie NATO</string>
+<string id="Complications_BottomType_9" scope="foreground">Aktualny kurs – NESW</string>
+<string id="Complications_Color" scope="foreground">Kolor danych</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Powiększ rozmiar tekstu danych</string>
+<string id="Complications_IconEnabled" scope="foreground">Włącz ikonę</string>
+<string id="Complications_Label_Active" scope="foreground">Aktywny</string>
+<string id="Complications_Label_Altitude" scope="foreground">Wzniesienie</string>
+<string id="Complications_Label_Ascended" scope="foreground">Wzniósł się</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometr</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Akumulator korpusu</string>
+<string id="Complications_Label_Calories" scope="foreground">Kalorie</string>
+<string id="Complications_Label_Current" scope="foreground">Aktualny</string>
+<string id="Complications_Label_Descended" scope="foreground">Zstąpił</string>
+<string id="Complications_Label_Distance" scope="foreground">Odległość</string>
+<string id="Complications_Label_Floors" scope="foreground">Podłogi</string>
+<string id="Complications_Label_Heading" scope="foreground">Nagłówek</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Stopnie</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Prawdziwa północ</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Tętno</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Strefa tętna</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Przesuń poziom</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Odzyskiwanie</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Oddychanie</string>
+<string id="Complications_Label_Speed" scope="foreground">Prędkość</string>
+<string id="Complications_Label_Steps" scope="foreground">Kroki</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Wschód słońca</string>
+<string id="Complications_Label_Sunset" scope="foreground">Zachód słońca</string>
+<string id="Complications_Label_Temperature" scope="foreground">Temperatura</string>
+<string id="Complications_Label_Today" scope="foreground">Dzisiaj</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Jutro</string>
+<string id="Complications_Label_Total" scope="foreground">Łącznie</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Temperatura</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Wydaje mi się, że</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Wysoka/Niska</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Szansa na deszcz</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Wilgotność</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Prędkość wiatru</string>
+<string id="Complications_Label_Week" scope="foreground">Tydzień</string>
+<string id="Complications_TopColor" scope="foreground">Kolor danych na górze</string>
+<string id="Complications_TopType" scope="foreground">Najważniejszy element danych</string>
+<string id="Complications_TopType_0" scope="foreground">Brak</string>
+<string id="Complications_TopType_1" scope="foreground">Minuty aktywności dzisiaj</string>
+<string id="Complications_TopType_10" scope="foreground">Data</string>
+<string id="Complications_TopType_11" scope="foreground">Światło dzienne - wschód słońca</string>
+<string id="Complications_TopType_12" scope="foreground">Światło dzienne - zachód słońca</string>
+<string id="Complications_TopType_13" scope="foreground">Światło dzienne – następne wydarzenie</string>
+<string id="Complications_TopType_14" scope="foreground">Odległość</string>
+<string id="Complications_TopType_15" scope="foreground">Piętra - wzniesione</string>
+<string id="Complications_TopType_16" scope="foreground">Piętra - zejście</string>
+<string id="Complications_TopType_17" scope="foreground">Piętra - Razem</string>
+<string id="Complications_TopType_18" scope="foreground">Tętno</string>
+<string id="Complications_TopType_19" scope="foreground">Strefa tętna</string>
+<string id="Complications_TopType_2" scope="foreground">Aktywne minuty w tym tygodniu</string>
+<string id="Complications_TopType_20" scope="foreground">Przesuń poziom</string>
+<string id="Complications_TopType_21" scope="foreground">Częstość oddechu</string>
+<string id="Complications_TopType_22" scope="foreground">Ciśnienie na poziomie morza</string>
+<string id="Complications_TopType_23" scope="foreground">Prędkość (wymaga GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Kroki</string>
+<string id="Complications_TopType_25" scope="foreground">Temperatura</string>
+<string id="Complications_TopType_26" scope="foreground">Czas powrotu do zdrowia</string>
+<string id="Complications_TopType_27" scope="foreground">Pogoda – wydaje się</string>
+<string id="Complications_TopType_28" scope="foreground">Pogoda - prognozowana wysoka/niska</string>
+<string id="Complications_TopType_29" scope="foreground">Pogoda - prawdopodobieństwo opadów</string>
+<string id="Complications_TopType_3" scope="foreground">Wysokość</string>
+<string id="Complications_TopType_30" scope="foreground">Pogoda — wilgotność względna</string>
+<string id="Complications_TopType_31" scope="foreground">Pogoda - Temperatura</string>
+<string id="Complications_TopType_32" scope="foreground">Pogoda - prędkość wiatru</string>
+<string id="Complications_TopType_4" scope="foreground">Ciśnienie otoczenia</string>
+<string id="Complications_TopType_5" scope="foreground">Akumulator korpusu</string>
+<string id="Complications_TopType_6" scope="foreground">Kalorie</string>
+<string id="Complications_TopType_7" scope="foreground">Aktualny kurs - stopnie</string>
+<string id="Complications_TopType_8" scope="foreground">Aktualny kierunek - Stopnie NATO</string>
+<string id="Complications_TopType_9" scope="foreground">Aktualny kurs – NESW</string>
+<string id="Complications_Type" scope="foreground">Element danych</string>
+<string id="Complications_Type_0" scope="foreground">Brak</string>
+<string id="Complications_Type_1" scope="foreground">Minuty aktywności dzisiaj</string>
+<string id="Complications_Type_10" scope="foreground">Data</string>
+<string id="Complications_Type_11" scope="foreground">Światło dzienne - wschód słońca</string>
+<string id="Complications_Type_12" scope="foreground">Światło dzienne - zachód słońca</string>
+<string id="Complications_Type_13" scope="foreground">Światło dzienne – następne wydarzenie</string>
+<string id="Complications_Type_14" scope="foreground">Odległość</string>
+<string id="Complications_Type_15" scope="foreground">Piętra - wzniesione</string>
+<string id="Complications_Type_16" scope="foreground">Piętra - zejście</string>
+<string id="Complications_Type_17" scope="foreground">Piętra - Razem</string>
+<string id="Complications_Type_18" scope="foreground">Tętno</string>
+<string id="Complications_Type_19" scope="foreground">Strefa tętna</string>
+<string id="Complications_Type_2" scope="foreground">Minuty aktywne w tym tygodniu</string>
+<string id="Complications_Type_20" scope="foreground">Przesuń poziom</string>
+<string id="Complications_Type_21" scope="foreground">Częstość oddechu</string>
+<string id="Complications_Type_22" scope="foreground">Ciśnienie na poziomie morza</string>
+<string id="Complications_Type_23" scope="foreground">Prędkość (wymaga GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Kroki</string>
+<string id="Complications_Type_25" scope="foreground">Temperatura</string>
+<string id="Complications_Type_26" scope="foreground">Czas powrotu do zdrowia</string>
+<string id="Complications_Type_27" scope="foreground">Pogoda – wydaje się</string>
+<string id="Complications_Type_28" scope="foreground">Pogoda - prognozowana wysoka/niska</string>
+<string id="Complications_Type_29" scope="foreground">Pogoda – ryzyko opadów</string>
+<string id="Complications_Type_3" scope="foreground">Wysokość</string>
+<string id="Complications_Type_30" scope="foreground">Pogoda — wilgotność względna</string>
+<string id="Complications_Type_31" scope="foreground">Pogoda - Temperatura</string>
+<string id="Complications_Type_32" scope="foreground">Pogoda — prędkość wiatru</string>
+<string id="Complications_Type_4" scope="foreground">Ciśnienie otoczenia</string>
+<string id="Complications_Type_5" scope="foreground">Akumulator korpusu</string>
+<string id="Complications_Type_6" scope="foreground">Kalorie</string>
+<string id="Complications_Type_7" scope="foreground">Aktualny kurs - stopnie</string>
+<string id="Complications_Type_8" scope="foreground">Aktualny kierunek - Stopnie NATO</string>
+<string id="Complications_Type_9" scope="foreground">Aktualny kurs – NESW</string>
+<string id="Coordinates" scope="foreground">Współrzędne</string>
+<string id="Coordinates_Format" scope="foreground">Format</string>
+<string id="Coordinates_Format_0" scope="foreground">Stopnie</string>
+<string id="Coordinates_Format_1" scope="foreground">Stopnie/minuty</string>
+<string id="Coordinates_Format_2" scope="foreground">Stopnie/minuty/sekundy</string>
+<string id="Coordinates_Format_3" scope="foreground">Wojskowy system odniesienia siatki</string>
+<string id="Days" scope="foreground">Dni</string>
+<string id="Days_Color" scope="foreground">Kolor pierścienia</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Powiększ rozmiar tekstu</string>
+<string id="Days_Goal" scope="foreground">Cel</string>
+<string id="Days_TextColor" scope="foreground">Kolor tekstu</string>
+<string id="Days_TextGoalColor" scope="foreground">Kolor tekstu celu</string>
+<string id="Days_Type" scope="foreground">Dane</string>
+<string id="Days_Type_0" scope="foreground">Brak</string>
+<string id="Days_Type_1" scope="foreground">Kroki</string>
+<string id="Days_Type_2" scope="foreground">Piętra</string>
+<string id="Days_Type_3" scope="foreground">Aktywne minuty</string>
+<string id="Days_Type_4" scope="foreground">Kalorie</string>
+<string id="Days_Type_5" scope="foreground">Odległość</string>
+<string id="Global_Settings" scope="foreground">Ustawienia</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Użyj GPS</string>
+<string id="GPS_Latitude" scope="foreground">Szerokość geograficzna</string>
+<string id="GPS_Longitude" scope="foreground">Długość geograficzna</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Tętno</string>
+<string id="HeartRate_Adjustment" scope="foreground">Dostosowanie</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Odpoczywa</string>
+<string id="History" scope="foreground">Historia</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Zmniejsz wzmocnienie</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">OSTATNIE GODZINY 1 $</string>
+<string id="History_Type" scope="foreground">Styl wykresu</string>
+<string id="History_Type_0" scope="foreground">Kolumna</string>
+<string id="History_Type_1" scope="foreground">Splajn</string>
+<string id="Location_Acquiring" scope="foreground">Uzyskuję pozycję GPS, proszę mieć dobry widok na niebo.</string>
+<string id="Location_InvalidLong" scope="foreground">Nie można uzyskać lokalizacji, sprawdź GPS urządzenia lub ustawienia.</string>
+<string id="Location_InvalidShort" scope="glance">Nieprawidłowa lokalizacja</string>
+<string id="Location_RequiredLong" scope="foreground">Potrzebujesz pozycji GPS, dotknij lub wybierz widżet.</string>
+<string id="Location_RequiredShort" scope="glance">Wymagana lokalizacja</string>
+<string id="LowBattery" scope="foreground">Słaba bateria</string>
+<string id="LowBattery_Enabled" scope="foreground">Włącz tryb niskiego poziomu baterii</string>
+<string id="MinimalDays" scope="foreground">Minimalna liczba dni</string>
+<string id="MIP" scope="foreground">Urządzenia MIP</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Podnieś/Dotknij, aby obudzić</string>
+<string id="Months_April" scope="foreground">Kwiecień</string>
+<string id="Months_August" scope="foreground">Sierpień</string>
+<string id="Months_December" scope="foreground">Grudzień</string>
+<string id="Months_February" scope="foreground">luty</string>
+<string id="Months_January" scope="foreground">styczeń</string>
+<string id="Months_July" scope="foreground">lipiec</string>
+<string id="Months_June" scope="foreground">Czerwiec</string>
+<string id="Months_March" scope="foreground">Marzec</string>
+<string id="Months_May" scope="foreground">Maj</string>
+<string id="Months_November" scope="foreground">Listopad</string>
+<string id="Months_October" scope="foreground">Październik</string>
+<string id="Months_September" scope="foreground">Wrzesień</string>
+<string id="SimplyElegant" scope="foreground">Po prostu elegancki</string>
+<string id="Sleep" scope="foreground">Uśpij</string>
+<string id="Sleep_Enabled" scope="foreground">Włącz tryb uśpienia</string>
+<string id="StormAlert" scope="foreground">Alarm zmiany ciśnienia</string>
+<string id="StormAlert_Active" scope="foreground">Alarm</string>
+<string id="StormAlert_Message" scope="foreground">Wiadomość</string>
+<string id="StormAlert_MessageError" scope="foreground">Wiadomość jest wymagana</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Tempo zmian</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 milibarów na 3 godziny</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 milibara na 3 godziny</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 milibar na 3 godziny</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 milibarów na 3 godziny</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 milibara na 3 godziny</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 milibary na 3 godziny</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 milibara na 3 godziny</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 milibary na 3 godziny</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 milibara na 3 godziny</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 milibary na 3 godziny</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 milibara na 3 godziny</string>
+<string id="SunTimes" scope="glance">Czasy niedzieli</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Następne wydarzenie za</string>
+<string id="SunTimes_Sunrise" scope="foreground">Wschód słońca</string>
+<string id="SunTimes_SunriseIn" scope="glance">Wschód słońca za</string>
+<string id="SunTimes_Sunset" scope="foreground">Zachód słońca</string>
+<string id="SunTimes_SunsetIn" scope="glance">Zachód słońca</string>
+<string id="SunTimes_Today" scope="foreground">Dzisiaj</string>
+<string id="System" scope="foreground">Ikony stanu</string>
+<string id="System_AlarmsEnabled" scope="foreground">Ikona alarmu</string>
+<string id="System_BatteryDay" scope="foreground">Dzień</string>
+<string id="System_BatteryDays" scope="foreground">Dni</string>
+<string id="System_BatteryEnabled" scope="foreground">Ikona baterii</string>
+<string id="System_BluetoothEnabled" scope="foreground">Ikona Bluetooth</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Ikona „nie przeszkadzać”</string>
+<string id="System_NotificationsEnabled" scope="foreground">Ikona powiadomień</string>
+<string id="Temperatura" scope="foreground">Temperatura</string>
+<string id="Temperature_Adjustment" scope="foreground">Dostosowanie</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Konwertuj na rdzeń</string>
+<string id="Time" scope="foreground">Czas</string>
+<string id="Time_DisplayFormat" scope="foreground">Format wyświetlania</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Domyślne</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 godzin</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 godziny</string>
+<string id="Time_NextEventEnabled" scope="foreground">Pokaż następne wydarzenie</string>
+<string id="Twilight" scope="foreground">Zmierzch</string>
+<string id="Twilight_Level" scope="foreground">Poziom</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomiczny</string>
+<string id="Twilight_Level_1" scope="foreground">Moglarskie</string>
+<string id="Twilight_Level_2" scope="foreground">Cywilne</string>
+<string id="Units" scope="foreground">Jednostki</string>
+<string id="Units_Date" scope="foreground">Data</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD RR</string>
+<string id="Units_Date_3" scope="foreground">DD MMM RR</string>
+<string id="Units_Pressure" scope="foreground">Barometr</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Użyj większej czcionki</string>
+<string id="UX_MeterHandStyle" scope="foreground">Styl wskazówki licznika</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Styl 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Styl 2</string>

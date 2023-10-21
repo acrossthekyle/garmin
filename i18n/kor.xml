@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">고도</string>
+<string id="Altitude_Ascent" scope="foreground">오르막</string>
+<string id="Altitude_Descent" scope="foreground">하강</string>
+<string id="Altitude_Oxygen" scope="foreground">산소</string>
+<string id="Altitude_Precision" scope="foreground">정밀도</string>
+<string id="Altitude_Precision_0" scope="foreground">소수점 0</string>
+<string id="Altitude_Precision_1" scope="foreground">십진수 1</string>
+<string id="Altitude_Precision_2" scope="foreground">소수점 2자리</string>
+<string id="Altitude_Risk" scope="foreground">위험</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">없음</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">단위 표시</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">극심</string>
+<string id="Altitude_ZoneHigh" scope="foreground">높음</string>
+<string id="Altitude_ZoneLow" scope="foreground">낮음</string>
+<string id="Altitude_ZoneModerate" scope="foreground">보통</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">매우 높음</string>
+<string id="AOD" scope="foreground">AMOLED 기기</string>
+<string id="AOD_Enabled" scope="foreground">AOD 모드 활성화</string>
+<string id="Barometer" scope="glance">기압계</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">측정 단위</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">단위 표시</string>
+<string id="Clock" scope="foreground">시계</string>
+<string id="Clock_AmPmColor" scope="foreground">오전/오후 색상</string>
+<string id="Clock_AmPmEnabled" scope="foreground">오전/오후 표시</string>
+<string id="Clock_Enlarge" scope="foreground">시계 텍스트 확대</string>
+<string id="Clock_HoursColor" scope="foreground">시간 색상</string>
+<string id="Clock_MinutesColor" scope="foreground">분 색상</string>
+<string id="Clock_SecondsColor" scope="foreground">초 색상</string>
+<string id="Clock_SecondsEnabled" scope="foreground">초 표시</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">활성 상태에서만 초 활성화</string>
+<string id="Compass" scope="glance">나침반</string>
+<string id="Compass_Color" scope="foreground">색상</string>
+<string id="Compass_Declination" scope="foreground">편위</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">도 형식</string>
+<string id="Compass_Deviation" scope="foreground">편차</string>
+<string id="Compass_Mils" scope="foreground">6400밀(NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">새로 고침 빈도</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1초</string>
+<string id="Complications" scope="foreground">복잡함</string>
+<string id="Complications_BottomColor" scope="foreground">하단 데이터 색상</string>
+<string id="Complications_BottomType" scope="foreground">하단 데이터 항목</string>
+<string id="Complications_BottomType_0" scope="foreground">없음</string>
+<string id="Complications_BottomType_1" scope="foreground">오늘 활동적 시간(분)</string>
+<string id="Complications_BottomType_10" scope="foreground">날짜</string>
+<string id="Complications_BottomType_11" scope="foreground">일광 - 일출</string>
+<string id="Complications_BottomType_12" scope="foreground">일광 - 일몰</string>
+<string id="Complications_BottomType_13" scope="foreground">일광 - 다음 이벤트</string>
+<string id="Complications_BottomType_14" scope="foreground">거리</string>
+<string id="Complications_BottomType_15" scope="foreground">층 - 상승</string>
+<string id="Complications_BottomType_16" scope="foreground">층 - 하강</string>
+<string id="Complications_BottomType_17" scope="foreground">층수 - 총계</string>
+<string id="Complications_BottomType_18" scope="foreground">심박수</string>
+<string id="Complications_BottomType_19" scope="foreground">심박수 구간</string>
+<string id="Complications_BottomType_2" scope="foreground">이번 주 활동적 시간(분)</string>
+<string id="Complications_BottomType_20" scope="foreground">레벨 이동</string>
+<string id="Complications_BottomType_21" scope="foreground">호흡수</string>
+<string id="Complications_BottomType_22" scope="foreground">해수면 기압</string>
+<string id="Complications_BottomType_23" scope="foreground">속도(GPS 필요)</string>
+<string id="Complications_BottomType_24" scope="foreground">단계</string>
+<string id="Complications_BottomType_25" scope="foreground">온도</string>
+<string id="Complications_BottomType_26" scope="foreground">회복 시간</string>
+<string id="Complications_BottomType_27" scope="foreground">날씨 - 기분</string>
+<string id="Complications_BottomType_28" scope="foreground">날씨 - 예상 높음/낮음</string>
+<string id="Complications_BottomType_29" scope="foreground">날씨 - 강수 확률</string>
+<string id="Complications_BottomType_3" scope="foreground">고도</string>
+<string id="Complications_BottomType_30" scope="foreground">날씨 - 상대 습도</string>
+<string id="Complications_BottomType_31" scope="foreground">날씨 - 기온</string>
+<string id="Complications_BottomType_32" scope="foreground">날씨 - 풍속</string>
+<string id="Complications_BottomType_4" scope="foreground">주변 압력</string>
+<string id="Complications_BottomType_5" scope="foreground">바디 배터리</string>
+<string id="Complications_BottomType_6" scope="foreground">칼로리</string>
+<string id="Complications_BottomType_7" scope="foreground">현재 방향 - 도</string>
+<string id="Complications_BottomType_8" scope="foreground">현재 방향 - NATO 학위</string>
+<string id="Complications_BottomType_9" scope="foreground">현재 제목 - NESW</string>
+<string id="Complications_Color" scope="foreground">데이터 색상</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">데이터 텍스트 크기 확대</string>
+<string id="Complications_IconEnabled" scope="foreground">아이콘 활성화</string>
+<string id="Complications_Label_Active" scope="foreground">활성</string>
+<string id="Complications_Label_Altitude" scope="foreground">고도</string>
+<string id="Complications_Label_Ascended" scope="foreground">상승</string>
+<string id="Complications_Label_Barometer" scope="foreground">기압계</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">바디 배터리</string>
+<string id="Complications_Label_Calories" scope="foreground">칼로리</string>
+<string id="Complications_Label_Current" scope="foreground">현재</string>
+<string id="Complications_Label_Descended" scope="foreground">내림차순</string>
+<string id="Complications_Label_Distance" scope="foreground">거리</string>
+<string id="Complications_Label_Floors" scope="foreground">층</string>
+<string id="Complications_Label_Heading" scope="foreground">제목</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">도</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">진북</string>
+<string id="Complications_Label_HeartRate" scope="foreground">심박수</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">심박수 구간</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">레벨 이동</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">복구</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">호흡</string>
+<string id="Complications_Label_Speed" scope="foreground">속도</string>
+<string id="Complications_Label_Steps" scope="foreground">단계</string>
+<string id="Complications_Label_Sunrise" scope="foreground">일출</string>
+<string id="Complications_Label_Sunset" scope="foreground">일몰</string>
+<string id="Complications_Label_Temperature" scope="foreground">온도</string>
+<string id="Complications_Label_Today" scope="foreground">오늘</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">내일</string>
+<string id="Complications_Label_Total" scope="foreground">합계</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">온도</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">느낌</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">높음/낮음</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">강우 확률</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">습도</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">풍속</string>
+<string id="Complications_Label_Week" scope="foreground">주</string>
+<string id="Complications_TopColor" scope="foreground">상위 데이터 색상</string>
+<string id="Complications_TopType" scope="foreground">상위 데이터 항목</string>
+<string id="Complications_TopType_0" scope="foreground">없음</string>
+<string id="Complications_TopType_1" scope="foreground">오늘 활동적 시간(분)</string>
+<string id="Complications_TopType_10" scope="foreground">날짜</string>
+<string id="Complications_TopType_11" scope="foreground">일광 - 일출</string>
+<string id="Complications_TopType_12" scope="foreground">일광 - 일몰</string>
+<string id="Complications_TopType_13" scope="foreground">일광 - 다음 이벤트</string>
+<string id="Complications_TopType_14" scope="foreground">거리</string>
+<string id="Complications_TopType_15" scope="foreground">층 - 상승</string>
+<string id="Complications_TopType_16" scope="foreground">층 - 하강</string>
+<string id="Complications_TopType_17" scope="foreground">층수 - 총계</string>
+<string id="Complications_TopType_18" scope="foreground">심박수</string>
+<string id="Complications_TopType_19" scope="foreground">심박수 구간</string>
+<string id="Complications_TopType_2" scope="foreground">이번 주 활동적 시간(분)</string>
+<string id="Complications_TopType_20" scope="foreground">레벨 이동</string>
+<string id="Complications_TopType_21" scope="foreground">호흡수</string>
+<string id="Complications_TopType_22" scope="foreground">해수면 기압</string>
+<string id="Complications_TopType_23" scope="foreground">속도(GPS 필요)</string>
+<string id="Complications_TopType_24" scope="foreground">단계</string>
+<string id="Complications_TopType_25" scope="foreground">온도</string>
+<string id="Complications_TopType_26" scope="foreground">회복 시간</string>
+<string id="Complications_TopType_27" scope="foreground">날씨 - 기분</string>
+<string id="Complications_TopType_28" scope="foreground">날씨 - 예상 높음/낮음</string>
+<string id="Complications_TopType_29" scope="foreground">날씨 - 강수 확률</string>
+<string id="Complications_TopType_3" scope="foreground">고도</string>
+<string id="Complications_TopType_30" scope="foreground">날씨 - 상대 습도</string>
+<string id="Complications_TopType_31" scope="foreground">날씨 - 기온</string>
+<string id="Complications_TopType_32" scope="foreground">날씨 - 풍속</string>
+<string id="Complications_TopType_4" scope="foreground">주변 압력</string>
+<string id="Complications_TopType_5" scope="foreground">바디 배터리</string>
+<string id="Complications_TopType_6" scope="foreground">칼로리</string>
+<string id="Complications_TopType_7" scope="foreground">현재 방향 - 도</string>
+<string id="Complications_TopType_8" scope="foreground">현재 방향 - NATO 학위</string>
+<string id="Complications_TopType_9" scope="foreground">현재 제목 - NESW</string>
+<string id="Complications_Type" scope="foreground">데이터 항목</string>
+<string id="Complications_Type_0" scope="foreground">없음</string>
+<string id="Complications_Type_1" scope="foreground">오늘 활동적 시간(분)</string>
+<string id="Complications_Type_10" scope="foreground">날짜</string>
+<string id="Complications_Type_11" scope="foreground">일광 - 일출</string>
+<string id="Complications_Type_12" scope="foreground">일광 - 일몰</string>
+<string id="Complications_Type_13" scope="foreground">일광 - 다음 이벤트</string>
+<string id="Complications_Type_14" scope="foreground">거리</string>
+<string id="Complications_Type_15" scope="foreground">층 - 상승</string>
+<string id="Complications_Type_16" scope="foreground">층 - 하강</string>
+<string id="Complications_Type_17" scope="foreground">층수 - 총계</string>
+<string id="Complications_Type_18" scope="foreground">심박수</string>
+<string id="Complications_Type_19" scope="foreground">심박수 구간</string>
+<string id="Complications_Type_2" scope="foreground">이번 주 활동적 시간(분)</string>
+<string id="Complications_Type_20" scope="foreground">레벨 이동</string>
+<string id="Complications_Type_21" scope="foreground">호흡수</string>
+<string id="Complications_Type_22" scope="foreground">해수면 기압</string>
+<string id="Complications_Type_23" scope="foreground">속도(GPS 필요)</string>
+<string id="Complications_Type_24" scope="foreground">단계</string>
+<string id="Complications_Type_25" scope="foreground">온도</string>
+<string id="Complications_Type_26" scope="foreground">회복 시간</string>
+<string id="Complications_Type_27" scope="foreground">날씨 - 기분</string>
+<string id="Complications_Type_28" scope="foreground">날씨 - 예상 높음/낮음</string>
+<string id="Complications_Type_29" scope="foreground">날씨 - 강수 확률</string>
+<string id="Complications_Type_3" scope="foreground">고도</string>
+<string id="Complications_Type_30" scope="foreground">날씨 - 상대 습도</string>
+<string id="Complications_Type_31" scope="foreground">날씨 - 기온</string>
+<string id="Complications_Type_32" scope="foreground">날씨 - 풍속</string>
+<string id="Complications_Type_4" scope="foreground">주변 압력</string>
+<string id="Complications_Type_5" scope="foreground">바디 배터리</string>
+<string id="Complications_Type_6" scope="foreground">칼로리</string>
+<string id="Complications_Type_7" scope="foreground">현재 방향 - 도</string>
+<string id="Complications_Type_8" scope="foreground">현재 제목 - NATO 학위</string>
+<string id="Complications_Type_9" scope="foreground">현재 제목 - NESW</string>
+<string id="Coordinates" scope="foreground">좌표</string>
+<string id="Coordinates_Format" scope="foreground">형식</string>
+<string id="Coordinates_Format_0" scope="foreground">도</string>
+<string id="Coordinates_Format_1" scope="foreground">도/분</string>
+<string id="Coordinates_Format_2" scope="foreground">도/분/초</string>
+<string id="Coordinates_Format_3" scope="foreground">군사 그리드 참조 시스템</string>
+<string id="Days" scope="foreground">일</string>
+<string id="Days_Color" scope="foreground">반지 색상</string>
+<string id="Days_EnlargeEnabled" scope="foreground">텍스트 크기 확대</string>
+<string id="Days_Goal" scope="foreground">목표</string>
+<string id="Days_TextColor" scope="foreground">텍스트 색상</string>
+<string id="Days_TextGoalColor" scope="foreground">목표 텍스트 색상</string>
+<string id="Days_Type" scope="foreground">측정항목</string>
+<string id="Days_Type_0" scope="foreground">없음</string>
+<string id="Days_Type_1" scope="foreground">단계</string>
+<string id="Days_Type_2" scope="foreground">층수</string>
+<string id="Days_Type_3" scope="foreground">활동적 시간(분)</string>
+<string id="Days_Type_4" scope="foreground">칼로리</string>
+<string id="Days_Type_5" scope="foreground">거리</string>
+<string id="Global_Settings" scope="foreground">설정</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">GPS 사용</string>
+<string id="GPS_Latitude" scope="foreground">위도</string>
+<string id="GPS_Longitude" scope="foreground">경도</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">심박수</string>
+<string id="HeartRate_Adjustment" scope="foreground">조정</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">휴식 중</string>
+<string id="History" scope="foreground">역사</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">증폭 감소</string>
+<string id="History_Max" scope="foreground">최대</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">지난 $1$ 시간</string>
+<string id="History_Type" scope="foreground">그래프 스타일</string>
+<string id="History_Type_0" scope="foreground">열</string>
+<string id="History_Type_1" scope="foreground">스플라인</string>
+<string id="Location_Acquiring" scope="foreground">GPS 위치를 가져오는 중입니다. 하늘이 잘 보이는 곳에 있어야 합니다.</string>
+<string id="Location_InvalidLong" scope="foreground">위치를 획득할 수 없습니다. 기기 GPS 또는 설정을 확인하세요.</string>
+<string id="Location_InvalidShort" scope="glance">잘못된 위치</string>
+<string id="Location_RequiredLong" scope="foreground">GPS 위치가 필요합니다. 위젯을 탭하거나 선택하세요.</string>
+<string id="Location_RequiredShort" scope="glance">위치 필수</string>
+<string id="LowBattery" scope="foreground">배터리 부족</string>
+<string id="LowBattery_Enabled" scope="foreground">배터리 부족 모드 활성화</string>
+<string id="MinimalDays" scope="foreground">최소 일수</string>
+<string id="MIP" scope="foreground">MIP 장치</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">올리거나 탭하여 깨우기</string>
+<string id="Months_April" scope="foreground">4월</string>
+<string id="Months_August" scope="foreground">8월</string>
+<string id="Months_December" scope="foreground">12월</string>
+<string id="Months_February" scope="foreground">2월</string>
+<string id="Months_January" scope="foreground">1월</string>
+<string id="Months_July" scope="foreground">7월</string>
+<string id="Months_June" scope="foreground">6월</string>
+<string id="Months_March" scope="foreground">3월</string>
+<string id="Months_May" scope="foreground">5월</string>
+<string id="Months_November" scope="foreground">11월</string>
+<string id="Months_October" scope="foreground">10월</string>
+<string id="Months_September" scope="foreground">9월</string>
+<string id="SimplyElegant" scope="foreground">단순히 우아함</string>
+<string id="Sleep" scope="foreground">수면</string>
+<string id="Sleep_Enabled" scope="foreground">수면 모드 활성화</string>
+<string id="StormAlert" scope="foreground">기압 변화 경보</string>
+<string id="StormAlert_Active" scope="foreground">경고</string>
+<string id="StormAlert_Message" scope="foreground">메시지</string>
+<string id="StormAlert_MessageError" scope="foreground">해당 메시지는 필수입니다</string>
+<string id="StormAlert_RateOfChange" scope="foreground">변화율</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">3시간당 6밀리바</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">3시간당 5.5밀리바</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">3시간당 1밀리바</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">3시간당 5밀리바</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">3시간당 4.5밀리바</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">3시간당 4밀리바</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3시간당 3.5밀리바</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3시간당 3밀리바</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">3시간당 2.5밀리바</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">3시간당 2밀리바</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">3시간당 1.5밀리바</string>
+<string id="SunTimes" scope="glance">일요일 시간</string>
+<string id="SunTimes_NextEventIn" scope="foreground">다음 이벤트 시작</string>
+<string id="SunTimes_Sunrise" scope="foreground">일출</string>
+<string id="SunTimes_SunriseIn" scope="glance">일출 시간</string>
+<string id="SunTimes_Sunset" scope="foreground">일몰</string>
+<string id="SunTimes_SunsetIn" scope="glance">일몰</string>
+<string id="SunTimes_Today" scope="foreground">오늘</string>
+<string id="System" scope="foreground">상태 아이콘</string>
+<string id="System_AlarmsEnabled" scope="foreground">알람 아이콘</string>
+<string id="System_BatteryDay" scope="foreground">일</string>
+<string id="System_BatteryDays" scope="foreground">일수</string>
+<string id="System_BatteryEnabled" scope="foreground">배터리 아이콘</string>
+<string id="System_BluetoothEnabled" scope="foreground">블루투스 아이콘</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">방해금지 아이콘</string>
+<string id="System_NotificationsEnabled" scope="foreground">알림 아이콘</string>
+<string id="Temperature" scope="glance">온도</string>
+<string id="Temperature_Adjustment" scope="foreground">조정</string>
+<string id="Temperature_CoreEnabled" scope="foreground">코어로 변환</string>
+<string id="Time" scope="foreground">시간</string>
+<string id="Time_DisplayFormat" scope="foreground">표시 형식</string>
+<string id="Time_DisplayFormat_0" scope="foreground">기본값</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12시간</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24시간</string>
+<string id="Time_NextEventEnabled" scope="foreground">다음 이벤트 표시</string>
+<string id="Twilight" scope="foreground">황혼</string>
+<string id="Twilight_Level" scope="foreground">레벨</string>
+<string id="Twilight_Level_0" scope="foreground">천문학적</string>
+<string id="Twilight_Level_1" scope="foreground">해상</string>
+<string id="Twilight_Level_2" scope="foreground">민간</string>
+<string id="Units" scope="foreground">단위</string>
+<string id="Units_Date" scope="foreground">날짜</string>
+<string id="Units_Date_0" scope="foreground">DDDD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM YY</string>
+<string id="Units_Pressure" scope="foreground">기압계</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">더 큰 글꼴 사용</string>
+<string id="UX_MeterHandStyle" scope="foreground">미터 바늘 스타일</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">스타일 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">스타일 2</string>

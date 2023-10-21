@@ -1,0 +1,42 @@
+{
+  "name": "Temperature",
+  "id": "69ee9a59-d626-4870-b0ec-0720498fbbf2",
+  "version": "2.1.7",
+  "deviceExclusions": [
+    "vivoactive5"
+  ],
+  "modules": [
+    "Sensor",
+    "SensorHistory"
+  ],
+  "properties": [
+    {
+      "id": "Temperature",
+      "items": [
+        {
+          "id": "Adjustment",
+          "type": "float",
+          "default": "3.0"
+        },
+        {
+          "id": "CoreEnabled",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    },
+    {
+      "id": "History",
+      "items": [
+        {
+          "id": "AlphaWeightEnabled",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    }
+  ],
+  "drawables": [
+    "project.drawables.json"
+  ]
+}

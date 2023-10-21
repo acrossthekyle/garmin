@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Nadmorska visina</string>
+<string id="Altitude_Ascent" scope="foreground">Uspon</string>
+<string id="Altitude_Descent" scope="foreground">Silazak</string>
+<string id="Altitude_Oxygen" scope="foreground">Kisik</string>
+<string id="Altitude_Precision" scope="foreground">Preciznost</string>
+<string id="Altitude_Precision_0" scope="foreground">0 decimala</string>
+<string id="Altitude_Precision_1" scope="foreground">1 decimala</string>
+<string id="Altitude_Precision_2" scope="foreground">2 decimale</string>
+<string id="Altitude_Risk" scope="foreground">Rizik</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Ništa</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Prikaži jedinice</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Ekstremno</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Visoko</string>
+<string id="Altitude_ZoneLow" scope="foreground">Nisko</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Umjereno</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Vrlo visoko</string>
+<string id="AOD" scope="foreground">AMOLED uređaji</string>
+<string id="AOD_Enabled" scope="foreground">Omogući AOD način</string>
+<string id="Barometer" scope="glance">Barometar</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Mjerna jedinica</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Prikaži jedinice</string>
+<string id="Clock" scope="foreground">Sat</string>
+<string id="Clock_AmPmColor" scope="foreground">Boja AM/PM</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Prikaži AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Uvećaj tekst sata</string>
+<string id="Clock_HoursColor" scope="foreground">Boja sati</string>
+<string id="Clock_MinutesColor" scope="foreground">Boja minuta</string>
+<string id="Clock_SecondsColor" scope="foreground">Boja sekundi</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Prikaži sekunde</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Omogući sekunde samo kada su aktivne</string>
+<string id="Compass" scope="glance">Kompas</string>
+<string id="Compass_Color" scope="foreground">Boja</string>
+<string id="Compass_Declination" scope="foreground">Deklinacija</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Format stupnjeva</string>
+<string id="Compass_Deviation" scope="foreground">Odstupanje</string>
+<string id="Compass_Mils" scope="foreground">6400 mil (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Brzina osvježavanja</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Komplikacije</string>
+<string id="Complications_BottomColor" scope="foreground">Boja donjih podataka</string>
+<string id="Complications_BottomType" scope="foreground">Donja podatkovna stavka</string>
+<string id="Complications_BottomType_0" scope="foreground">Ništa</string>
+<string id="Complications_BottomType_1" scope="foreground">Aktivne minute danas</string>
+<string id="Complications_BottomType_10" scope="foreground">Datum</string>
+<string id="Complications_BottomType_11" scope="foreground">Dnevno svjetlo - izlazak sunca</string>
+<string id="Complications_BottomType_12" scope="foreground">Dnevno svjetlo - zalazak sunca</string>
+<string id="Complications_BottomType_13" scope="foreground">Dnevno svjetlo - sljedeći događaj</string>
+<string id="Complications_BottomType_14" scope="foreground">Udaljenost</string>
+<string id="Complications_BottomType_15" scope="foreground">Podovi - uspon</string>
+<string id="Complications_BottomType_16" scope="foreground">Podovi - spušteni</string>
+<string id="Complications_BottomType_17" scope="foreground">Podovi - Ukupno</string>
+<string id="Complications_BottomType_18" scope="foreground">Otkucaji srca</string>
+<string id="Complications_BottomType_19" scope="foreground">Zona otkucaja srca</string>
+<string id="Complications_BottomType_2" scope="foreground">Aktivne minute ovaj tjedan</string>
+<string id="Complications_BottomType_20" scope="foreground">Pomakni razinu</string>
+<string id="Complications_BottomType_21" scope="foreground">Brzina disanja</string>
+<string id="Complications_BottomType_22" scope="foreground">Tlak na razini mora</string>
+<string id="Complications_BottomType_23" scope="foreground">Brzina (potreban GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Koraci</string>
+<string id="Complications_BottomType_25" scope="foreground">Temperatura</string>
+<string id="Complications_BottomType_26" scope="foreground">Vrijeme do oporavka</string>
+<string id="Complications_BottomType_27" scope="foreground">Vrijeme - osjeća se kao</string>
+<string id="Complications_BottomType_28" scope="foreground">Vrijeme - prognozirano visoko/nisko</string>
+<string id="Complications_BottomType_29" scope="foreground">Vrijeme - Mogućnost oborina</string>
+<string id="Complications_BottomType_3" scope="foreground">Nadmorska visina</string>
+<string id="Complications_BottomType_30" scope="foreground">Vrijeme - relativna vlažnost</string>
+<string id="Complications_BottomType_31" scope="foreground">Vrijeme - Temperatura</string>
+<string id="Complications_BottomType_32" scope="foreground">Vrijeme - brzina vjetra</string>
+<string id="Complications_BottomType_4" scope="foreground">Tlak okoline</string>
+<string id="Complications_BottomType_5" scope="foreground">Baterija za tijelo</string>
+<string id="Complications_BottomType_6" scope="foreground">Kalorije</string>
+<string id="Complications_BottomType_7" scope="foreground">Trenutni naslov - stupnjevi</string>
+<string id="Complications_BottomType_8" scope="foreground">Trenutni naslov - NATO diplome</string>
+<string id="Complications_BottomType_9" scope="foreground">Trenutni naslov - NESW</string>
+<string id="Complications_Color" scope="foreground">Boja podataka</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Veličina teksta podataka za povećanje</string>
+<string id="Complications_IconEnabled" scope="foreground">Ikona Omogući</string>
+<string id="Complications_Label_Active" scope="foreground">Aktivan</string>
+<string id="Complications_Label_Altitude" scope="foreground">Nadmorska visina</string>
+<string id="Complications_Label_Ascended" scope="foreground">Uzašlo</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometar</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Baterija za tijelo</string>
+<string id="Complications_Label_Calories" scope="foreground">Kalorije</string>
+<string id="Complications_Label_Current" scope="foreground">Trenutno</string>
+<string id="Complications_Label_Descended" scope="foreground">Spustio se</string>
+<string id="Complications_Label_Distance" scope="foreground">Udaljenost</string>
+<string id="Complications_Label_Floors" scope="foreground">Podovi</string>
+<string id="Complications_Label_Heading" scope="foreground">Naslov</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">stupnjevi</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Pravi sjever</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Otkucaji srca</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Zona otkucaja srca</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Premjesti razinu</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Oporavak</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Disanje</string>
+<string id="Complications_Label_Speed" scope="foreground">Brzina</string>
+<string id="Complications_Label_Steps" scope="foreground">Koraci</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Izlazak sunca</string>
+<string id="Complications_Label_Sunset" scope="foreground">Zalazak sunca</string>
+<string id="Complications_Label_Temperature" scope="foreground">Temperatura</string>
+<string id="Complications_Label_Today" scope="foreground">Danas</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Sutra</string>
+<string id="Complications_Label_Total" scope="foreground">Ukupno</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Temperatura</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Osjećaj je kao</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Visoko/Nisko</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Mogućnost kiše</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Vlažnost</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Brzina vjetra</string>
+<string id="Complications_Label_Week" scope="foreground">Tjedan</string>
+<string id="Complications_TopColor" scope="foreground">Gornja boja podataka</string>
+<string id="Complications_TopType" scope="foreground">Glavna podatkovna stavka</string>
+<string id="Complications_TopType_0" scope="foreground">Ništa</string>
+<string id="Complications_TopType_1" scope="foreground">Aktivne minute danas</string>
+<string id="Complications_TopType_10" scope="foreground">Datum</string>
+<string id="Complications_TopType_11" scope="foreground">Dnevno svjetlo - izlazak sunca</string>
+<string id="Complications_TopType_12" scope="foreground">Dnevno svjetlo - zalazak sunca</string>
+<string id="Complications_TopType_13" scope="foreground">Dnevno svjetlo - sljedeći događaj</string>
+<string id="Complications_TopType_14" scope="foreground">Udaljenost</string>
+<string id="Complications_TopType_15" scope="foreground">Podovi - uspon</string>
+<string id="Complications_TopType_16" scope="foreground">Katovi - spušteni</string>
+<string id="Complications_TopType_17" scope="foreground">Katovi - ukupno</string>
+<string id="Complications_TopType_18" scope="foreground">Puls</string>
+<string id="Complications_TopType_19" scope="foreground">Zona otkucaja srca</string>
+<string id="Complications_TopType_2" scope="foreground">Aktivne minute ovaj tjedan</string>
+<string id="Complications_TopType_20" scope="foreground">Premjesti razinu</string>
+<string id="Complications_TopType_21" scope="foreground">Brzina disanja</string>
+<string id="Complications_TopType_22" scope="foreground">Tlak na razini mora</string>
+<string id="Complications_TopType_23" scope="foreground">Brzina (potreban GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Koraci</string>
+<string id="Complications_TopType_25" scope="foreground">Temperatura</string>
+<string id="Complications_TopType_26" scope="foreground">Vrijeme do oporavka</string>
+<string id="Complications_TopType_27" scope="foreground">Vrijeme - osjeća se kao</string>
+<string id="Complications_TopType_28" scope="foreground">Vrijeme - prognozirano visoko/nisko</string>
+<string id="Complications_TopType_29" scope="foreground">Vrijeme - Mogućnost oborina</string>
+<string id="Complications_TopType_3" scope="foreground">Nadmorska visina</string>
+<string id="Complications_TopType_30" scope="foreground">Vrijeme - relativna vlažnost</string>
+<string id="Complications_TopType_31" scope="foreground">Vrijeme - temperatura</string>
+<string id="Complications_TopType_32" scope="foreground">Vrijeme - brzina vjetra</string>
+<string id="Complications_TopType_4" scope="foreground">Tlak okoline</string>
+<string id="Complications_TopType_5" scope="foreground">Baterija za tijelo</string>
+<string id="Complications_TopType_6" scope="foreground">Kalorije</string>
+<string id="Complications_TopType_7" scope="foreground">Trenutni naslov - stupnjevi</string>
+<string id="Complications_TopType_8" scope="foreground">Trenutni naslov - NATO diplome</string>
+<string id="Complications_TopType_9" scope="foreground">Trenutni naslov - NESW</string>
+<string id="Complications_Type" scope="foreground">Podatkovna stavka</string>
+<string id="Complications_Type_0" scope="foreground">Ništa</string>
+<string id="Complications_Type_1" scope="foreground">Aktivne minute danas</string>
+<string id="Complications_Type_10" scope="foreground">Datum</string>
+<string id="Complications_Type_11" scope="foreground">Dnevno svjetlo - izlazak sunca</string>
+<string id="Complications_Type_12" scope="foreground">Dnevno svjetlo - zalazak sunca</string>
+<string id="Complications_Type_13" scope="foreground">Dnevno svjetlo - sljedeći događaj</string>
+<string id="Complications_Type_14" scope="foreground">Udaljenost</string>
+<string id="Complications_Type_15" scope="foreground">Podovi - uspon</string>
+<string id="Complications_Type_16" scope="foreground">Katovi - spušteni</string>
+<string id="Complications_Type_17" scope="foreground">Katovi - Ukupno</string>
+<string id="Complications_Type_18" scope="foreground">Otkucaji srca</string>
+<string id="Complications_Type_19" scope="foreground">Zona otkucaja srca</string>
+<string id="Complications_Type_2" scope="foreground">Aktivne minute ovaj tjedan</string>
+<string id="Complications_Type_20" scope="foreground">Pomakni razinu</string>
+<string id="Complications_Type_21" scope="foreground">Brzina disanja</string>
+<string id="Complications_Type_22" scope="foreground">Tlak na razini mora</string>
+<string id="Complications_Type_23" scope="foreground">Brzina (Potreban GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Koraci</string>
+<string id="Complications_Type_25" scope="foreground">Temperatura</string>
+<string id="Complications_Type_26" scope="foreground">Vrijeme do oporavka</string>
+<string id="Complications_Type_27" scope="foreground">Vrijeme - osjeća se kao</string>
+<string id="Complications_Type_28" scope="foreground">Vrijeme - prognozirano visoko/nisko</string>
+<string id="Complications_Type_29" scope="foreground">Vrijeme - Mogućnost oborina</string>
+<string id="Complications_Type_3" scope="foreground">Nadmorska visina</string>
+<string id="Complications_Type_30" scope="foreground">Vrijeme - relativna vlažnost</string>
+<string id="Complications_Type_31" scope="foreground">Vrijeme - Temperatura</string>
+<string id="Complications_Type_32" scope="foreground">Vrijeme - brzina vjetra</string>
+<string id="Complications_Type_4" scope="foreground">Tlak okoline</string>
+<string id="Complications_Type_5" scope="foreground">Baterija za tijelo</string>
+<string id="Complications_Type_6" scope="foreground">Kalorije</string>
+<string id="Complications_Type_7" scope="foreground">Trenutni naslov - stupnjevi</string>
+<string id="Complications_Type_8" scope="foreground">Trenutni naslov - NATO diplome</string>
+<string id="Complications_Type_9" scope="foreground">Trenutni naslov - NESW</string>
+<string id="Coordinates" scope="foreground">Koordinate</string>
+<string id="Coordinates_Format" scope="foreground">Format</string>
+<string id="Coordinates_Format_0" scope="foreground">Stupnjevi</string>
+<string id="Coordinates_Format_1" scope="foreground">Stupnjevi/minute</string>
+<string id="Coordinates_Format_2" scope="foreground">Stupnjevi/Minute/Sekunde</string>
+<string id="Coordinates_Format_3" scope="foreground">Vojni mrežni referentni sustav</string>
+<string id="Days" scope="foreground">Dani</string>
+<string id="Days_Color" scope="foreground">Boja prstena</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Veličina teksta za povećanje</string>
+<string id="Days_Goal" scope="foreground">Cilj</string>
+<string id="Days_TextColor" scope="foreground">Boja teksta</string>
+<string id="Days_TextGoalColor" scope="foreground">Boja teksta cilja</string>
+<string id="Days_Type" scope="foreground">Mjerni podatak</string>
+<string id="Days_Type_0" scope="foreground">Ništa</string>
+<string id="Days_Type_1" scope="foreground">Koraci</string>
+<string id="Days_Type_2" scope="foreground">Katovi</string>
+<string id="Days_Type_3" scope="foreground">Aktivne minute</string>
+<string id="Days_Type_4" scope="foreground">Kalorije</string>
+<string id="Days_Type_5" scope="foreground">Udaljenost</string>
+<string id="Global_Settings" scope="foreground">Postavke</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Koristite GPS</string>
+<string id="GPS_Latitude" scope="foreground">Geografska širina</string>
+<string id="GPS_Longitude" scope="foreground">Geografska dužina</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Otkucaji srca</string>
+<string id="HeartRate_Adjustment" scope="foreground">Prilagodba</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Odmaranje</string>
+<string id="History" scope="foreground">Povijest</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Smanjenje pojačanja</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">ZADNJIH $1$ SATI</string>
+<string id="History_Type" scope="foreground">Stil grafikona</string>
+<string id="History_Type_0" scope="foreground">Stupac</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Dohvaćanje GPS pozicije, molimo vas da imate jasan pogled na nebo.</string>
+<string id="Location_InvalidLong" scope="foreground">Ne mogu dobiti lokaciju, provjerite GPS ili postavke uređaja.</string>
+<string id="Location_InvalidShort" scope="glance">Nevažeća lokacija</string>
+<string id="Location_RequiredLong" scope="foreground">Potreban vam je GPS položaj, dodirnite ili odaberite widget.</string>
+<string id="Location_RequiredShort" scope="glance">Potrebna lokacija</string>
+<string id="LowBattery" scope="foreground">Niska baterija</string>
+<string id="LowBattery_Enabled" scope="foreground">Omogući način rada niske baterije</string>
+<string id="MinimalDays" scope="foreground">Minimalni broj dana</string>
+<string id="MIP" scope="foreground">MIP uređaji</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Podignite/dodirnite za buđenje</string>
+<string id="Months_April" scope="foreground">Travanj</string>
+<string id="Months_August" scope="foreground">Kolovoz</string>
+<string id="Months_December" scope="foreground">Prosinac</string>
+<string id="Months_February" scope="foreground">veljača</string>
+<string id="Months_January" scope="foreground">siječanj</string>
+<string id="Months_July" scope="foreground">srpanj</string>
+<string id="Months_June" scope="foreground">Lipanj</string>
+<string id="Months_March" scope="foreground">ožujak</string>
+<string id="Months_May" scope="foreground">svibanj</string>
+<string id="Months_November" scope="foreground">Studeni</string>
+<string id="Months_October" scope="foreground">listopad</string>
+<string id="Months_September" scope="foreground">rujan</string>
+<string id="SimplyElegant" scope="foreground">Jednostavno elegantno</string>
+<string id="Sleep" scope="foreground">Spavanje</string>
+<string id="Sleep_Enabled" scope="foreground">Omogući način mirovanja</string>
+<string id="StormAlert" scope="foreground">Upozorenje o promjeni tlaka</string>
+<string id="StormAlert_Active" scope="foreground">Upozorenje</string>
+<string id="StormAlert_Message" scope="foreground">Poruka</string>
+<string id="StormAlert_MessageError" scope="foreground">Poruka je obavezna</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Stopa promjene</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 milibara na 3 sata</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 milibara po 3 sata</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 milibara po 3 sata</string>
+<string id="SunTimes" scope="glance">Sun Times</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Sljedeći događaj u</string>
+<string id="SunTimes_Sunrise" scope="foreground">Izlazak sunca</string>
+<string id="SunTimes_SunriseIn" scope="glance">Izlazak sunca</string>
+<string id="SunTimes_Sunset" scope="foreground">Zalazak sunca</string>
+<string id="SunTimes_SunsetIn" scope="glance">Zalazak sunca</string>
+<string id="SunTimes_Today" scope="foreground">Danas</string>
+<string id="System" scope="foreground">Ikone statusa</string>
+<string id="System_AlarmsEnabled" scope="foreground">Ikona alarma</string>
+<string id="System_BatteryDay" scope="foreground">Dan</string>
+<string id="System_BatteryDays" scope="foreground">Dani</string>
+<string id="System_BatteryEnabled" scope="foreground">Ikona baterije</string>
+<string id="System_BluetoothEnabled" scope="foreground">Ikona Bluetooth</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Ikona Ne uznemiravaj</string>
+<string id="System_NotificationsEnabled" scope="foreground">Ikona obavijesti</string>
+<string id="Temperature" scope="glance">Temperatura</string>
+<string id="Temperature_Adjustment" scope="foreground">Prilagodba</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Pretvori u jezgru</string>
+<string id="Time" scope="foreground">Vrijeme</string>
+<string id="Time_DisplayFormat" scope="foreground">Format prikaza</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Zadano</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 sati</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 sata</string>
+<string id="Time_NextEventEnabled" scope="foreground">Prikaži sljedeći događaj</string>
+<string id="Twilight" scope="foreground">Sumrak</string>
+<string id="Twilight_Level" scope="foreground">Razina</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomski</string>
+<string id="Twilight_Level_1" scope="foreground">Nautika</string>
+<string id="Twilight_Level_2" scope="foreground">Civil</string>
+<string id="Units" scope="foreground">Jedinice</string>
+<string id="Units_Date" scope="foreground">Datum</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM GG</string>
+<string id="Units_Pressure" scope="foreground">Barometar</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Koristi veći font</string>
+<string id="UX_MeterHandStyle" scope="foreground">Stil kazaljke mjerača</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Stil 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Stil 2</string>

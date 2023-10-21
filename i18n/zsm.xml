@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Altitud</string>
+<string id="Altitude_Ascent" scope="foreground">Ascent</string>
+<string id="Altitude_Descent" scope="foreground">Descent</string>
+<string id="Altitude_Oxygen" scope="foreground">Oksigen</string>
+<string id="Altitude_Precision" scope="foreground">Ketepatan</string>
+<string id="Altitude_Precision_0" scope="foreground">0 Perpuluhan</string>
+<string id="Altitude_Precision_1" scope="foreground">1 Perpuluhan</string>
+<string id="Altitude_Precision_2" scope="foreground">2 Decimals</string>
+<string id="Altitude_Risk" scope="foreground">Risiko</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Tiada</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Tunjukkan Unit</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Melampau</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Tinggi</string>
+<string id="Altitude_ZoneLow" scope="foreground">Rendah</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Sederhana</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Sangat Tinggi</string>
+<string id="AOD" scope="foreground">Peranti AMOLED</string>
+<string id="AOD_Enabled" scope="foreground">Dayakan Mod AOD</string>
+<string id="Barometer" scope="glance">Barometer</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Unit Pengukuran</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Tunjukkan Unit</string>
+<string id="Clock" scope="foreground">Jam</string>
+<string id="Clock_AmPmColor" scope="foreground">Warna AM/PM</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Tunjukkan AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Besarkan Teks Jam</string>
+<string id="Clock_HoursColor" scope="foreground">Warna Jam</string>
+<string id="Clock_MinutesColor" scope="foreground">Warna Minit</string>
+<string id="Clock_SecondsColor" scope="foreground">Warna Saat</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Tunjukkan Saat</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Dayakan Saat Hanya Apabila Aktif</string>
+<string id="Compass" scope="glance">Kompas</string>
+<string id="Compass_Color" scope="foreground">Warna</string>
+<string id="Compass_Declination" scope="foreground">Declination</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Format Darjah</string>
+<string id="Compass_Deviation" scope="foreground">Penyimpangan</string>
+<string id="Compass_Mils" scope="foreground">6400 Mils (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Kadar Muat Semula</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Complications" scope="foreground">Complications</string>
+<string id="Complications_BottomColor" scope="foreground">Warna Data Bawah</string>
+<string id="Complications_BottomType" scope="foreground">Item Data Bawah</string>
+<string id="Complications_BottomType_0" scope="foreground">Tiada</string>
+<string id="Complications_BottomType_1" scope="foreground">Minit Aktif Hari Ini</string>
+<string id="Complications_BottomType_10" scope="foreground">Tarikh</string>
+<string id="Complications_BottomType_11" scope="foreground">Siang - Matahari Terbit</string>
+<string id="Complications_BottomType_12" scope="foreground">Siang - Matahari terbenam</string>
+<string id="Complications_BottomType_13" scope="foreground">Siang - Acara Seterusnya</string>
+<string id="Complications_BottomType_14" scope="foreground">Jarak</string>
+<string id="Complications_BottomType_15" scope="foreground">Tingkat - Menaik</string>
+<string id="Complications_BottomType_16" scope="foreground">Tingkat - Turun</string>
+<string id="Complications_BottomType_17" scope="foreground">Tingkat - Jumlah</string>
+<string id="Complications_BottomType_18" scope="foreground">Denyutan Jantung</string>
+<string id="Complications_BottomType_19" scope="foreground">Zon Degupan Jantung</string>
+<string id="Complications_BottomType_2" scope="foreground">Minit Aktif Minggu Ini</string>
+<string id="Complications_BottomType_20" scope="foreground">Tahap Pergerakan</string>
+<string id="Complications_BottomType_21" scope="foreground">Kadar Pernafasan</string>
+<string id="Complications_BottomType_22" scope="foreground">Tekanan Paras Laut</string>
+<string id="Complications_BottomType_23" scope="foreground">Kelajuan (Memerlukan GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Langkah</string>
+<string id="Complications_BottomType_25" scope="foreground">Suhu</string>
+<string id="Complications_BottomType_26" scope="foreground">Masa untuk Pemulihan</string>
+<string id="Complications_BottomType_27" scope="foreground">Cuaca - Terasa Seperti</string>
+<string id="Complications_BottomType_28" scope="foreground">Cuaca - Ramalan Tinggi/Rendah</string>
+<string id="Complications_BottomType_29" scope="foreground">Cuaca - Peluang Kerpasan</string>
+<string id="Complications_BottomType_3" scope="foreground">Altitud</string>
+<string id="Complications_BottomType_30" scope="foreground">Cuaca - Kelembapan Relatif</string>
+<string id="Complications_BottomType_31" scope="foreground">Cuaca - Suhu</string>
+<string id="Complications_BottomType_32" scope="foreground">Cuaca - Kelajuan Angin</string>
+<string id="Complications_BottomType_4" scope="foreground">Tekanan Ambien</string>
+<string id="Complications_BottomType_5" scope="foreground">Bateri Badan</string>
+<string id="Complications_BottomType_6" scope="foreground">Kalori</string>
+<string id="Complications_BottomType_7" scope="foreground">Tajuk Semasa - Darjah</string>
+<string id="Complications_BottomType_8" scope="foreground">Tajuk Semasa - Ijazah NATO</string>
+<string id="Complications_BottomType_9" scope="foreground">Tajuk Semasa - NESW</string>
+<string id="Complications_Color" scope="foreground">Warna Data</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Besarkan Saiz Teks Data</string>
+<string id="Complications_IconEnabled" scope="foreground">Dayakan Ikon</string>
+<string id="Complications_Label_Active" scope="foreground">Aktif</string>
+<string id="Complications_Label_Altitude" scope="foreground">Ketinggian</string>
+<string id="Complications_Label_Ascended" scope="foreground">Ascended</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometer</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Bateri Badan</string>
+<string id="Complications_Label_Calories" scope="foreground">Kalori</string>
+<string id="Complications_Label_Current" scope="foreground">Semasa</string>
+<string id="Complications_Label_Descended" scope="foreground">Turun</string>
+<string id="Complications_Label_Distance" scope="foreground">Jarak</string>
+<string id="Complications_Label_Floors" scope="foreground">Tingkat</string>
+<string id="Complications_Label_Heading" scope="foreground">Tajuk</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Ijazah</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">True North</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Denyutan Jantung</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Zon Degupan Jantung</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Tahap Alih</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Pemulihan</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Respirasi</string>
+<string id="Complications_Label_Speed" scope="foreground">Kelajuan</string>
+<string id="Complications_Label_Steps" scope="foreground">Langkah</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Matahari terbit</string>
+<string id="Complications_Label_Sunset" scope="foreground">Matahari terbenam</string>
+<string id="Complications_Label_Temperature" scope="foreground">Suhu</string>
+<string id="Complications_Label_Today" scope="foreground">Hari ini</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Esok</string>
+<string id="Complications_Label_Total" scope="foreground">Jumlah</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Suhu</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Rasa Suka</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Tinggi/Rendah</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Peluang Hujan</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Kelembapan</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Kelajuan Angin</string>
+<string id="Complications_Label_Week" scope="foreground">Minggu</string>
+<string id="Complications_TopColor" scope="foreground">Warna Data Teratas</string>
+<string id="Complications_TopType" scope="foreground">Item Data Teratas</string>
+<string id="Complications_TopType_0" scope="foreground">Tiada</string>
+<string id="Complications_TopType_1" scope="foreground">Minit Aktif Hari Ini</string>
+<string id="Complications_TopType_10" scope="foreground">Tarikh</string>
+<string id="Complications_TopType_11" scope="foreground">Siang - Matahari Terbit</string>
+<string id="Complications_TopType_12" scope="foreground">Siang - Matahari terbenam</string>
+<string id="Complications_TopType_13" scope="foreground">Siang - Acara Seterusnya</string>
+<string id="Complications_TopType_14" scope="foreground">Jarak</string>
+<string id="Complications_TopType_15" scope="foreground">Tingkat - Menaik</string>
+<string id="Complications_TopType_16" scope="foreground">Tingkat - Turun</string>
+<string id="Complications_TopType_17" scope="foreground">Tingkat - Jumlah</string>
+<string id="Complications_TopType_18" scope="foreground">Denyutan Jantung</string>
+<string id="Complications_TopType_19" scope="foreground">Zon Degupan Jantung</string>
+<string id="Complications_TopType_2" scope="foreground">Minit Aktif Minggu Ini</string>
+<string id="Complications_TopType_20" scope="foreground">Tahap Pergerakan</string>
+<string id="Complications_TopType_21" scope="foreground">Kadar Pernafasan</string>
+<string id="Complications_TopType_22" scope="foreground">Tekanan Paras Laut</string>
+<string id="Complications_TopType_23" scope="foreground">Kelajuan (Memerlukan GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Langkah</string>
+<string id="Complications_TopType_25" scope="foreground">Suhu</string>
+<string id="Complications_TopType_26" scope="foreground">Masa untuk Pemulihan</string>
+<string id="Complications_TopType_27" scope="foreground">Cuaca - Terasa Seperti</string>
+<string id="Complications_TopType_28" scope="foreground">Cuaca - Ramalan Tinggi/Rendah</string>
+<string id="Complications_TopType_29" scope="foreground">Cuaca - Peluang Kerpasan</string>
+<string id="Complications_TopType_3" scope="foreground">Altitud</string>
+<string id="Complications_TopType_30" scope="foreground">Cuaca - Kelembapan Relatif</string>
+<string id="Complications_TopType_31" scope="foreground">Cuaca - Suhu</string>
+<string id="Complications_TopType_32" scope="foreground">Cuaca - Kelajuan Angin</string>
+<string id="Complications_TopType_4" scope="foreground">Tekanan Ambien</string>
+<string id="Complications_TopType_5" scope="foreground">Bateri Badan</string>
+<string id="Complications_TopType_6" scope="foreground">Kalori</string>
+<string id="Complications_TopType_7" scope="foreground">Tajuk Semasa - Darjah</string>
+<string id="Complications_TopType_8" scope="foreground">Tajuk Semasa - Ijazah NATO</string>
+<string id="Complications_TopType_9" scope="foreground">Tajuk Semasa - NESW</string>
+<string id="Complications_Type" scope="foreground">Item Data</string>
+<string id="Complications_Type_0" scope="foreground">Tiada</string>
+<string id="Complications_Type_1" scope="foreground">Minit Aktif Hari Ini</string>
+<string id="Complications_Type_10" scope="foreground">Tarikh</string>
+<string id="Complications_Type_11" scope="foreground">Siang - Matahari Terbit</string>
+<string id="Complications_Type_12" scope="foreground">Siang - Matahari terbenam</string>
+<string id="Complications_Type_13" scope="foreground">Siang - Acara Seterusnya</string>
+<string id="Complications_Type_14" scope="foreground">Jarak</string>
+<string id="Complications_Type_15" scope="foreground">Tingkat - Menaik</string>
+<string id="Complications_Type_16" scope="foreground">Tingkat - Turun</string>
+<string id="Complications_Type_17" scope="foreground">Tingkat - Jumlah</string>
+<string id="Complications_Type_18" scope="foreground">Denyutan Jantung</string>
+<string id="Complications_Type_19" scope="foreground">Zon Denyutan Jantung</string>
+<string id="Complications_Type_2" scope="foreground">Minit Aktif Minggu Ini</string>
+<string id="Complications_Type_20" scope="foreground">Tahap Alih</string>
+<string id="Complications_Type_21" scope="foreground">Kadar Pernafasan</string>
+<string id="Complications_Type_22" scope="foreground">Tekanan Paras Laut</string>
+<string id="Complications_Type_23" scope="foreground">Kelajuan (Memerlukan GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Langkah</string>
+<string id="Complications_Type_25" scope="foreground">Suhu</string>
+<string id="Complications_Type_26" scope="foreground">Masa untuk Pemulihan</string>
+<string id="Complications_Type_27" scope="foreground">Cuaca - Terasa Seperti</string>
+<string id="Complications_Type_28" scope="foreground">Cuaca - Ramalan Tinggi/Rendah</string>
+<string id="Complications_Type_29" scope="foreground">Cuaca - Peluang Kerpasan</string>
+<string id="Complications_Type_3" scope="foreground">Altitud</string>
+<string id="Complications_Type_30" scope="foreground">Cuaca - Kelembapan Relatif</string>
+<string id="Complications_Type_31" scope="foreground">Cuaca - Suhu</string>
+<string id="Complications_Type_32" scope="foreground">Cuaca - Kelajuan Angin</string>
+<string id="Complications_Type_4" scope="foreground">Tekanan Ambien</string>
+<string id="Complications_Type_5" scope="foreground">Bateri Badan</string>
+<string id="Complications_Type_6" scope="foreground">Kalori</string>
+<string id="Complications_Type_7" scope="foreground">Tajuk Semasa - Darjah</string>
+<string id="Complications_Type_8" scope="foreground">Tajuk Semasa - Ijazah NATO</string>
+<string id="Complications_Type_9" scope="foreground">Tajuk Semasa - NESW</string>
+<string id="Coordinates" scope="foreground">Coordinates</string>
+<string id="Coordinates_Format" scope="foreground">Format</string>
+<string id="Coordinates_Format_0" scope="foreground">darjah</string>
+<string id="Coordinates_Format_1" scope="foreground">Darjah/Minit</string>
+<string id="Coordinates_Format_2" scope="foreground">Darjah/Minit/Saat</string>
+<string id="Coordinates_Format_3" scope="foreground">Sistem Rujukan Grid Tentera</string>
+<string id="Days" scope="foreground">Hari</string>
+<string id="Days_Color" scope="foreground">Warna Cincin</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Besarkan Saiz Teks</string>
+<string id="Days_Goal" scope="foreground">Matlamat</string>
+<string id="Days_TextColor" scope="foreground">Warna Teks</string>
+<string id="Days_TextGoalColor" scope="foreground">Warna Teks Matlamat</string>
+<string id="Days_Type" scope="foreground">Metrik</string>
+<string id="Days_Type_0" scope="foreground">Tiada</string>
+<string id="Days_Type_1" scope="foreground">Langkah</string>
+<string id="Days_Type_2" scope="foreground">Tingkat</string>
+<string id="Days_Type_3" scope="foreground">Minit Aktif</string>
+<string id="Days_Type_4" scope="foreground">Kalori</string>
+<string id="Days_Type_5" scope="foreground">Jarak</string>
+<string id="Global_Settings" scope="foreground">Tetapan</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Gunakan GPS</string>
+<string id="GPS_Latitude" scope="foreground">Latitud</string>
+<string id="GPS_Longitude" scope="foreground">Longitud</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Denyutan Jantung</string>
+<string id="HeartRate_Adjustment" scope="foreground">Pelarasan</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Rehat</string>
+<string id="History" scope="foreground">Sejarah</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Kurangkan Penguatan</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">$1$ JAM TERAKHIR</string>
+<string id="History_Type" scope="foreground">Gaya Graf</string>
+<string id="History_Type_0" scope="foreground">Lajur</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Mendapatkan kedudukan GPS, sila lihat langit yang jelas.</string>
+<string id="Location_InvalidLong" scope="foreground">Tidak dapat memperoleh lokasi, sila semak GPS atau tetapan peranti.</string>
+<string id="Location_InvalidShort" scope="glance">Lokasi Tidak Sah</string>
+<string id="Location_RequiredLong" scope="foreground">Memerlukan kedudukan GPS, sila ketik atau pilih widget.</string>
+<string id="Location_RequiredShort" scope="glance">Lokasi Diperlukan</string>
+<string id="LowBattery" scope="foreground">Bateri Rendah</string>
+<string id="LowBattery_Enabled" scope="foreground">Dayakan Mod Bateri Rendah</string>
+<string id="MinimalDays" scope="foreground">Minimal Days</string>
+<string id="MIP" scope="foreground">Peranti MIP</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Naikkan/Ketik Untuk Bangun</string>
+<string id="Months_April" scope="foreground">April</string>
+<string id="Months_August" scope="foreground">Ogos</string>
+<string id="Months_December" scope="foreground">Disember</string>
+<string id="Months_February" scope="foreground">Februari</string>
+<string id="Months_January" scope="foreground">Januari</string>
+<string id="Months_July" scope="foreground">Julai</string>
+<string id="Months_Jun" scope="foreground">Jun</string>
+<string id="Months_March" scope="foreground">Mac</string>
+<string id="Months_May" scope="foreground">Mei</string>
+<string id="Months_November" scope="foreground">November</string>
+<string id="Months_October" scope="foreground">Oktober</string>
+<string id="Months_September" scope="foreground">September</string>
+<string id="RefreshRate_100" scope="foreground">100 ms</string>
+<string id="RefreshRate_1000" scope="foreground">1 saat</string>
+<string id="SimplyElegant" scope="foreground">Simply Elegant</string>
+<string id="Sleep" scope="foreground">Tidur</string>
+<string id="Sleep_Enabled" scope="foreground">Dayakan Mod Tidur</string>
+<string id="StormAlert" scope="foreground">Makluman Perubahan Tekanan</string>
+<string id="StormAlert_Active" scope="foreground">Amaran</string>
+<string id="StormAlert_Message" scope="foreground">Mesej</string>
+<string id="StormAlert_MessageError" scope="foreground">Mesej diperlukan</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Kadar Perubahan</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5.5 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4.5 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3.5 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2.5 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 milibar setiap 3 jam</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1.5 milibar setiap 3 jam</string>
+<string id="SunTimes" scope="glance">Waktu Matahari</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Acara Seterusnya Dalam</string>
+<string id="SunTimes_Sunrise" scope="foreground">Matahari terbit</string>
+<string id="SunTimes_SunriseIn" scope="glance">Sunrise In</string>
+<string id="SunTimes_Sunset" scope="foreground">Matahari terbenam</string>
+<string id="SunTimes_SunsetIn" scope="glance">Matahari terbenam Dalam</string>
+<string id="SunTimes_Today" scope="foreground">Hari ini</string>
+<string id="System" scope="foreground">Ikon Status</string>
+<string id="System_AlarmsEnabled" scope="foreground">Ikon Penggera</string>
+<string id="System_BatteryDay" scope="foreground">Hari</string>
+<string id="System_BatteryDays" scope="foreground">Hari</string>
+<string id="System_BatteryEnabled" scope="foreground">Ikon Bateri</string>
+<string id="System_BluetoothEnabled" scope="foreground">Ikon Bluetooth</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Ikon Jangan Ganggu</string>
+<string id="System_NotificationsEnabled" scope="foreground">Ikon Pemberitahuan</string>
+<string id="Temperature" scope="glance">Suhu</string>
+<string id="Temperature_Adjustment" scope="foreground">Pelarasan</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Tukar kepada Teras</string>
+<string id="Time" scope="foreground">Masa</string>
+<string id="Time_DisplayFormat" scope="foreground">Format Paparan</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Lalai</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 Jam</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 Jam</string>
+<string id="Time_NextEventEnabled" scope="foreground">Tunjukkan Acara Seterusnya</string>
+<string id="Twilight" scope="foreground">Twilight</string>
+<string id="Twilight_Level" scope="foreground">Tahap</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomi</string>
+<string id="Twilight_Level_1" scope="foreground">Nautical</string>
+<string id="Twilight_Level_2" scope="foreground">Awam</string>
+<string id="Units" scope="foreground">Unit</string>
+<string id="Units_Date" scope="foreground">Tarikh</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM YY</string>
+<string id="Units_Pressure" scope="foreground">Barometer</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Gunakan Fon Lebih Besar</string>
+<string id="UX_MeterHandStyle" scope="foreground">Gaya Tangan Meter</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Gaya 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Gaya 2</string>

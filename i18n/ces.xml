@@ -1,0 +1,313 @@
+<string id="Altitude" scope="glance">Výška</string>
+<string id="Altitude_Ascent" scope="foreground">Výstup</string>
+<string id="Altitude_Descent" scope="foreground">Klesání</string>
+<string id="Altitude_Oxygen" scope="foreground">Kyslík</string>
+<string id="Altitude_Precision" scope="foreground">Přesnost</string>
+<string id="Altitude_Precision_0" scope="foreground">0 Desetinných Míst</string>
+<string id="Altitude_Precision_1" scope="foreground">1 Desetinné Místo</string>
+<string id="Altitude_Precision_2" scope="foreground">2 Desetinná Místa</string>
+<string id="Altitude_Risk" scope="foreground">Riziko</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Žádný</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Zobrazit jednotky</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Extrémní</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Vysoký</string>
+<string id="Altitude_ZoneLow" scope="foreground">Nízký</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Mírný</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Velmi Vysoko</string>
+<string id="AOD" scope="foreground">Zařízení AMOLED</string>
+<string id="AOD_Enabled" scope="foreground">Povolit režim AOD</string>
+<string id="Barometer" scope="glance">Barometr</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Měrné jednotky</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Zobrazit jednotky</string>
+<string id="Clock" scope="foreground">Hodiny</string>
+<string id="Clock_AmPmColor" scope="foreground">Barva AM/PM</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Zobrazit AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Zvětšit text hodin</string>
+<string id="Clock_HoursColor" scope="foreground">Barva hodin</string>
+<string id="Clock_MinutesColor" scope="foreground">Barva minut</string>
+<string id="Clock_SecondsColor" scope="foreground">Barva sekund</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Zobrazit sekundy</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Povolit pouze sekundy, když je aktivní</string>
+<string id="Compass" scope="glance">Kompas</string>
+<string id="Compass_Color" scope="foreground">Barva</string>
+<string id="Compass_Declination" scope="foreground">Deklinace</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Formát stupňů</string>
+<string id="Compass_Deviation" scope="foreground">Odchylka</string>
+<string id="Compass_RefreshRate" scope="foreground">Frekvence obnovení</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Komplikace</string>
+<string id="Complications_BottomColor" scope="foreground">Barva spodních dat</string>
+<string id="Complications_BottomType" scope="foreground">Spodní datová položka</string>
+<string id="Complications_BottomType_0" scope="foreground">Žádné</string>
+<string id="Complications_BottomType_1" scope="foreground">Dnes minut aktivity</string>
+<string id="Complications_BottomType_10" scope="foreground">Datum</string>
+<string id="Complications_BottomType_11" scope="foreground">Denní světlo – východ slunce</string>
+<string id="Complications_BottomType_12" scope="foreground">Denní světlo – západ slunce</string>
+<string id="Complications_BottomType_13" scope="foreground">Denní světlo – další událost</string>
+<string id="Complications_BottomType_14" scope="foreground">Vzdálenost</string>
+<string id="Complications_BottomType_15" scope="foreground">Patra – vystouplé</string>
+<string id="Complications_BottomType_16" scope="foreground">Podlaží – sestupně</string>
+<string id="Complications_BottomType_17" scope="foreground">Podlaží – celkem</string>
+<string id="Complications_BottomType_18" scope="foreground">Srdeční frekvence</string>
+<string id="Complications_BottomType_19" scope="foreground">Zóna srdečního tepu</string>
+<string id="Complications_BottomType_2" scope="foreground">Minuty aktivity tento týden</string>
+<string id="Complications_BottomType_20" scope="foreground">Přesunout úroveň</string>
+<string id="Complications_BottomType_21" scope="foreground">Rychlost dýchání</string>
+<string id="Complications_BottomType_22" scope="foreground">Tlak hladiny moře</string>
+<string id="Complications_BottomType_23" scope="foreground">Rychlost (vyžaduje GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Kroky</string>
+<string id="Complications_BottomType_25" scope="foreground">Teplota</string>
+<string id="Complications_BottomType_26" scope="foreground">Čas do zotavení</string>
+<string id="Complications_BottomType_27" scope="foreground">Počasí – podobné</string>
+<string id="Complications_BottomType_28" scope="foreground">Počasí – vysoká/nízká předpověď</string>
+<string id="Complications_BottomType_29" scope="foreground">Počasí – pravděpodobnost srážek</string>
+<string id="Complications_BottomType_3" scope="foreground">Výška</string>
+<string id="Complications_BottomType_30" scope="foreground">Počasí – relativní vlhkost</string>
+<string id="Complications_BottomType_31" scope="foreground">Počasí – teplota</string>
+<string id="Complications_BottomType_32" scope="foreground">Počasí – rychlost větru</string>
+<string id="Complications_BottomType_4" scope="foreground">Okolní tlak</string>
+<string id="Complications_BottomType_5" scope="foreground">Baterie těla</string>
+<string id="Complications_BottomType_6" scope="foreground">Kalorie</string>
+<string id="Complications_BottomType_7" scope="foreground">Aktuální nadpis – stupně</string>
+<string id="Complications_BottomType_8" scope="foreground">Aktuální kurz – stupně NATO</string>
+<string id="Complications_BottomType_9" scope="foreground">Aktuální nadpis – NESW</string>
+<string id="Complications_Color" scope="foreground">Barva dat</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Zvětšit velikost datového textu</string>
+<string id="Complications_IconEnabled" scope="foreground">Povolit ikonu</string>
+<string id="Complications_Label_Active" scope="foreground">Aktivní</string>
+<string id="Complications_Label_Altitude" scope="foreground">Výška</string>
+<string id="Complications_Label_Ascended" scope="foreground">Vzestoupeno</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometr</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Baterie těla</string>
+<string id="Complications_Label_Calories" scope="foreground">Kalorie</string>
+<string id="Complications_Label_Current" scope="foreground">Aktuální</string>
+<string id="Complications_Label_Descended" scope="foreground">Sestupně</string>
+<string id="Complications_Label_Distance" scope="foreground">Vzdálenost</string>
+<string id="Complications_Label_Floors" scope="foreground">Podlaží</string>
+<string id="Complications_Label_Heading" scope="foreground">Nadpis</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Stupně</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Skutečný sever</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Srdeční frekvence</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Zóna srdečního tepu</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Přesunout úroveň</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Obnovení</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Dýchání</string>
+<string id="Complications_Label_Speed" scope="foreground">Rychlost</string>
+<string id="Complications_Label_Steps" scope="foreground">Kroky</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Východ slunce</string>
+<string id="Complications_Label_Sunset" scope="foreground">Západ slunce</string>
+<string id="Complications_Label_Temperature" scope="foreground">Teplota</string>
+<string id="Complications_Label_Today" scope="foreground">Dnes</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Zítra</string>
+<string id="Complications_Label_Total" scope="foreground">Celkem</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Teplota</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Pocit</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Vysoká/Nízká</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Možnost deště</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Vlhkost</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Rychlost větru</string>
+<string id="Complications_Label_Week" scope="foreground">Týden</string>
+<string id="Complications_TopColor" scope="foreground">Nejvyšší barva dat</string>
+<string id="Complications_TopType" scope="foreground">Hlavní datová položka</string>
+<string id="Complications_TopType_0" scope="foreground">Žádné</string>
+<string id="Complications_TopType_1" scope="foreground">Dnes minuty aktivity</string>
+<string id="Complications_TopType_10" scope="foreground">Datum</string>
+<string id="Complications_TopType_11" scope="foreground">Denní světlo – východ slunce</string>
+<string id="Complications_TopType_12" scope="foreground">Denní světlo – západ slunce</string>
+<string id="Complications_TopType_13" scope="foreground">Denní světlo – další událost</string>
+<string id="Complications_TopType_14" scope="foreground">Vzdálenost</string>
+<string id="Complications_TopType_15" scope="foreground">Patra – vystouplé</string>
+<string id="Complications_TopType_16" scope="foreground">Patra – sestupně</string>
+<string id="Complications_TopType_17" scope="foreground">Podlaží – celkem</string>
+<string id="Complications_TopType_18" scope="foreground">Tepová frekvence</string>
+<string id="Complications_TopType_19" scope="foreground">Zóna srdečního tepu</string>
+<string id="Complications_TopType_2" scope="foreground">Minuty aktivity tento týden</string>
+<string id="Complications_TopType_20" scope="foreground">Přesunout úroveň</string>
+<string id="Complications_TopType_21" scope="foreground">Rychlost dýchání</string>
+<string id="Complications_TopType_22" scope="foreground">Tlak hladiny moře</string>
+<string id="Complications_TopType_23" scope="foreground">Rychlost (vyžaduje GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Kroky</string>
+<string id="Complications_TopType_25" scope="foreground">Teplota</string>
+<string id="Complications_TopType_26" scope="foreground">Čas do zotavení</string>
+<string id="Complications_TopType_27" scope="foreground">Počasí – podobné</string>
+<string id="Complications_TopType_28" scope="foreground">Počasí – vysoká/nízká předpověď</string>
+<string id="Complications_TopType_29" scope="foreground">Počasí – pravděpodobnost srážek</string>
+<string id="Complications_TopType_3" scope="foreground">Výška</string>
+<string id="Complications_TopType_30" scope="foreground">Počasí – relativní vlhkost</string>
+<string id="Complications_TopType_31" scope="foreground">Počasí – teplota</string>
+<string id="Complications_TopType_32" scope="foreground">Počasí – rychlost větru</string>
+<string id="Complications_TopType_4" scope="foreground">Okolní tlak</string>
+<string id="Complications_TopType_5" scope="foreground">Baterie těla</string>
+<string id="Complications_TopType_6" scope="foreground">Kalorie</string>
+<string id="Complications_TopType_7" scope="foreground">Aktuální nadpis – stupně</string>
+<string id="Complications_TopType_8" scope="foreground">Aktuální kurz – stupně NATO</string>
+<string id="Complications_TopType_9" scope="foreground">Aktuální nadpis – NESW</string>
+<string id="Complications_Type" scope="foreground">Datová položka</string>
+<string id="Complications_Type_0" scope="foreground">Žádné</string>
+<string id="Complications_Type_1" scope="foreground">Dnes aktivní minuty</string>
+<string id="Complications_Type_10" scope="foreground">Datum</string>
+<string id="Complications_Type_11" scope="foreground">Denní světlo – východ slunce</string>
+<string id="Complications_Type_12" scope="foreground">Denní světlo – západ slunce</string>
+<string id="Complications_Type_13" scope="foreground">Denní světlo – další událost</string>
+<string id="Complications_Type_14" scope="foreground">Vzdálenost</string>
+<string id="Complications_Type_15" scope="foreground">Patra – vystouplé</string>
+<string id="Complications_Type_16" scope="foreground">Patra – sestupně</string>
+<string id="Complications_Type_17" scope="foreground">Podlaží – celkem</string>
+<string id="Complications_Type_18" scope="foreground">Tepová frekvence</string>
+<string id="Complications_Type_19" scope="foreground">Zóna srdečního tepu</string>
+<string id="Complications_Type_2" scope="foreground">Minuty aktivity tento týden</string>
+<string id="Complications_Type_20" scope="foreground">Přesunout úroveň</string>
+<string id="Complications_Type_21" scope="foreground">Rychlost dýchání</string>
+<string id="Complications_Type_22" scope="foreground">Tlak hladiny moře</string>
+<string id="Complications_Type_23" scope="foreground">Rychlost (vyžaduje GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Kroky</string>
+<string id="Complications_Type_25" scope="foreground">Teplota</string>
+<string id="Complications_Type_26" scope="foreground">Čas do zotavení</string>
+<string id="Complications_Type_27" scope="foreground">Počasí – podobné</string>
+<string id="Complications_Type_28" scope="foreground">Počasí – vysoká/nízká předpověď</string>
+<string id="Complications_Type_29" scope="foreground">Počasí – pravděpodobnost srážek</string>
+<string id="Complications_Type_3" scope="foreground">Nadmořská výška</string>
+<string id="Complications_Type_30" scope="foreground">Počasí – relativní vlhkost</string>
+<string id="Complications_Type_31" scope="foreground">Počasí – teplota</string>
+<string id="Complications_Type_32" scope="foreground">Počasí – rychlost větru</string>
+<string id="Complications_Type_4" scope="foreground">Okolní tlak</string>
+<string id="Complications_Type_5" scope="foreground">Baterie těla</string>
+<string id="Complications_Type_6" scope="foreground">Kalorie</string>
+<string id="Complications_Type_7" scope="foreground">Aktuální nadpis – stupně</string>
+<string id="Complications_Type_8" scope="foreground">Aktuální kurz – stupně NATO</string>
+<string id="Complications_Type_9" scope="foreground">Aktuální nadpis – NESW</string>
+<string id="Coordinates" scope="foreground">Souřadnice</string>
+<string id="Coordinates_Format" scope="foreground">Formát</string>
+<string id="Coordinates_Format_0" scope="foreground">Stupně</string>
+<string id="Coordinates_Format_1" scope="foreground">Stupně/minuty</string>
+<string id="Coordinates_Format_2" scope="foreground">Stupně/minuty/sekundy</string>
+<string id="Coordinates_Format_3" scope="foreground">Referenční systém vojenské sítě</string>
+<string id="Days" scope="foreground">Dny</string>
+<string id="Days_Color" scope="foreground">Barva prstenu</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Zvětšit velikost textu</string>
+<string id="Days_Goal" scope="foreground">Cíl</string>
+<string id="Days_TextColor" scope="foreground">Barva textu</string>
+<string id="Days_TextGoalColor" scope="foreground">Barva textu cíle</string>
+<string id="Days_Type" scope="foreground">Metrika</string>
+<string id="Days_Type_0" scope="foreground">Žádné</string>
+<string id="Days_Type_1" scope="foreground">Kroky</string>
+<string id="Days_Type_2" scope="foreground">Podlaží</string>
+<string id="Days_Type_3" scope="foreground">Minuty aktivity</string>
+<string id="Days_Type_4" scope="foreground">Kalorie</string>
+<string id="Days_Type_5" scope="foreground">Vzdálenost</string>
+<string id="Global_Settings" scope="foreground">Nastavení</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Použít GPS</string>
+<string id="GPS_Latitude" scope="foreground">Zeměpisná šířka</string>
+<string id="GPS_Longitude" scope="foreground">Zeměpisná délka</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Tepová frekvence</string>
+<string id="HeartRate_Adjustment" scope="foreground">Úprava</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Odpočívá</string>
+<string id="History" scope="foreground">Historie</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Snížit zesílení</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">POSLEDNÍ HODINY 1 $</string>
+<string id="History_Type" scope="foreground">Styl grafu</string>
+<string id="History_Type_0" scope="foreground">Sloupec</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Zjišťování polohy GPS, mějte prosím jasný výhled na oblohu.</string>
+<string id="Location_InvalidLong" scope="foreground">Nelze získat polohu, zkontrolujte GPS nebo nastavení zařízení.</string>
+<string id="Location_InvalidShort" scope="glance">Neplatná poloha</string>
+<string id="Location_RequiredLong" scope="foreground">Potřebujete polohu GPS, klepněte nebo vyberte widget.</string>
+<string id="Location_RequiredShort" scope="glance">Vyžadováno umístění</string>
+<string id="LowBattery" scope="foreground">Vybitá baterie</string>
+<string id="LowBattery_Enabled" scope="foreground">Povolit režim slabé baterie</string>
+<string id="MinimalDays" scope="foreground">Minimální počet dní</string>
+<string id="MIP" scope="foreground">Zařízení MIP</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Zvednutím/probuzení klepnutím</string>
+<string id="Months_April" scope="foreground">Duben</string>
+<string id="Months_August" scope="foreground">Srpen</string>
+<string id="Months_December" scope="foreground">Prosinec</string>
+<string id="Months_February" scope="foreground">Únor</string>
+<string id="Months_January" scope="foreground">leden</string>
+<string id="Months_July" scope="foreground">Červenec</string>
+<string id="Months_June" scope="foreground">Červen</string>
+<string id="Months_March" scope="foreground">Březen</string>
+<string id="Months_May" scope="foreground">Květen</string>
+<string id="Months_November" scope="foreground">Listopad</string>
+<string id="Months_October" scope="foreground">říjen</string>
+<string id="Months_September" scope="foreground">Září</string>
+<string id="SimplyElegant" scope="foreground">Jednoduše elegantní</string>
+<string id="Sleep" scope="foreground">Spánek</string>
+<string id="Sleep_Enabled" scope="foreground">Povolit režim spánku</string>
+<string id="StormAlert" scope="foreground">Upozornění na změnu tlaku</string>
+<string id="StormAlert_Active" scope="foreground">Upozornění</string>
+<string id="StormAlert_Message" scope="foreground">Zpráva</string>
+<string id="StormAlert_MessageError" scope="foreground">Zpráva je povinná</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Rychlost změny</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 milibarů za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 milibarů za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 milibar za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 milibarů za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 milibarů za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 milibary za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 milibarů za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 milibary za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 milibarů za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 milibary za 3 hodiny</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 milibaru za 3 hodiny</string>
+<string id="SunTimes" scope="glance">Časy slunce</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Další událost v</string>
+<string id="SunTimes_Sunrise" scope="foreground">Východ slunce</string>
+<string id="SunTimes_SunriseIn" scope="glance">Východ slunce</string>
+<string id="SunTimes_Sunset" scope="foreground">Západ slunce</string>
+<string id="SunTimes_SunsetIn" scope="glance">Západ slunce</string>
+<string id="SunTimes_Today" scope="foreground">Dnes</string>
+<string id="System" scope="foreground">Ikony stavu</string>
+<string id="System_AlarmsEnabled" scope="foreground">Ikona alarmu</string>
+<string id="System_BatteryDay" scope="foreground">Den</string>
+<string id="System_BatteryDays" scope="foreground">Dny</string>
+<string id="System_BatteryEnabled" scope="foreground">Ikona baterie</string>
+<string id="System_BluetoothEnabled" scope="foreground">Ikona Bluetooth</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Ikona Nerušit</string>
+<string id="System_NotificationsEnabled" scope="foreground">Ikona oznámení</string>
+<string id="Temperature" scope="glance">Teplota</string>
+<string id="Temperature_Adjustment" scope="foreground">Úprava</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Převést na jádro</string>
+<string id="Time" scope="foreground">Čas</string>
+<string id="Time_DisplayFormat" scope="foreground">Formát zobrazení</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Výchozí</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 hodin</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 hodin</string>
+<string id="Time_NextEventEnabled" scope="foreground">Zobrazit další událost</string>
+<string id="Twilight" scope="foreground">Soumrak</string>
+<string id="Twilight_Level" scope="foreground">Úroveň</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomický</string>
+<string id="Twilight_Level_1" scope="foreground">Námořní</string>
+<string id="Twilight_Level_2" scope="foreground">Občanské</string>
+<string id="Units" scope="foreground">Jednotky</string>
+<string id="Units_Date" scope="foreground">Datum</string>
+<string id="Units_Date_0" scope="foreground">DDDD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM RR</string>
+<string id="Units_Pressure" scope="foreground">Barometr</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Použít větší písmo</string>
+<string id="UX_MeterHandStyle" scope="foreground">Styl ručičky měřiče</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Styl 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Styl 2</string>

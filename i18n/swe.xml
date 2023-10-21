@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Höjd</string>
+<string id="Altitude_Ascent" scope="foreground">Uppstigning</string>
+<string id="Altitude_Descent" scope="foreground">Nedstigning</string>
+<string id="Altitude_Oxygen" scope="foreground">Syre</string>
+<string id="Altitude_Precision" scope="foreground">Precision</string>
+<string id="Altitude_Precision_0" scope="foreground">0 decimaler</string>
+<string id="Altitude_Precision_1" scope="foreground">1 decimal</string>
+<string id="Altitude_Precision_2" scope="foreground">2 decimaler</string>
+<string id="Altitude_Risk" scope="foreground">Risk</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Ingen</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Visa enheter</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Extrem</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Hög</string>
+<string id="Altitude_ZoneLow" scope="foreground">Låg</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Moderera</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Mycket hög</string>
+<string id="AOD" scope="foreground">AMOLED-enheter</string>
+<string id="AOD_Enabled" scope="foreground">Aktivera AOD-läge</string>
+<string id="Barometer" scope="glance">Barometer</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Mätenhet</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Visa enheter</string>
+<string id="Clock" scope="foreground">Klocka</string>
+<string id="Clock_AmPmColor" scope="foreground">AM/PM-färg</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Visa AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Förstora klocktext</string>
+<string id="Clock_HoursColor" scope="foreground">Timmarfärg</string>
+<string id="Clock_MinutesColor" scope="foreground">Färg för minuter</string>
+<string id="Clock_SecondsColor" scope="foreground">Seconds Color</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Visa sekunder</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Aktivera sekunder endast när aktiv</string>
+<string id="Compass" scope="glance">Kompass</string>
+<string id="Compass_Color" scope="foreground">Färg</string>
+<string id="Compass_Declination" scope="foreground">Avvisning</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Graderformat</string>
+<string id="Compass_Deviation" scope="foreground">Avvikelse</string>
+<string id="Compass_Mils" scope="foreground">6400 Mils (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Uppdateringshastighet</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Complications" scope="foreground">Komplikationer</string>
+<string id="Complications_BottomColor" scope="foreground">Färg för bottendata</string>
+<string id="Complications_BottomType" scope="foreground">bottendataobjekt</string>
+<string id="Complications_BottomType_0" scope="foreground">Inga</string>
+<string id="Complications_BottomType_1" scope="foreground">Aktiva minuter idag</string>
+<string id="Complications_BottomType_10" scope="foreground">Datum</string>
+<string id="Complications_BottomType_11" scope="foreground">Dagsljus - soluppgång</string>
+<string id="Complications_BottomType_12" scope="foreground">Dagsljus – solnedgång</string>
+<string id="Complications_BottomType_13" scope="foreground">Dagsljus – nästa händelse</string>
+<string id="Complications_BottomType_14" scope="foreground">Avstånd</string>
+<string id="Complications_BottomType_15" scope="foreground">Våningar - Uppstigning</string>
+<string id="Complications_BottomType_16" scope="foreground">Våningar - nedstigande</string>
+<string id="Complications_BottomType_17" scope="foreground">Golv – totalt</string>
+<string id="Complications_BottomType_18" scope="foreground">Hjärtfrekvens</string>
+<string id="Complications_BottomType_19" scope="foreground">Pulszon</string>
+<string id="Complications_BottomType_2" scope="foreground">Aktiva minuter denna vecka</string>
+<string id="Complications_BottomType_20" scope="foreground">Flytta nivå</string>
+<string id="Complications_BottomType_21" scope="foreground">Andningsfrekvens</string>
+<string id="Complications_BottomType_22" scope="foreground">Havsnivåtryck</string>
+<string id="Complications_BottomType_23" scope="foreground">Hastighet (behöver GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Steg</string>
+<string id="Complications_BottomType_25" scope="foreground">Temperature</string>
+<string id="Complications_BottomType_26" scope="foreground">Tid till återställning</string>
+<string id="Complications_BottomType_27" scope="foreground">Väder – känns som</string>
+<string id="Complications_BottomType_28" scope="foreground">Väder - prognostiserat högt/lågt</string>
+<string id="Complications_BottomType_29" scope="foreground">Väder - Risk för nederbörd</string>
+<string id="Complications_BottomType_3" scope="foreground">Höjd</string>
+<string id="Complications_BottomType_30" scope="foreground">Väder - relativ luftfuktighet</string>
+<string id="Complications_BottomType_31" scope="foreground">Väder – temperatur</string>
+<string id="Complications_BottomType_32" scope="foreground">Väder - vindhastighet</string>
+<string id="Complications_BottomType_4" scope="foreground">Omgivningstryck</string>
+<string id="Complications_BottomType_5" scope="foreground">Kroppens batteri</string>
+<string id="Complications_BottomType_6" scope="foreground">Kalorier</string>
+<string id="Complications_BottomType_7" scope="foreground">Aktuell rubrik - grader</string>
+<string id="Complications_BottomType_8" scope="foreground">Aktuell rubrik - NATO-grader</string>
+<string id="Complications_BottomType_9" scope="foreground">Aktuell rubrik - NESW</string>
+<string id="Complications_Color" scope="foreground">Datafärg</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Förstora datatextstorlek</string>
+<string id="Complications_IconEnabled" scope="foreground">Aktivera ikon</string>
+<string id="Complications_Label_Active" scope="foreground">Aktiv</string>
+<string id="Complications_Label_Altitude" scope="foreground">Höjd</string>
+<string id="Complications_Label_Ascended" scope="foreground">Uppstigen</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometer</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Kroppens batteri</string>
+<string id="Complications_Label_Calories" scope="foreground">Kalorier</string>
+<string id="Complications_Label_Current" scope="foreground">Aktuell</string>
+<string id="Complications_Label_Descended" scope="foreground">Sjunkande</string>
+<string id="Complications_Label_Distance" scope="foreground">Avstånd</string>
+<string id="Complications_Label_Floors" scope="foreground">Golv</string>
+<string id="Complications_Label_Heading" scope="foreground">Rubrik</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Grader</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">True North</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Hjärtfrekvens</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Pulszon</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Flytta nivå</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Återställning</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Andning</string>
+<string id="Complications_Label_Speed" scope="foreground">Hastighet</string>
+<string id="Complications_Label_Steps" scope="foreground">Steg</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Soluppgång</string>
+<string id="Complications_Label_Sunset" scope="foreground">Solnedgång</string>
+<string id="Complications_Label_Temperature" scope="foreground">Temperature</string>
+<string id="Complications_Label_Today" scope="foreground">Idag</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">I morgon</string>
+<string id="Complications_Label_Total" scope="foreground">Totalt</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Temperature</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Känns som</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Hög/Låg</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Regnrisk</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Fuktighet</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Vindhastighet</string>
+<string id="Complications_Label_Week" scope="foreground">Vecka</string>
+<string id="Complications_TopColor" scope="foreground">Bästa datafärg</string>
+<string id="Complications_TopType" scope="foreground">Bästa dataobjekt</string>
+<string id="Complications_TopType_0" scope="foreground">Inga</string>
+<string id="Complications_TopType_1" scope="foreground">Aktiva minuter idag</string>
+<string id="Complications_TopType_10" scope="foreground">Datum</string>
+<string id="Complications_TopType_11" scope="foreground">Dagsljus - soluppgång</string>
+<string id="Complications_TopType_12" scope="foreground">Dagsljus - solnedgång</string>
+<string id="Complications_TopType_13" scope="foreground">Dagsljus – nästa händelse</string>
+<string id="Complications_TopType_14" scope="foreground">Avstånd</string>
+<string id="Complications_TopType_15" scope="foreground">Våningar - Uppstigning</string>
+<string id="Complications_TopType_16" scope="foreground">Våningar - nedstigande</string>
+<string id="Complications_TopType_17" scope="foreground">Golv – totalt</string>
+<string id="Complications_TopType_18" scope="foreground">Hjärtfrekvens</string>
+<string id="Complications_TopType_19" scope="foreground">Hjärtfrekvenszon</string>
+<string id="Complications_TopType_2" scope="foreground">Aktiva minuter denna vecka</string>
+<string id="Complications_TopType_20" scope="foreground">Flytta nivå</string>
+<string id="Complications_TopType_21" scope="foreground">Andningsfrekvens</string>
+<string id="Complications_TopType_22" scope="foreground">Havsnivåtryck</string>
+<string id="Complications_TopType_23" scope="foreground">Hastighet (behöver GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Steg</string>
+<string id="Complications_TopType_25" scope="foreground">Temperature</string>
+<string id="Complications_TopType_26" scope="foreground">Tid till återställning</string>
+<string id="Complications_TopType_27" scope="foreground">Väder – känns som</string>
+<string id="Complications_TopType_28" scope="foreground">Väder – prognostiserat högt/lågt</string>
+<string id="Complications_TopType_29" scope="foreground">Väder - Risk för nederbörd</string>
+<string id="Complications_TopType_3" scope="foreground">Höjd</string>
+<string id="Complications_TopType_30" scope="foreground">Väder - relativ luftfuktighet</string>
+<string id="Complications_TopType_31" scope="foreground">Väder - temperatur</string>
+<string id="Complications_TopType_32" scope="foreground">Väder – vindhastighet</string>
+<string id="Complications_TopType_4" scope="foreground">Omgivningstryck</string>
+<string id="Complications_TopType_5" scope="foreground">Kroppens batteri</string>
+<string id="Complications_TopType_6" scope="foreground">Kalorier</string>
+<string id="Complications_TopType_7" scope="foreground">Aktuell rubrik - grader</string>
+<string id="Complications_TopType_8" scope="foreground">Aktuell rubrik - NATO-grader</string>
+<string id="Complications_TopType_9" scope="foreground">Aktuell rubrik - NESW</string>
+<string id="Complications_Type" scope="foreground">Dataobjekt</string>
+<string id="Complications_Type_0" scope="foreground">Inga</string>
+<string id="Complications_Type_1" scope="foreground">Aktiva minuter idag</string>
+<string id="Complications_Type_10" scope="foreground">Datum</string>
+<string id="Complications_Type_11" scope="foreground">Dagsljus - soluppgång</string>
+<string id="Complications_Type_12" scope="foreground">Dagsljus - Solnedgång</string>
+<string id="Complications_Type_13" scope="foreground">Dagsljus – nästa händelse</string>
+<string id="Complications_Type_14" scope="foreground">Avstånd</string>
+<string id="Complications_Type_15" scope="foreground">Våningar - Uppstigning</string>
+<string id="Complications_Type_16" scope="foreground">Våningar - nedstigande</string>
+<string id="Complications_Type_17" scope="foreground">Golv – totalt</string>
+<string id="Complications_Type_18" scope="foreground">Hjärtfrekvens</string>
+<string id="Complications_Type_19" scope="foreground">Hjärtfrekvenszon</string>
+<string id="Complications_Type_2" scope="foreground">Aktiva minuter denna vecka</string>
+<string id="Complications_Type_20" scope="foreground">Flytta nivå</string>
+<string id="Complications_Type_21" scope="foreground">Andningsfrekvens</string>
+<string id="Complications_Type_22" scope="foreground">Havsnivåtryck</string>
+<string id="Complications_Type_23" scope="foreground">Hastighet (behöver GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Steg</string>
+<string id="Complications_Type_25" scope="foreground">Temperature</string>
+<string id="Complications_Type_26" scope="foreground">Tid till återställning</string>
+<string id="Complications_Type_27" scope="foreground">Väder – känns som</string>
+<string id="Complications_Type_28" scope="foreground">Väder - prognostiserat högt/lågt</string>
+<string id="Complications_Type_29" scope="foreground">Väder - Risk för nederbörd</string>
+<string id="Complications_Type_3" scope="foreground">Höjd</string>
+<string id="Complications_Type_30" scope="foreground">Väder - relativ luftfuktighet</string>
+<string id="Complications_Type_31" scope="foreground">Väder – temperatur</string>
+<string id="Complications_Type_32" scope="foreground">Väder - vindhastighet</string>
+<string id="Complications_Type_4" scope="foreground">Omgivningstryck</string>
+<string id="Complications_Type_5" scope="foreground">Kroppens batteri</string>
+<string id="Complications_Type_6" scope="foreground">Kalorier</string>
+<string id="Complications_Type_7" scope="foreground">Aktuell rubrik - grader</string>
+<string id="Complications_Type_8" scope="foreground">Aktuell rubrik - NATO-grader</string>
+<string id="Complications_Type_9" scope="foreground">Aktuell rubrik - NESW</string>
+<string id="Coordinates" scope="foreground">Koordinater</string>
+<string id="Coordinates_Format" scope="foreground">Format</string>
+<string id="Coordinates_Format_0" scope="foreground">Grader</string>
+<string id="Coordinates_Format_1" scope="foreground">Grader/minuter</string>
+<string id="Coordinates_Format_2" scope="foreground">Grader/minuter/sekunder</string>
+<string id="Coordinates_Format_3" scope="foreground">Militärt nätreferenssystem</string>
+<string id="Days" scope="foreground">Dagar</string>
+<string id="Days_Color" scope="foreground">Ringfärg</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Förstora textstorlek</string>
+<string id="Days_Goal" scope="foreground">Mål</string>
+<string id="Days_TextColor" scope="foreground">Textfärg</string>
+<string id="Days_TextGoalColor" scope="foreground">Måltextfärg</string>
+<string id="Days_Type" scope="foreground">Mätvärde</string>
+<string id="Days_Type_0" scope="foreground">Ingen</string>
+<string id="Days_Type_1" scope="foreground">Steg</string>
+<string id="Days_Type_2" scope="foreground">Våningar</string>
+<string id="Days_Type_3" scope="foreground">Aktiva minuter</string>
+<string id="Days_Type_4" scope="foreground">Kalorier</string>
+<string id="Days_Type_5" scope="foreground">Avstånd</string>
+<string id="Global_Settings" scope="foreground">Inställningar</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Använd GPS</string>
+<string id="GPS_Latitude" scope="foreground">Latitude</string>
+<string id="GPS_Longitude" scope="foreground">Longitud</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Hjärtfrekvens</string>
+<string id="HeartRate_Adjustment" scope="foreground">Justering</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Vilar</string>
+<string id="History" scope="foreground">Historik</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Minska förstärkningen</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">SISTA $1$ TIMMAR</string>
+<string id="History_Type" scope="foreground">Direktstil</string>
+<string id="History_Type_0" scope="foreground">Kolumn</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Få GPS-position, vänligen ha fri sikt över himlen.</string>
+<string id="Location_InvalidLong" scope="foreground">Kan inte hitta plats, kontrollera enhetens GPS eller inställningar.</string>
+<string id="Location_InvalidShort" scope="glance">Ogiltig plats</string>
+<string id="Location_RequiredLong" scope="foreground">Behöver GPS-position, tryck eller välj widget.</string>
+<string id="Location_RequiredShort" scope="glance">Plats krävs</string>
+<string id="LowBattery" scope="foreground">Lågt batteri</string>
+<string id="LowBattery_Enabled" scope="foreground">Aktivera lågt batteriläge</string>
+<string id="MinimalDays" scope="foreground">Minsta antal dagar</string>
+<string id="MIP" scope="foreground">MIP-enheter</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Höj/tryck för att väcka</string>
+<string id="Months_April" scope="foreground">April</string>
+<string id="Months_August" scope="foreground">Augusti</string>
+<string id="Months_December" scope="foreground">December</string>
+<string id="Months_February" scope="foreground">Februari</string>
+<string id="Months_January" scope="foreground">Januari</string>
+<string id="Months_July" scope="foreground">Juli</string>
+<string id="Months_June" scope="foreground">Juni</string>
+<string id="Months_March" scope="foreground">Mars</string>
+<string id="Months_May" scope="foreground">Maj</string>
+<string id="Months_November" scope="foreground">November</string>
+<string id="Months_October" scope="foreground">Oktober</string>
+<string id="Months_September" scope="foreground">September</string>
+<string id="RefreshRate_100" scope="foreground">100 ms</string>
+<string id="RefreshRate_1000" scope="foreground">1 s</string>
+<string id="SimplyElegant" scope="foreground">Helt enkelt elegant</string>
+<string id="Sleep" scope="foreground">Sömn</string>
+<string id="Sleep_Enabled" scope="foreground">Aktivera viloläge</string>
+<string id="StormAlert" scope="foreground">Alarm om tryckändring</string>
+<string id="StormAlert_Active" scope="foreground">Varning</string>
+<string id="StormAlert_Message" scope="foreground">Meddelande</string>
+<string id="StormAlert_MessageError" scope="foreground">Meddelandet är obligatoriskt</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Förändringshastighet</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 millibar per 3 timmar</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 millibar per 3 timmar</string>
+<string id="SunTimes" scope="glance">Soltider</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Nästa händelse in</string>
+<string id="SunTimes_Sunrise" scope="foreground">Soluppgång</string>
+<string id="SunTimes_SunriseIn" scope="glance">Soluppgång in</string>
+<string id="SunTimes_Sunset" scope="foreground">Solnedgång</string>
+<string id="SunTimes_SunsetIn" scope="glance">Solnedgång in</string>
+<string id="SunTimes_Today" scope="foreground">Idag</string>
+<string id="System" scope="foreground">Statusikoner</string>
+<string id="System_AlarmsEnabled" scope="foreground">Larmikon</string>
+<string id="System_BatteryDay" scope="foreground">Dag</string>
+<string id="System_BatteryDays" scope="foreground">Dagar</string>
+<string id="System_BatteryEnabled" scope="foreground">Batteriikon</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth-ikon</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Stör ej-ikon</string>
+<string id="System_NotificationsEnabled" scope="foreground">Meddelandeikon</string>
+<string id="Temperature" scope="glance">Temperature</string>
+<string id="Temperature_Adjustment" scope="foreground">Justering</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Konvertera till kärna</string>
+<string id="Time" scope="foreground">Tid</string>
+<string id="Time_DisplayFormat" scope="foreground">Visningsformat</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Standard</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 timmar</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 timmar</string>
+<string id="Time_NextEventEnabled" scope="foreground">Visa nästa händelse</string>
+<string id="Twilight" scope="foreground">Twilight</string>
+<string id="Twilight_Level" scope="foreground">Nivå</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomisk</string>
+<string id="Twilight_Level_1" scope="foreground">Nautisk</string>
+<string id="Twilight_Level_2" scope="foreground">Civil</string>
+<string id="Units" scope="foreground">Enheter</string>
+<string id="Units_Date" scope="foreground">Datum</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD ÅÅ</string>
+<string id="Units_Date_3" scope="foreground">DD MMM ÅÅ</string>
+<string id="Units_Pressure" scope="foreground">Barometer</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Använd större teckensnitt</string>
+<string id="UX_MeterHandStyle" scope="foreground">Meter Hand Style</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Stil 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Stil 2</string>

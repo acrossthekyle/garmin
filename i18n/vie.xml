@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Độ cao</string>
+<string id="Altitude_Ascent" scope="foreground">Đi lên</string>
+<string id="Altitude_Descent" scope="foreground">Đi xuống</string>
+<string id="Altitude_Oxygen" scope="foreground">Ôxi</string>
+<string id="Altitude_Precision" scope="foreground">Độ chính xác</string>
+<string id="Altitude_Precision_0" scope="foreground">0 số thập phân</string>
+<string id="Altitude_Precision_1" scope="foreground">1 số thập phân</string>
+<string id="Altitude_Precision_2" scope="foreground">2 số thập phân</string>
+<string id="Altitude_Risk" scope="foreground">Rủi ro</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Không</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Hiển thị đơn vị</string>
+<string id="Altitude_Zone VeryHigh" scope="foreground">Rất cao</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Cực</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Cao</string>
+<string id="Altitude_ZoneLow" scope="foreground">Thấp</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Trung bình</string>
+<string id="AOD" scope="foreground">Thiết bị AMOLED</string>
+<string id="AOD_Enabled" scope="foreground">Bật Chế độ AOD</string>
+<string id="Barometer" scope="glance">Phong vũ biểu</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Đơn vị đo</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Hiển thị đơn vị</string>
+<string id="Clock" scope="foreground">Đồng hồ</string>
+<string id="Clock_AmPmColor" scope="foreground">Màu sáng/chiều</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Hiển thị AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Phóng to văn bản đồng hồ</string>
+<string id="Clock_HoursColor" scope="foreground">Màu giờ</string>
+<string id="Clock_MinutesColor" scope="foreground">Màu phút</string>
+<string id="Clock_SecondsColor" scope="foreground">Màu giây</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Hiển thị Giây</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Chỉ bật giây khi hoạt động</string>
+<string id="Compass" scope="glance">La bàn</string>
+<string id="Compass_Color" scope="foreground">Màu</string>
+<string id="Compass_Declination" scope="foreground">Độ lệch</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Định dạng độ</string>
+<string id="Compass_Deviation" scope="foreground">Độ lệch</string>
+<string id="Compass_Mils" scope="foreground">6400 triệu (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Tốc độ làm mới</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 mili giây</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 mili giây</string>
+<string id="Complications" scope="foreground">Biến chứng</string>
+<string id="Complications_BottomColor" scope="foreground">Màu dữ liệu dưới cùng</string>
+<string id="Complications_BottomType" scope="foreground">Mục dữ liệu dưới cùng</string>
+<string id="Complications_BottomType_0" scope="foreground">Không có</string>
+<string id="Complications_BottomType_1" scope="foreground">Số phút hoạt động hôm nay</string>
+<string id="Complications_BottomType_10" scope="foreground">Ngày</string>
+<string id="Complications_BottomType_11" scope="foreground">Ánh sáng ban ngày - Bình minh</string>
+<string id="Complications_BottomType_12" scope="foreground">Ánh sáng ban ngày - Hoàng hôn</string>
+<string id="Complications_BottomType_13" scope="foreground">Ánh sáng ban ngày - Sự kiện tiếp theo</string>
+<string id="Complications_BottomType_14" scope="foreground">Khoảng cách</string>
+<string id="Complications_BottomType_15" scope="foreground">Tầng - Đi lên</string>
+<string id="Complications_BottomType_16" scope="foreground">Tầng - Đi xuống</string>
+<string id="Complications_BottomType_17" scope="foreground">Tầng - Tổng</string>
+<string id="Complications_BottomType_18" scope="foreground">Nhịp tim</string>
+<string id="Complications_BottomType_19" scope="foreground">Vùng nhịp tim</string>
+<string id="Complications_BottomType_2" scope="foreground">Phút hoạt động tuần này</string>
+<string id="Complications_BottomType_20" scope="foreground">Di chuyển cấp độ</string>
+<string id="Complications_BottomType_21" scope="foreground">Tốc độ hô hấp</string>
+<string id="Complications_BottomType_22" scope="foreground">Áp suất mực nước biển</string>
+<string id="Complications_BottomType_23" scope="foreground">Tốc độ (Cần GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Các bước</string>
+<string id="Complications_BottomType_25" scope="foreground">Nhiệt độ</string>
+<string id="Complications_BottomType_26" scope="foreground">Thời gian khôi phục</string>
+<string id="Complications_BottomType_27" scope="foreground">Thời tiết - Cảm giác như vậy</string>
+<string id="Complications_BottomType_28" scope="foreground">Thời tiết - Dự báo Cao/Thấp</string>
+<string id="Complications_BottomType_29" scope="foreground">Thời tiết - Khả năng có mưa</string>
+<string id="Complications_BottomType_3" scope="foreground">Độ cao</string>
+<string id="Complications_BottomType_30" scope="foreground">Thời tiết - Độ ẩm tương đối</string>
+<string id="Complications_BottomType_31" scope="foreground">Thời tiết - Nhiệt độ</string>
+<string id="Complications_BottomType_32" scope="foreground">Thời tiết - Tốc độ gió</string>
+<string id="Complications_BottomType_4" scope="foreground">Áp suất xung quanh</string>
+<string id="Complications_BottomType_5" scope="foreground">Pin cơ thể</string>
+<string id="Complications_BottomType_6" scope="foreground">Calo</string>
+<string id="Complications_BottomType_7" scope="foreground">Tiêu đề hiện tại - Độ</string>
+<string id="Complications_BottomType_8" scope="foreground">Tiêu đề hiện tại - Cấp độ NATO</string>
+<string id="Complications_BottomType_9" scope="foreground">Tiêu đề hiện tại - NESW</string>
+<string id="Complications_Color" scope="foreground">Màu dữ liệu</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Phóng to kích thước văn bản dữ liệu</string>
+<string id="Complications_IconEnabled" scope="foreground">Bật biểu tượng</string>
+<string id="Complications_Label_Active" scope="foreground">Đang hoạt động</string>
+<string id="Complications_Label_Altitude" scope="foreground">Độ cao</string>
+<string id="Complications_Label_Ascends" scope="foreground">Đã thăng cấp</string>
+<string id="Complications_Label_Barometer" scope="foreground">Phong vũ biểu</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Pin cơ thể</string>
+<string id="Complications_Label_Calories" scope="foreground">Calo</string>
+<string id="Complications_Label_Current" scope="foreground">Hiện tại</string>
+<string id="Complications_Label_Descends" scope="foreground">Đã giảm dần</string>
+<string id="Complications_Label_Distance" scope="foreground">Khoảng cách</string>
+<string id="Complications_Label_Floors" scope="foreground">Tầng</string>
+<string id="Complications_Label_Heading" scope="foreground">Tiêu đề</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Độ</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Bắc thực</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Nhịp tim</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Vùng nhịp tim</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Di chuyển cấp độ</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Phục hồi</string>
+<string id="Complications_Label_RespirstRate" scope="foreground">Hô hấp</string>
+<string id="Complications_Label_Speed" scope="foreground">Tốc độ</string>
+<string id="Complications_Label_Steps" scope="foreground">Các bước</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Mặt trời mọc</string>
+<string id="Complications_Label_Sunset" scope="foreground">Hoàng hôn</string>
+<string id="Complications_Label_Temperature" scope="foreground">Nhiệt độ</string>
+<string id="Complications_Label_Today" scope="foreground">Hôm nay</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Ngày mai</string>
+<string id="Complications_Label_Total" scope="foreground">Tổng</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Nhiệt độ</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Cảm thấy thích</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Cao/Thấp</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Khả năng mưa</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Độ ẩm</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Tốc độ gió</string>
+<string id="Complications_Label_Week" scope="foreground">Tuần</string>
+<string id="Complications_TopColor" scope="foreground">Màu dữ liệu hàng đầu</string>
+<string id="Complications_TopType" scope="foreground">Mục dữ liệu hàng đầu</string>
+<string id="Complications_TopType_0" scope="foreground">Không có</string>
+<string id="Complications_TopType_1" scope="foreground">Số phút hoạt động hôm nay</string>
+<string id="Complications_TopType_10" scope="foreground">Ngày</string>
+<string id="Complications_TopType_11" scope="foreground">Ánh sáng ban ngày - Bình minh</string>
+<string id="Complications_TopType_12" scope="foreground">Ánh sáng ban ngày - Hoàng hôn</string>
+<string id="Complications_TopType_13" scope="foreground">Ánh sáng ban ngày - Sự kiện tiếp theo</string>
+<string id="Complications_TopType_14" scope="foreground">Khoảng cách</string>
+<string id="Complications_TopType_15" scope="foreground">Tầng - Đi lên</string>
+<string id="Complications_TopType_16" scope="foreground">Tầng - Đi xuống</string>
+<string id="Complications_TopType_17" scope="foreground">Tầng - Tổng</string>
+<string id="Complications_TopType_18" scope="foreground">Nhịp tim</string>
+<string id="Complications_TopType_19" scope="foreground">Vùng nhịp tim</string>
+<string id="Complications_TopType_2" scope="foreground">Phút hoạt động tuần này</string>
+<string id="Complications_TopType_20" scope="foreground">Di chuyển cấp độ</string>
+<string id="Complications_TopType_21" scope="foreground">Tốc độ hô hấp</string>
+<string id="Complications_TopType_22" scope="foreground">Áp suất mực nước biển</string>
+<string id="Complications_TopType_23" scope="foreground">Tốc độ (Cần GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Các bước</string>
+<string id="Complications_TopType_25" scope="foreground">Nhiệt độ</string>
+<string id="Complications_TopType_26" scope="foreground">Thời gian phục hồi</string>
+<string id="Complications_TopType_27" scope="foreground">Thời tiết - Cảm giác như vậy</string>
+<string id="Complications_TopType_28" scope="foreground">Thời tiết - Dự báo Cao/Thấp</string>
+<string id="Complications_TopType_29" scope="foreground">Thời tiết - Khả năng có mưa</string>
+<string id="Complications_TopType_3" scope="foreground">Độ cao</string>
+<string id="Complications_TopType_30" scope="foreground">Thời tiết - Độ ẩm tương đối</string>
+<string id="Complications_TopType_31" scope="foreground">Thời tiết - Nhiệt độ</string>
+<string id="Complications_TopType_32" scope="foreground">Thời tiết - Tốc độ gió</string>
+<string id="Complications_TopType_4" scope="foreground">Áp suất xung quanh</string>
+<string id="Complications_TopType_5" scope="foreground">Pin cơ thể</string>
+<string id="Complications_TopType_6" scope="foreground">Calo</string>
+<string id="Complications_TopType_7" scope="foreground">Tiêu đề hiện tại - Độ</string>
+<string id="Complications_TopType_8" scope="foreground">Tiêu đề hiện tại - Cấp độ NATO</string>
+<string id="Complications_TopType_9" scope="foreground">Tiêu đề hiện tại - NESW</string>
+<string id="Complications_Type" scope="foreground">Mục dữ liệu</string>
+<string id="Complications_Type_0" scope="foreground">Không có</string>
+<string id="Complications_Type_1" scope="foreground">Số phút hoạt động hôm nay</string>
+<string id="Complications_Type_10" scope="foreground">Ngày</string>
+<string id="Complications_Type_11" scope="foreground">Ánh sáng ban ngày - Bình minh</string>
+<string id="Complications_Type_12" scope="foreground">Ánh sáng ban ngày - Hoàng hôn</string>
+<string id="Complications_Type_13" scope="foreground">Ánh sáng ban ngày - Sự kiện tiếp theo</string>
+<string id="Complications_Type_14" scope="foreground">Khoảng cách</string>
+<string id="Complications_Type_15" scope="foreground">Tầng - Đi lên</string>
+<string id="Complications_Type_16" scope="foreground">Tầng - Đi xuống</string>
+<string id="Complications_Type_17" scope="foreground">Tầng - Tổng</string>
+<string id="Complications_Type_18" scope="foreground">Nhịp tim</string>
+<string id="Complications_Type_19" scope="foreground">Vùng nhịp tim</string>
+<string id="Complications_Type_2" scope="foreground">Phút hoạt động trong tuần này</string>
+<string id="Complications_Type_20" scope="foreground">Cấp độ di chuyển</string>
+<string id="Complications_Type_21" scope="foreground">Tốc độ hô hấp</string>
+<string id="Complications_Type_22" scope="foreground">Áp suất mực nước biển</string>
+<string id="Complications_Type_23" scope="foreground">Tốc độ (Cần GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Các bước</string>
+<string id="Complications_Type_25" scope="foreground">Nhiệt độ</string>
+<string id="Complications_Type_26" scope="foreground">Thời gian phục hồi</string>
+<string id="Complications_Type_27" scope="foreground">Thời tiết - Cảm giác như vậy</string>
+<string id="Complications_Type_28" scope="foreground">Thời tiết - Dự báo Cao/Thấp</string>
+<string id="Complications_Type_29" scope="foreground">Thời tiết - Khả năng có mưa</string>
+<string id="Complications_Type_3" scope="foreground">Độ cao</string>
+<string id="Complications_Type_30" scope="foreground">Thời tiết - Độ ẩm tương đối</string>
+<string id="Complications_Type_31" scope="foreground">Thời tiết - Nhiệt độ</string>
+<string id="Complications_Type_32" scope="foreground">Thời tiết - Tốc độ gió</string>
+<string id="Complications_Type_4" scope="foreground">Áp suất xung quanh</string>
+<string id="Complications_Type_5" scope="foreground">Pin cơ thể</string>
+<string id="Complications_Type_6" scope="foreground">Calo</string>
+<string id="Complications_Type_7" scope="foreground">Tiêu đề hiện tại - Độ</string>
+<string id="Complications_Type_8" scope="foreground">Tiêu đề hiện tại - Cấp độ NATO</string>
+<string id="Complications_Type_9" scope="foreground">Tiêu đề hiện tại - NESW</string>
+<string id="Coordinates" scope="foreground">Tọa độ</string>
+<string id="Coordinates_Format" scope="foreground">Định dạng</string>
+<string id="Coordinates_Format_0" scope="foreground">Độ</string>
+<string id="Coordinates_Format_1" scope="foreground">Độ/Phút</string>
+<string id="Coordinates_Format_2" scope="foreground">Độ/Phút/Giây</string>
+<string id="Coordinates_Format_3" scope="foreground">Hệ thống tham chiếu lưới quân sự</string>
+<string id="Days" scope="foreground">Ngày</string>
+<string id="Days_Color" scope="foreground">Màu nhẫn</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Phóng to kích thước văn bản</string>
+<string id="Days_Goal" scope="foreground">Bàn thắng</string>
+<string id="Days_TextColor" scope="foreground">Màu văn bản</string>
+<string id="Days_TextGoalColor" scope="foreground">Màu văn bản mục tiêu</string>
+<string id="Days_Type" scope="foreground">Số liệu</string>
+<string id="Days_Type_0" scope="foreground">Không có</string>
+<string id="Days_Type_1" scope="foreground">Các bước</string>
+<string id="Days_Type_2" scope="foreground">Tầng</string>
+<string id="Days_Type_3" scope="foreground">Phút hoạt động</string>
+<string id="Days_Type_4" scope="foreground">Calo</string>
+<string id="Days_Type_5" scope="foreground">Khoảng cách</string>
+<string id="Global_Settings" scope="foreground">Cài đặt</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Sử dụng GPS</string>
+<string id="GPS_Latitude" scope="foreground">Vĩ độ</string>
+<string id="GPS_Longitude" scope="foreground">Kinh độ</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Nhịp tim</string>
+<string id="HeartRate_Adjustment" scope="foreground">Điều chỉnh</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Nghỉ ngơi</string>
+<string id="History" scope="foreground">Lịch sử</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Giảm khuếch đại</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">$1$ GIỜ CUỐI CÙNG</string>
+<string id="History_Type" scope="foreground">Phong cách đồ thị</string>
+<string id="History_Type_0" scope="foreground">Cột</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Để có được vị trí GPS, vui lòng có tầm nhìn rõ ràng về bầu trời.</string>
+<string id="Location_InvalidLong" scope="foreground">Không thể lấy được vị trí, vui lòng kiểm tra cài đặt hoặc GPS của thiết bị.</string>
+<string id="Location_InvalidShort" scope="glance">Vị trí không hợp lệ</string>
+<string id="Location_RequiredLong" scope="foreground">Cần vị trí GPS, vui lòng nhấn hoặc chọn tiện ích.</string>
+<string id="Location_RequiredShort" scope="glance">Vị trí bắt buộc</string>
+<string id="LowBattery" scope="foreground">Pin yếu</string>
+<string id="LowBattery_Enabled" scope="foreground">Bật Chế độ Pin yếu</string>
+<string id="MinimalDays" scope="foreground">Ngày tối thiểu</string>
+<string id="MIP" scope="foreground">Thiết bị MIP</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Nâng/Nhấn để đánh thức</string>
+<string id="Months_April" scope="foreground">Tháng 4</string>
+<string id="Months_August" scope="foreground">Tháng 8</string>
+<string id="Months_December" scope="foreground">Tháng 12</string>
+<string id="Months_February" scope="foreground">Tháng 2</string>
+<string id="Months_January" scope="foreground">Tháng Giêng</string>
+<string id="Months_July" scope="foreground">Tháng 7</string>
+<string id="Months_March" scope="foreground">Tháng 3</string>
+<string id="Months_May" scope="foreground">Tháng 5</string>
+<string id="Months_November" scope="foreground">Tháng 11</string>
+<string id="Months_October" scope="foreground">Tháng 10</string>
+<string id="Months_September" scope="foreground">Tháng 9</string>
+<string id="Months_Tháng Sáu" scope="foreground">Tháng Sáu</string>
+<string id="RefreshRate_100" scope="foreground">100 mili giây</string>
+<string id="RefreshRate_1000" scope="foreground">1 giây</string>
+<string id="SimplyElegant" scope="foreground">Đơn giản là thanh lịch</string>
+<string id="Sleep" scope="foreground">Ngủ</string>
+<string id="Sleep_Enabled" scope="foreground">Bật Chế độ Ngủ</string>
+<string id="StormAlert" scope="foreground">Cảnh báo thay đổi áp suất</string>
+<string id="StormAlert_Active" scope="foreground">Cảnh báo</string>
+<string id="StormAlert_Message" scope="foreground">Tin nhắn</string>
+<string id="StormAlert_MessageError" scope="foreground">Thông báo này là bắt buộc</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Tỷ lệ thay đổi</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 milibar mỗi 3 giờ</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 milibar mỗi 3 giờ</string>
+<string id="SunTimes" scope="glance">Thời gian mặt trời</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Sự kiện tiếp theo trong</string>
+<string id="SunTimes_Sunrise" scope="foreground">Mặt trời mọc</string>
+<string id="SunTimes_SunriseIn" scope="glance">Mặt trời mọc</string>
+<string id="SunTimes_Sunset" scope="foreground">Hoàng hôn</string>
+<string id="SunTimes_SunsetIn" scope="glance">Hoàng hôn</string>
+<string id="SunTimes_Today" scope="foreground">Hôm nay</string>
+<string id="System" scope="foreground">Biểu tượng trạng thái</string>
+<string id="System_AlarmsEnabled" scope="foreground">Biểu tượng báo động</string>
+<string id="System_BatteryDay" scope="foreground">Ngày</string>
+<string id="System_BatteryDays" scope="foreground">Ngày</string>
+<string id="System_BatteryEnabled" scope="foreground">Biểu tượng pin</string>
+<string id="System_BluetoothEnabled" scope="foreground">Biểu tượng Bluetooth</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Biểu tượng Không làm phiền</string>
+<string id="System_NotificationsEnabled" scope="foreground">Biểu tượng thông báo</string>
+<string id="Temperature" scope="glance">Nhiệt độ</string>
+<string id="Temperature_Adjustment" scope="foreground">Điều chỉnh</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Chuyển đổi sang lõi</string>
+<string id="Time" scope="foreground">Thời gian</string>
+<string id="Time_DisplayFormat" scope="foreground">Định dạng hiển thị</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Mặc định</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 giờ</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 giờ</string>
+<string id="Time_NextEventEnabled" scope="foreground">Hiển thị sự kiện tiếp theo</string>
+<string id="Twilight" scope="foreground">Chạng vạng</string>
+<string id="Twilight_Level" scope="foreground">Cấp độ</string>
+<string id="Twilight_Level_0" scope="foreground">Thiên văn</string>
+<string id="Twilight_Level_1" scope="foreground">Hải lý</string>
+<string id="Twilight_Level_2" scope="foreground">Dân sự</string>
+<string id="Units" scope="foreground">Đơn vị</string>
+<string id="Units_Date" scope="foreground">Ngày</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MM DD</string>
+<string id="Units_Date_2" scope="foreground">MMM DD YY</string>
+<string id="Units_Date_3" scope="foreground">DD MMM YY</string>
+<string id="Units_Pressure" scope="foreground">Phong vũ biểu</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Sử dụng phông chữ lớn hơn</string>
+<string id="UX_MeterHandStyle" scope="foreground">kiểu kim đồng hồ</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Phong cách 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Phong cách 2</string>

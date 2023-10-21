@@ -1,0 +1,35 @@
+{
+  "name": "HeartRate",
+  "id": "017bffe6-f0b0-453e-abd6-b836347f54fd",
+  "version": "1.9.7",
+  "modules": [
+    "Sensor",
+    "SensorHistory",
+    "UserProfile"
+  ],
+  "properties": [
+    {
+      "id": "HeartRate",
+      "items": [
+        {
+          "id": "Adjustment",
+          "type": "number",
+          "default": 0
+        }
+      ]
+    },
+    {
+      "id": "History",
+      "items": [
+        {
+          "id": "AlphaWeightEnabled",
+          "type": "boolean",
+          "default": true
+        }
+      ]
+    }
+  ],
+  "drawables": [
+    "project.drawables.json"
+  ]
+}

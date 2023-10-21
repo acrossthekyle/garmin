@@ -1,0 +1,153 @@
+{
+  "name": "Compass",
+  "id": "22a8d3a2-47ad-4e0e-b8a2-a776e65206ba",
+  "version": "1.3.3",
+  "modules": [
+    "Positioning",
+    "Sensor",
+    "SensorHistory"
+  ],
+  "properties": [
+    {
+      "id": "Altitude",
+      "items": [
+        {
+          "id": "UnitsEnabled",
+          "type": "boolean",
+          "default": true
+        },
+        {
+          "id": "Precision",
+          "type": "number",
+          "default": 0,
+          "options": 3
+        }
+      ]
+    },
+    {
+      "id": "Compass",
+      "items": [
+        {
+          "id": "Declination",
+          "type": "number",
+          "default": 0
+        },
+        {
+          "id": "DegreesFormat",
+          "type": "number",
+          "default": 0,
+          "options": 2
+        },
+        {
+          "id": "RefreshRate",
+          "type": "number",
+          "default": 3,
+          "options": 4
+        },
+        {
+          "id": "Color",
+          "type": "color",
+          "default": "0xFF0000"
+        }
+      ]
+    }
+  ],
+  "drawables": [
+    {
+      "suffix": "",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 35,
+          "color": "AA5500"
+        }
+      ]
+    },
+    {
+      "suffix": "round-218x218",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 30,
+          "color": "AA5500"
+        }
+      ]
+    },
+    {
+      "suffix": "round-240x240",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 30,
+          "color": "AA5500"
+        }
+      ]
+    },
+    {
+      "suffix": "round-280x280",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 35,
+          "color": "AA5500"
+        }
+      ]
+    },
+    {
+      "suffix": "round-360x360",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 64,
+          "color": "AA5500"
+        }
+      ]
+    },
+    {
+      "suffix": "round-390x390",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 64,
+          "color": "AA5500"
+        }
+      ]
+    },
+    {
+      "suffix": "round-416x416",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 64,
+          "color": "AA5500"
+        }
+      ]
+    },
+    {
+      "suffix": "round-454x454",
+      "items": [
+        {
+          "type": "bitmap",
+          "id": "LauncherIcon",
+          "name": "compass-dark",
+          "size": 64,
+          "color": "AA5500"
+        }
+      ]
+    }
+  ]
+}

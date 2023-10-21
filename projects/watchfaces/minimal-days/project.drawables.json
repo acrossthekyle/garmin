@@ -1,0 +1,1624 @@
+{
+	"drawables": [
+		{
+			"suffix": "",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "launch",
+					"size": 16,
+					"color": "FFFFFF"
+				}
+			]
+		},
+		{
+			"suffix": "round-218x218",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 16
+			  }
+			]
+		},
+		{
+			"suffix": "round-240x240",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 16
+			  }
+			]
+		},
+		{
+			"suffix": "round-260x260",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 18
+			  }
+			]
+		},
+		{
+			"suffix": "round-280x280",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 18
+			  }
+			]
+		},
+		{
+			"suffix": "round-360x360",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 24
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 24
+			  }
+			]
+		},
+		{
+			"suffix": "round-390x390",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 26
+			  }
+			]
+		},
+		{
+			"suffix": "round-416x416",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 26
+			  }
+			]
+		},
+		{
+			"suffix": "round-454x454",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Activity",
+			  	"name": "activity",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Altitude",
+			  	"name": "altitude-alt",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Pressure",
+			  	"name": "pressure",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Calories",
+			  	"name": "calories",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Compass",
+			  	"name": "compass",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Date",
+			  	"name": "date",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Distance",
+			  	"name": "distance",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsTotal",
+			  	"name": "floors-total",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsAscended",
+			  	"name": "floors-ascended",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_FloorsDescended",
+			  	"name": "floors-descended",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_HeartRate",
+			  	"name": "heart-rate",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Respiration",
+			  	"name": "respiration",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Speed",
+			  	"name": "speed",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Steps",
+			  	"name": "steps",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Daylight",
+			  	"name": "daylight",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunrise",
+			  	"name": "sunrise",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sunset",
+			  	"name": "sunset",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Time",
+			  	"name": "time",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Temperature",
+			  	"name": "temperature",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Humidity",
+			  	"name": "humidity",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Rain",
+			  	"name": "rain",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Wind",
+			  	"name": "wind",
+			    "color": "FFFFFF",
+			    "size": 26
+			  }
+			]
+		}
+	]
+}

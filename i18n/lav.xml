@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Augstums</string>
+<string id="Altitude_Ascent" scope="foreground">Pacelšanās</string>
+<string id="Altitude_Descent" scope="foreground">Nolaišanās</string>
+<string id="Altitude_Oxygen" scope="foreground">Skābeklis</string>
+<string id="Altitude_Precision" scope="foreground">Precizitāte</string>
+<string id="Altitude_Precision_0" scope="foreground">0 decimals</string>
+<string id="Altitude_Precision_1" scope="foreground">1 decimal</string>
+<string id="Altitude_Precision_2" scope="foreground">2 zīmes aiz komata</string>
+<string id="Altitude_Risk" scope="foreground">Risks</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Nav</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Rādīt vienības</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Extreme</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Augsta</string>
+<string id="Altitude_ZoneLow" scope="foreground">Zems</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Mērens</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Ļoti augsts</string>
+<string id="AOD" scope="foreground">AMOLED ierīces</string>
+<string id="AOD_Enabled" scope="foreground">Iespējot AOD režīmu</string>
+<string id="Barometer" scope="glance">Barometrs</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Mērvienība</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Rādīt vienības</string>
+<string id="Clock" scope="foreground">Pulkstenis</string>
+<string id="Clock_AmPmColor" scope="foreground">Priekšpusdienas/PM krāsa</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Rādīt AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Palielināt pulksteņa tekstu</string>
+<string id="Clock_HoursColor" scope="foreground">Stundu krāsa</string>
+<string id="Clock_MinutesColor" scope="foreground">Minūtes krāsa</string>
+<string id="Clock_SecondsColor" scope="foreground">Sekunžu krāsa</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Rādīt sekundes</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Iespējot tikai sekundes, kad ir aktīvs</string>
+<string id="Compass" scope="glance">Kompass</string>
+<string id="Compass_Color" scope="foreground">Krāsa</string>
+<string id="Compass_Declination" scope="foreground">Deklinācija</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Grādu formāts</string>
+<string id="Compass_Deviation" scope="foreground">Novirze</string>
+<string id="Compass_Mils" scope="foreground">6400 jūdzes (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Atsvaidzināšanas biežums</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Komplikācijas</string>
+<string id="Complications_BottomColor" scope="foreground">Apakšējā datu krāsa</string>
+<string id="Complications_BottomType" scope="foreground">Apakšējais datu vienums</string>
+<string id="Complications_BottomType_0" scope="foreground">Nav</string>
+<string id="Complications_BottomType_1" scope="foreground">Aktīvās minūtes šodien</string>
+<string id="Complications_BottomType_10" scope="foreground">Datums</string>
+<string id="Complications_BottomType_11" scope="foreground">Dienas gaisma — saullēkts</string>
+<string id="Complications_BottomType_12" scope="foreground">Dienas gaisma — saulriets</string>
+<string id="Complications_BottomType_13" scope="foreground">Dienas gaisma — nākamais pasākums</string>
+<string id="Complications_BottomType_14" scope="foreground">Attālums</string>
+<string id="Complications_BottomType_15" scope="foreground">Stāvi — paaugstināti</string>
+<string id="Complications_BottomType_16" scope="foreground">Stāvi — lejupejoši</string>
+<string id="Complications_BottomType_17" scope="foreground">Grīdi — kopā</string>
+<string id="Complications_BottomType_18" scope="foreground">Sirdsdarbības ātrums</string>
+<string id="Complications_BottomType_19" scope="foreground">Sirds ritma zona</string>
+<string id="Complications_BottomType_2" scope="foreground">Aktīvās minūtes šonedēļ</string>
+<string id="Complications_BottomType_20" scope="foreground">Pārvietot līmeni</string>
+<string id="Complications_BottomType_21" scope="foreground">Elpošanas ātrums</string>
+<string id="Complications_BottomType_22" scope="foreground">Spiediens jūras līmenī</string>
+<string id="Complications_BottomType_23" scope="foreground">Ātrums (nepieciešams GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Darbības</string>
+<string id="Complications_BottomType_25" scope="foreground">Temperatūra</string>
+<string id="Complications_BottomType_26" scope="foreground">Atkopšanas laiks</string>
+<string id="Complications_BottomType_27" scope="foreground">Laikapstākļi — šķiet</string>
+<string id="Complications_BottomType_28" scope="foreground">Laikapstākļi — prognozēts augsts/zems</string>
+<string id="Complications_BottomType_29" scope="foreground">Laikapstākļi — nokrišņu iespējamība</string>
+<string id="Complications_BottomType_3" scope="foreground">Augstums</string>
+<string id="Complications_BottomType_30" scope="foreground">Laika apstākļi — relatīvais mitrums</string>
+<string id="Complications_BottomType_31" scope="foreground">Laikapstākļi — temperatūra</string>
+<string id="Complications_BottomType_32" scope="foreground">Laikapstākļi — vēja ātrums</string>
+<string id="Complications_BottomType_4" scope="foreground">Apkārtējais spiediens</string>
+<string id="Complications_BottomType_5" scope="foreground">Korpusa akumulators</string>
+<string id="Complications_BottomType_6" scope="foreground">kalorijas</string>
+<string id="Complications_BottomType_7" scope="foreground">Pašreizējais virsraksts — grādi</string>
+<string id="Complications_BottomType_8" scope="foreground">Pašreizējais virsraksts — NATO grādi</string>
+<string id="Complications_BottomType_9" scope="foreground">Pašreizējais virsraksts — NESW</string>
+<string id="Complications_Color" scope="foreground">Datu krāsa</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Palielināt datu teksta izmēru</string>
+<string id="Complications_IconEnabled" scope="foreground">Iespējot ikonu</string>
+<string id="Complications_Label_Active" scope="foreground">Aktīvs</string>
+<string id="Complications_Label_Altitude" scope="foreground">Paaugstinājums</string>
+<string id="Complications_Label_Ascended" scope="foreground">Paaugstināts</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometrs</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Korpusa akumulators</string>
+<string id="Complications_Label_Calories" scope="foreground">kalorijas</string>
+<string id="Complications_Label_Current" scope="foreground">Pašreizējais</string>
+<string id="Complications_Label_Descended" scope="foreground">Dilstoša</string>
+<string id="Complications_Label_Distance" scope="foreground">Attālums</string>
+<string id="Complications_Label_Floors" scope="foreground">Grīdas</string>
+<string id="Complications_Label_Heading" scope="foreground">Virsraksts</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Grādi</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Patiesie ziemeļi</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Sirdsdarbības ātrums</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Sirds ritma zona</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Pārvietot līmeni</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Atkopšana</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Elpošana</string>
+<string id="Complications_Label_Speed" scope="foreground">Ātrums</string>
+<string id="Complications_Label_Steps" scope="foreground">Soļi</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Saullēkts</string>
+<string id="Complications_Label_Sunset" scope="foreground">Saulriets</string>
+<string id="Complications_Label_Temperature" scope="foreground">Temperatūra</string>
+<string id="Complications_Label_Today" scope="foreground">Šodien</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Rīt</string>
+<string id="Complications_Label_Total" scope="foreground">Kopā</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Temperatūra</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Šķiet</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Augsts/zems</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Lietus iespēja</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Mitrums</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Vēja ātrums</string>
+<string id="Complications_Label_Week" scope="foreground">Nedēļa</string>
+<string id="Complications_TopColor" scope="foreground">Augstākā datu krāsa</string>
+<string id="Complications_TopType" scope="foreground">Vispopulārākais datu vienums</string>
+<string id="Complications_TopType_0" scope="foreground">Nav</string>
+<string id="Complications_TopType_1" scope="foreground">Aktīvās minūtes šodien</string>
+<string id="Complications_TopType_10" scope="foreground">Datums</string>
+<string id="Complications_TopType_11" scope="foreground">Dienas gaisma — saullēkts</string>
+<string id="Complications_TopType_12" scope="foreground">Dienas gaisma — saulriets</string>
+<string id="Complications_TopType_13" scope="foreground">Dienas gaisma — nākamais pasākums</string>
+<string id="Complications_TopType_14" scope="foreground">Attālums</string>
+<string id="Complications_TopType_15" scope="foreground">Stāvi — paaugstināti</string>
+<string id="Complications_TopType_16" scope="foreground">Stāvi — lejupejoši</string>
+<string id="Complications_TopType_17" scope="foreground">Grīdas — kopā</string>
+<string id="Complications_TopType_18" scope="foreground">Sirdsdarbības ātrums</string>
+<string id="Complications_TopType_19" scope="foreground">Sirds ritma zona</string>
+<string id="Complications_TopType_2" scope="foreground">Aktīvās minūtes šonedēļ</string>
+<string id="Complications_TopType_20" scope="foreground">Pārvietot līmeni</string>
+<string id="Complications_TopType_21" scope="foreground">Elpošanas ātrums</string>
+<string id="Complications_TopType_22" scope="foreground">Spiediens jūras līmenī</string>
+<string id="Complications_TopType_23" scope="foreground">Ātrums (nepieciešams GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Darbības</string>
+<string id="Complications_TopType_25" scope="foreground">Temperatūra</string>
+<string id="Complications_TopType_26" scope="foreground">Atkopšanas laiks</string>
+<string id="Complications_TopType_27" scope="foreground">Laikapstākļi — šķiet</string>
+<string id="Complications_TopType_28" scope="foreground">Laikapstākļi — prognozēts augsts/zems</string>
+<string id="Complications_TopType_29" scope="foreground">Laikapstākļi — nokrišņu iespējamība</string>
+<string id="Complications_TopType_3" scope="foreground">Augstums</string>
+<string id="Complications_TopType_30" scope="foreground">Laika apstākļi — relatīvais mitrums</string>
+<string id="Complications_TopType_31" scope="foreground">Laikapstākļi — temperatūra</string>
+<string id="Complications_TopType_32" scope="foreground">Laikapstākļi — vēja ātrums</string>
+<string id="Complications_TopType_4" scope="foreground">Apkārtējais spiediens</string>
+<string id="Complications_TopType_5" scope="foreground">Korpusa akumulators</string>
+<string id="Complications_TopType_6" scope="foreground">kalorijas</string>
+<string id="Complications_TopType_7" scope="foreground">Pašreizējais virsraksts — grādi</string>
+<string id="Complications_TopType_8" scope="foreground">Pašreizējais nosaukums — NATO grādi</string>
+<string id="Complications_TopType_9" scope="foreground">Pašreizējais virsraksts — NESW</string>
+<string id="Complications_Type" scope="foreground">Datu vienums</string>
+<string id="Complications_Type_0" scope="foreground">Nav</string>
+<string id="Complications_Type_1" scope="foreground">Aktīvās minūtes šodien</string>
+<string id="Complications_Type_10" scope="foreground">Datums</string>
+<string id="Complications_Type_11" scope="foreground">Dienas gaisma — saullēkts</string>
+<string id="Complications_Type_12" scope="foreground">Dienas gaisma — saulriets</string>
+<string id="Complications_Type_13" scope="foreground">Dienas gaisma — nākamais pasākums</string>
+<string id="Complications_Type_14" scope="foreground">Attālums</string>
+<string id="Complications_Type_15" scope="foreground">Stāvi — paaugstināti</string>
+<string id="Complications_Type_16" scope="foreground">Stāvi — lejupejoši</string>
+<string id="Complications_Type_17" scope="foreground">Grīdas — kopā</string>
+<string id="Complications_Type_18" scope="foreground">Sirdsdarbības ātrums</string>
+<string id="Complications_Type_19" scope="foreground">Sirds ritma zona</string>
+<string id="Complications_Type_2" scope="foreground">Aktīvās minūtes šonedēļ</string>
+<string id="Complications_Type_20" scope="foreground">Pārvietot līmeni</string>
+<string id="Complications_Type_21" scope="foreground">Elpošanas ātrums</string>
+<string id="Complications_Type_22" scope="foreground">Spiediens jūras līmenī</string>
+<string id="Complications_Type_23" scope="foreground">Ātrums (nepieciešams GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Darbības</string>
+<string id="Complications_Type_25" scope="foreground">Temperatūra</string>
+<string id="Complications_Type_26" scope="foreground">Atkopšanas laiks</string>
+<string id="Complications_Type_27" scope="foreground">Laikapstākļi — šķiet</string>
+<string id="Complications_Type_28" scope="foreground">Laikapstākļi — prognozēts augsts/zems</string>
+<string id="Complications_Type_29" scope="foreground">Laikapstākļi — nokrišņu iespējamība</string>
+<string id="Complications_Type_3" scope="foreground">Augstums</string>
+<string id="Complications_Type_30" scope="foreground">Laikapstākļi — relatīvais mitrums</string>
+<string id="Complications_Type_31" scope="foreground">Laikapstākļi — temperatūra</string>
+<string id="Complications_Type_32" scope="foreground">Laikapstākļi — vēja ātrums</string>
+<string id="Complications_Type_4" scope="foreground">Apkārtējais spiediens</string>
+<string id="Complications_Type_5" scope="foreground">korpusa akumulators</string>
+<string id="Complications_Type_6" scope="foreground">kalorijas</string>
+<string id="Complications_Type_7" scope="foreground">Pašreizējais virsraksts — grādi</string>
+<string id="Complications_Type_8" scope="foreground">Pašreizējais nosaukums — NATO grādi</string>
+<string id="Complications_Type_9" scope="foreground">Pašreizējais virsraksts — NESW</string>
+<string id="Coordinates" scope="foreground">Koordinātas</string>
+<string id="Coordinates_Format" scope="foreground">Formatēt</string>
+<string id="Coordinates_Format_0" scope="foreground">Grādi</string>
+<string id="Coordinates_Format_1" scope="foreground">Grādi/minūtes</string>
+<string id="Coordinates_Format_2" scope="foreground">Grādi/minūtes/sekundes</string>
+<string id="Coordinates_Format_3" scope="foreground">Militārā režģa atsauces sistēma</string>
+<string id="Days" scope="foreground">Dienas</string>
+<string id="Days_Color" scope="foreground">Gredzena krāsa</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Palielināt teksta izmēru</string>
+<string id="Days_Goal" scope="foreground">Mērķis</string>
+<string id="Days_TextColor" scope="foreground">Teksta krāsa</string>
+<string id="Days_TextGoalColor" scope="foreground">Mērķa teksta krāsa</string>
+<string id="Days_Type" scope="foreground">Metrika</string>
+<string id="Days_Type_0" scope="foreground">Nav</string>
+<string id="Days_Type_1" scope="foreground">Soļi</string>
+<string id="Days_Type_2" scope="foreground">Stāvi</string>
+<string id="Days_Type_3" scope="foreground">Aktīvās minūtes</string>
+<string id="Days_Type_4" scope="foreground">kalorijas</string>
+<string id="Days_Type_5" scope="foreground">Attālums</string>
+<string id="Global_Settings" scope="foreground">Iestatījumi</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Izmantot GPS</string>
+<string id="GPS_Latitude" scope="foreground">Platuma grāds</string>
+<string id="GPS_Longitude" scope="foreground">Garums</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Sirdsdarbības ātrums</string>
+<string id="HeartRate_Adjustment" scope="foreground">Pielāgošana</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Atpūta</string>
+<string id="History" scope="foreground">Vēsture</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Samazināt pastiprinājumu</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">PĒDĒJĀS $1$ STUNDAS</string>
+<string id="History_Type" scope="foreground">Diagrammas stils</string>
+<string id="History_Type_0" scope="foreground">Sleja</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Notiek GPS pozīcijas iegūšana, lūdzu, skaidri redziet debesis.</string>
+<string id="Location_InvalidLong" scope="foreground">Nevar iegūt atrašanās vietu. Lūdzu, pārbaudiet ierīces GPS vai iestatījumus.</string>
+<string id="Location_InvalidShort" scope="glance">Nederīga atrašanās vieta</string>
+<string id="Location_RequiredLong" scope="foreground">Nepieciešama GPS pozīcija, lūdzu, pieskarieties vai atlasiet logrīku.</string>
+<string id="Location_RequiredShort" scope="glance">Nepieciešama atrašanās vieta</string>
+<string id="LowBattery" scope="foreground">Zems akumulatora uzlādes līmenis</string>
+<string id="LowBattery_Enabled" scope="foreground">Iespējot zema akumulatora uzlādes līmeņa režīmu</string>
+<string id="MinimalDays" scope="foreground">Minimālais dienu skaits</string>
+<string id="MIP" scope="foreground">MIP ierīces</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Paceliet/pieskarieties, lai pamodinātu</string>
+<string id="Months_April" scope="foreground">Aprīlis</string>
+<string id="Months_August" scope="foreground">augusts</string>
+<string id="Months_December" scope="foreground">decembris</string>
+<string id="Months_February" scope="foreground">februāris</string>
+<string id="Months_January" scope="foreground">janvāris</string>
+<string id="Months_July" scope="foreground">jūlijs</string>
+<string id="Months_June" scope="foreground">jūnijs</string>
+<string id="Months_March" scope="foreground">marts</string>
+<string id="Months_May" scope="foreground">maijs</string>
+<string id="Months_November" scope="foreground">novembris</string>
+<string id="Months_October" scope="foreground">oktobris</string>
+<string id="Months_September" scope="foreground">septembris</string>
+<string id="SimplyElegant" scope="foreground">Vienkārši elegants</string>
+<string id="Sleep" scope="foreground">Miega režīms</string>
+<string id="Sleep_Enabled" scope="foreground">Iespējot miega režīmu</string>
+<string id="StormAlert" scope="foreground">Spiediena maiņas brīdinājums</string>
+<string id="StormAlert_Active" scope="foreground">Brīdinājums</string>
+<string id="StormAlert_Message" scope="foreground">Ziņojums</string>
+<string id="StormAlert_MessageError" scope="foreground">Ziņojums ir nepieciešams</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Izmaiņu ātrums</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 milibārs 3 stundās</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 milibāri 3 stundās</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 milibāri 3 stundās</string>
+<string id="SunTimes" scope="glance">Saules laiki</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Nākamais pasākums</string>
+<string id="SunTimes_Sunrise" scope="foreground">Saullēkts</string>
+<string id="SunTimes_SunriseIn" scope="glance">Sunrise In</string>
+<string id="SunTimes_Sunset" scope="foreground">Saulriets</string>
+<string id="SunTimes_SunsetIn" scope="glance">Sunset In</string>
+<string id="SunTimes_Today" scope="foreground">Šodien</string>
+<string id="System" scope="foreground">Statusa ikonas</string>
+<string id="System_AlarmsEnabled" scope="foreground">Trauksmes ikona</string>
+<string id="System_BatteryDay" scope="foreground">Diena</string>
+<string id="System_BatteryDays" scope="foreground">Dienas</string>
+<string id="System_BatteryEnabled" scope="foreground">Akumulatora ikona</string>
+<string id="System_BluetoothEnabled" scope="foreground">Bluetooth ikona</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Netraucēt ikona</string>
+<string id="System_NotificationsEnabled" scope="foreground">Paziņojumu ikona</string>
+<string id="Temperature" scope="glance">Temperatūra</string>
+<string id="Temperature_Adjustment" scope="foreground">Pielāgošana</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Konvertēt uz Core</string>
+<string id="Time" scope="foreground">Laiks</string>
+<string id="Time_DisplayFormat" scope="foreground">Displeja formāts</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Noklusējums</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 stundas</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 stundas</string>
+<string id="Time_NextEventEnabled" scope="foreground">Rādīt nākamo notikumu</string>
+<string id="Twilight" scope="foreground">Krēsla</string>
+<string id="Twilight_Level" scope="foreground">Līmenis</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomijas</string>
+<string id="Twilight_Level_1" scope="foreground">Kuģniecības</string>
+<string id="Twilight_Level_2" scope="foreground">Civilā</string>
+<string id="Units" scope="foreground">Vienības</string>
+<string id="Units_Date" scope="foreground">Datums</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMM DD</string>
+<string id="Units_Date_2" scope="foreground">MM DD GG</string>
+<string id="Units_Date_3" scope="foreground">DD MMM GG</string>
+<string id="Units_Pressure" scope="foreground">Barometrs</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Izmantot lielāku fontu</string>
+<string id="UX_MeterHandStyle" scope="foreground">Mērītāja rokas stils</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">1. stils</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">2. stils</string>

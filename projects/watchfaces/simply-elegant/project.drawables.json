@@ -1,0 +1,392 @@
+{
+	"drawables": [
+		{
+			"suffix": "",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "LauncherIcon",
+					"name": "launch",
+					"size": 16,
+					"color": "FFFFFF"
+				}
+			]
+		},
+		{
+			"suffix": "round-218x218",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 16
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 16
+			  }
+			]
+		},
+		{
+			"suffix": "round-240x240",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 18
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 18
+			  }
+			]
+		},
+		{
+			"suffix": "round-260x260",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 20
+			  }
+			]
+		},
+		{
+			"suffix": "round-280x280",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 20
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 20
+			  }
+			]
+		},
+		{
+			"suffix": "round-360x360",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 26
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 26
+			  }
+			]
+		},
+		{
+			"suffix": "round-390x390",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 28
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 28
+			  }
+			]
+		},
+		{
+			"suffix": "round-416x416",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 30
+			  }
+			]
+		},
+		{
+			"suffix": "round-454x454",
+			"items": [
+				{
+					"type": "bitmap",
+					"id": "Drawable_DoNotDisturb",
+					"name": "silence",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Alarm",
+			  	"name": "alarm",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Notification",
+			  	"name": "notification",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Sleep",
+			  	"name": "sleep",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Bluetooth",
+			  	"name": "bluetooth",
+			    "color": "FFFFFF",
+			    "size": 30
+			  },
+			  {
+			  	"type": "bitmap",
+			  	"id": "Drawable_Battery",
+			  	"name": "battery",
+			    "color": "FFFFFF",
+			    "size": 30
+			  }
+			]
+		}
+	]
+}

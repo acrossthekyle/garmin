@@ -1,0 +1,5 @@
+<properties>
+  <property id="Device_Id" type="string">legacysagarey</property>
+  <property id="Font_ExtraTinyAscentAdjustment" type="number">0</property>
+  <property id="Font_SmallAscentAdjustment" type="number">-1</property>
+</properties>

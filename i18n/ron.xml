@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Altitudine</string>
+<string id="Altitude_Ascent" scope="foreground">Urcare</string>
+<string id="Altitude_Descent" scope="foreground">Coborâre</string>
+<string id="Altitude_Oxygen" scope="foreground">Oxigen</string>
+<string id="Altitude_Precision" scope="foreground">Precizie</string>
+<string id="Altitude_Precision_0" scope="foreground">0 zecimale</string>
+<string id="Altitude_Precision_1" scope="foreground">1 zecimală</string>
+<string id="Altitude_Precision_2" scope="foreground">2 zecimale</string>
+<string id="Altitude_Risk" scope="foreground">Risc</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Niciuna</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Afișați unitățile</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Extrem</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Ridicat</string>
+<string id="Altitude_ZoneLow" scope="foreground">Scăzut</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Moderat</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Foarte mare</string>
+<string id="AOD" scope="foreground">Dispozitive AMOLED</string>
+<string id="AOD_Enabled" scope="foreground">Activați modul AOD</string>
+<string id="Barometer" scope="glance">Barometru</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Unitate de măsură</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">hPa</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">mmHg</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">mBar</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Afișați unitățile</string>
+<string id="Clock" scope="foreground">Ceas</string>
+<string id="Clock_AmPmColor" scope="foreground">Culoarea AM/PM</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Afișați AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Măriți textul ceasului</string>
+<string id="Clock_HoursColor" scope="foreground">Culoarea orelor</string>
+<string id="Clock_MinutesColor" scope="foreground">Culoarea minutelor</string>
+<string id="Clock_SecondsColor" scope="foreground">Culoare secunde</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Afișați secundele</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Activați numai secundele când este activ</string>
+<string id="Compass" scope="glance">Busola</string>
+<string id="Compass_Color" scope="foreground">Culoare</string>
+<string id="Compass_Declination" scope="foreground">Declinație</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Format de grade</string>
+<string id="Compass_Deviation" scope="foreground">Abatere</string>
+<string id="Compass_Mils" scope="foreground">6400 Mils (NATO)</string>
+<string id="Compass_RefreshRate" scope="foreground">Rata de reîmprospătare</string>
+<string id="Compass_RefreshRate_0" scope="foreground">100 ms</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 ms</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 ms</string>
+<string id="Compass_RefreshRate_3" scope="foreground">1 s</string>
+<string id="Complications" scope="foreground">Complicații</string>
+<string id="Complications_BottomColor" scope="foreground">Culoarea datelor de jos</string>
+<string id="Complications_BottomType" scope="foreground">Element de date de jos</string>
+<string id="Complications_BottomType_0" scope="foreground">Niciuna</string>
+<string id="Complications_BottomType_1" scope="foreground">Minute active astăzi</string>
+<string id="Complications_BottomType_10" scope="foreground">Data</string>
+<string id="Complications_BottomType_11" scope="foreground">Lumina zilei - Răsărit</string>
+<string id="Complications_BottomType_12" scope="foreground">Lumina zilei - Apus</string>
+<string id="Complications_BottomType_13" scope="foreground">Lumina zilei - Următorul eveniment</string>
+<string id="Complications_BottomType_14" scope="foreground">Distanța</string>
+<string id="Complications_BottomType_15" scope="foreground">Pardoseli - Urcat</string>
+<string id="Complications_BottomType_16" scope="foreground">Pardoseli - Coborât</string>
+<string id="Complications_BottomType_17" scope="foreground">Pardoseli - Total</string>
+<string id="Complications_BottomType_18" scope="foreground">Ritmul cardiac</string>
+<string id="Complications_BottomType_19" scope="foreground">Zona de ritm cardiac</string>
+<string id="Complications_BottomType_2" scope="foreground">Minute active în această săptămână</string>
+<string id="Complications_BottomType_20" scope="foreground">Mutare nivel</string>
+<string id="Complications_BottomType_21" scope="foreground">Rata respiratorie</string>
+<string id="Complications_BottomType_22" scope="foreground">Presiunea la nivelul mării</string>
+<string id="Complications_BottomType_23" scope="foreground">Viteză (Necesită GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Pași</string>
+<string id="Complications_BottomType_25" scope="foreground">Temperatura</string>
+<string id="Complications_BottomType_26" scope="foreground">Timp până la recuperare</string>
+<string id="Complications_BottomType_27" scope="foreground">Vremea - Se simte ca</string>
+<string id="Complications_BottomType_28" scope="foreground">Vremea - Preconizată maxim/minus</string>
+<string id="Complications_BottomType_29" scope="foreground">Vremea - Șansa de precipitații</string>
+<string id="Complications_BottomType_3" scope="foreground">Altitudine</string>
+<string id="Complications_BottomType_30" scope="foreground">Vremea - Umiditate relativă</string>
+<string id="Complications_BottomType_31" scope="foreground">Vremea - Temperatura</string>
+<string id="Complications_BottomType_32" scope="foreground">Vremea - Viteza vântului</string>
+<string id="Complications_BottomType_4" scope="foreground">Presiune ambientală</string>
+<string id="Complications_BottomType_5" scope="foreground">Bateria de corp</string>
+<string id="Complications_BottomType_6" scope="foreground">Calorii</string>
+<string id="Complications_BottomType_7" scope="foreground">Titul actual - grade</string>
+<string id="Complications_BottomType_8" scope="foreground">Titul actual - Grade NATO</string>
+<string id="Complications_BottomType_9" scope="foreground">Titul actual - NSW</string>
+<string id="Complications_Color" scope="foreground">Culoarea datelor</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Măriți dimensiunea textului datelor</string>
+<string id="Complications_IconEnabled" scope="foreground">Activați pictograma</string>
+<string id="Complications_Label_Active" scope="foreground">Activ</string>
+<string id="Complications_Label_Altitude" scope="foreground">Altitudine</string>
+<string id="Complications_Label_Ascended" scope="foreground">Ascended</string>
+<string id="Complications_Label_Barometer" scope="foreground">Barometru</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Bateria de corp</string>
+<string id="Complications_Label_Calories" scope="foreground">Calorii</string>
+<string id="Complications_Label_Current" scope="foreground">Actual</string>
+<string id="Complications_Label_Descended" scope="foreground">Coborât</string>
+<string id="Complications_Label_Distance" scope="foreground">Distanța</string>
+<string id="Complications_Label_Floors" scope="foreground">Pardoseli</string>
+<string id="Complications_Label_Heading" scope="foreground">Tit</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Grade</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Nordul adevărat</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Ritmul cardiac</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Zona de ritm cardiac</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Mutați nivelul</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Recuperare</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Respirație</string>
+<string id="Complications_Label_Speed" scope="foreground">Viteză</string>
+<string id="Complications_Label_Steps" scope="foreground">Pași</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Răsărit</string>
+<string id="Complications_Label_Sunset" scope="foreground">Apus</string>
+<string id="Complications_Label_Temperature" scope="foreground">Temperatura</string>
+<string id="Complications_Label_Today" scope="foreground">Astăzi</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Mâine</string>
+<string id="Complications_Label_Total" scope="foreground">Total</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Temperatura</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Se simte ca</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Ridicat/Scăzut</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Șansa de ploaie</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Umiditate</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Viteza vântului</string>
+<string id="Complications_Label_Week" scope="foreground">Săptămâna</string>
+<string id="Complications_TopColor" scope="foreground">Culoarea de top a datelor</string>
+<string id="Complications_TopType" scope="foreground">Element de date de top</string>
+<string id="Complications_TopType_0" scope="foreground">Niciuna</string>
+<string id="Complications_TopType_1" scope="foreground">Minute active astăzi</string>
+<string id="Complications_TopType_10" scope="foreground">Data</string>
+<string id="Complications_TopType_11" scope="foreground">Lumina zilei - Răsărit</string>
+<string id="Complications_TopType_12" scope="foreground">Lumina zilei - Apus</string>
+<string id="Complications_TopType_13" scope="foreground">Daylight - Următorul eveniment</string>
+<string id="Complications_TopType_14" scope="foreground">Distanța</string>
+<string id="Complications_TopType_15" scope="foreground">Etajele - Urcate</string>
+<string id="Complications_TopType_16" scope="foreground">Pardoseli - Coborât</string>
+<string id="Complications_TopType_17" scope="foreground">Pardoseli - Total</string>
+<string id="Complications_TopType_18" scope="foreground">Ritmul cardiac</string>
+<string id="Complications_TopType_19" scope="foreground">Zona de ritm cardiac</string>
+<string id="Complications_TopType_2" scope="foreground">Minute active în această săptămână</string>
+<string id="Complications_TopType_20" scope="foreground">Mutați nivelul</string>
+<string id="Complications_TopType_21" scope="foreground">Rata respiratorie</string>
+<string id="Complications_TopType_22" scope="foreground">Presiunea la nivelul mării</string>
+<string id="Complications_TopType_23" scope="foreground">Viteză (Necesită GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Pași</string>
+<string id="Complications_TopType_25" scope="foreground">Temperatura</string>
+<string id="Complications_TopType_26" scope="foreground">Timp până la recuperare</string>
+<string id="Complications_TopType_27" scope="foreground">Vremea - Se simte ca</string>
+<string id="Complications_TopType_28" scope="foreground">Vremea - Preconizată maxim/minus</string>
+<string id="Complications_TopType_29" scope="foreground">Vremea - Șansa de precipitații</string>
+<string id="Complications_TopType_3" scope="foreground">Altitudine</string>
+<string id="Complications_TopType_30" scope="foreground">Vremea - Umiditate relativă</string>
+<string id="Complications_TopType_31" scope="foreground">Vremea - Temperatura</string>
+<string id="Complications_TopType_32" scope="foreground">Vremea - Viteza vântului</string>
+<string id="Complications_TopType_4" scope="foreground">Presiune ambientală</string>
+<string id="Complications_TopType_5" scope="foreground">Bateria de corp</string>
+<string id="Complications_TopType_6" scope="foreground">Calorii</string>
+<string id="Complications_TopType_7" scope="foreground">Titul actual - grade</string>
+<string id="Complications_TopType_8" scope="foreground">Titul actual - Grade NATO</string>
+<string id="Complications_TopType_9" scope="foreground">Titul actual - NSW</string>
+<string id="Complications_Type" scope="foreground">Element de date</string>
+<string id="Complications_Type_0" scope="foreground">Niciuna</string>
+<string id="Complications_Type_1" scope="foreground">Minute active astăzi</string>
+<string id="Complications_Type_10" scope="foreground">Data</string>
+<string id="Complications_Type_11" scope="foreground">Lumina zilei - Răsărit</string>
+<string id="Complications_Type_12" scope="foreground">Lumina zilei - Apus</string>
+<string id="Complications_Type_13" scope="foreground">Daylight - Următorul eveniment</string>
+<string id="Complications_Type_14" scope="foreground">Distanța</string>
+<string id="Complications_Type_15" scope="foreground">Etajele - Urcate</string>
+<string id="Complications_Type_16" scope="foreground">Pardoseli - Coborât</string>
+<string id="Complications_Type_17" scope="foreground">Pardoseli - Total</string>
+<string id="Complications_Type_18" scope="foreground">Ritmul cardiac</string>
+<string id="Complications_Type_19" scope="foreground">Zona de ritm cardiac</string>
+<string id="Complications_Type_2" scope="foreground">Minute active în această săptămână</string>
+<string id="Complications_Type_20" scope="foreground">Mutare nivel</string>
+<string id="Complications_Type_21" scope="foreground">Rata respiratorie</string>
+<string id="Complications_Type_22" scope="foreground">Presiunea la nivelul mării</string>
+<string id="Complications_Type_23" scope="foreground">Viteză (Necesită GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Pași</string>
+<string id="Complications_Type_25" scope="foreground">Temperatura</string>
+<string id="Complications_Type_26" scope="foreground">Timp până la recuperare</string>
+<string id="Complications_Type_27" scope="foreground">Vremea - Se simte ca</string>
+<string id="Complications_Type_28" scope="foreground">Vremea - Preconizată maxim/minus</string>
+<string id="Complications_Type_29" scope="foreground">Vremea - Șansa de precipitații</string>
+<string id="Complications_Type_3" scope="foreground">Altitudine</string>
+<string id="Complications_Type_30" scope="foreground">Vremea - Umiditate relativă</string>
+<string id="Complications_Type_31" scope="foreground">Vremea - Temperatura</string>
+<string id="Complications_Type_32" scope="foreground">Vremea - Viteza vântului</string>
+<string id="Complications_Type_4" scope="foreground">Presiune ambientală</string>
+<string id="Complications_Type_5" scope="foreground">Bateria corporală</string>
+<string id="Complications_Type_6" scope="foreground">Calorii</string>
+<string id="Complications_Type_7" scope="foreground">Titul actual - grade</string>
+<string id="Complications_Type_8" scope="foreground">Rubrica actuală - Grade NATO</string>
+<string id="Complications_Type_9" scope="foreground">Titul actual - NSW</string>
+<string id="Coordinates" scope="foreground">Coordonate</string>
+<string id="Coordinates_Format" scope="foreground">Format</string>
+<string id="Coordinates_Format_0" scope="foreground">Grade</string>
+<string id="Coordinates_Format_1" scope="foreground">Grade/Minute</string>
+<string id="Coordinates_Format_2" scope="foreground">Grade/Minute/Secunde</string>
+<string id="Coordinates_Format_3" scope="foreground">Sistem de referință al grilei militare</string>
+<string id="Days" scope="foreground">Zile</string>
+<string id="Days_Color" scope="foreground">Culoarea inelului</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Măriți dimensiunea textului</string>
+<string id="Days_Goal" scope="foreground">Obiectiv</string>
+<string id="Days_TextColor" scope="foreground">Culoarea textului</string>
+<string id="Days_TextGoalColor" scope="foreground">Culoarea textului obiectivului</string>
+<string id="Days_Type" scope="foreground">Metrica</string>
+<string id="Days_Type_0" scope="foreground">Niciuna</string>
+<string id="Days_Type_1" scope="foreground">Pași</string>
+<string id="Days_Type_2" scope="foreground">Pardoseli</string>
+<string id="Days_Type_3" scope="foreground">Minute active</string>
+<string id="Days_Type_4" scope="foreground">Calorii</string>
+<string id="Days_Type_5" scope="foreground">Distanța</string>
+<string id="Global_Settings" scope="foreground">Setări</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Utilizați GPS</string>
+<string id="GPS_Latitude" scope="foreground">Latitudine</string>
+<string id="GPS_Longitude" scope="foreground">Longitudine</string>
+<string id="Heart_Bpm" scope="foreground">bpm</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Ritmul cardiac</string>
+<string id="HeartRate_Adjustment" scope="foreground">Ajustare</string>
+<string id="HeartRate_HRV" scope="foreground">HRV</string>
+<string id="HeartRate_Resting" scope="foreground">Odihnă</string>
+<string id="History" scope="foreground">Istoric</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Reduceți amplificarea</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">ULTIMELE $1$ ORE</string>
+<string id="History_Type" scope="foreground">Stil grafic</string>
+<string id="History_Type_0" scope="foreground">Coloană</string>
+<string id="History_Type_1" scope="foreground">Spline</string>
+<string id="Location_Acquiring" scope="foreground">Obținerea poziției GPS, vă rugăm să aveți o vedere clară a cerului.</string>
+<string id="Location_InvalidLong" scope="foreground">Nu se poate obține locația, vă rugăm să verificați GPS-ul sau setările dispozitivului.</string>
+<string id="Location_InvalidShort" scope="glance">Locație nevalidă</string>
+<string id="Location_RequiredLong" scope="foreground">Aveți nevoie de poziție GPS, atingeți sau selectați widget-ul.</string>
+<string id="Location_RequiredShort" scope="glance">Locația necesară</string>
+<string id="LowBattery" scope="foreground">Baterie scăzută</string>
+<string id="LowBattery_Enabled" scope="foreground">Activați modul baterie scăzută</string>
+<string id="MinimalDays" scope="foreground">Zile minime</string>
+<string id="MIP" scope="foreground">Dispozitive MIP</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Ridicați/Atingeți pentru a trezi</string>
+<string id="Months_April" scope="foreground">aprilie</string>
+<string id="Months_August" scope="foreground">August</string>
+<string id="Months_December" scope="foreground">Decembrie</string>
+<string id="Months_February" scope="foreground">Februarie</string>
+<string id="Months_January" scope="foreground">Ianuarie</string>
+<string id="Months_July" scope="foreground">Iulie</string>
+<string id="Months_June" scope="foreground">Iunie</string>
+<string id="Months_March" scope="foreground">Martie</string>
+<string id="Months_May" scope="foreground">Mai</string>
+<string id="Months_November" scope="foreground">noiembrie</string>
+<string id="Months_October" scope="foreground">Octombrie</string>
+<string id="Months_September" scope="foreground">Septembrie</string>
+<string id="SimplyElegant" scope="foreground">Pur și simplu elegant</string>
+<string id="Sleep" scope="foreground">Somn</string>
+<string id="Sleep_Enabled" scope="foreground">Activați modul Sleep</string>
+<string id="StormAlert" scope="foreground">Alertă de schimbare a presiunii</string>
+<string id="StormAlert_Active" scope="foreground">Alertă</string>
+<string id="StormAlert_Message" scope="foreground">Mesaj</string>
+<string id="StormAlert_MessageError" scope="foreground">Mesajul este obligatoriu</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Rata de modificare</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 milibari la 3 ore</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 milibari pe 3 ore</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 milibari la 3 ore</string>
+<string id="SunTimes" scope="glance">Sun Times</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Următorul eveniment în</string>
+<string id="SunTimes_Sunrise" scope="foreground">Răsărit</string>
+<string id="SunTimes_SunriseIn" scope="glance">Răsărit în</string>
+<string id="SunTimes_Sunset" scope="foreground">Apus de soare</string>
+<string id="SunTimes_SunsetIn" scope="glance">Apus de soare</string>
+<string id="SunTimes_Today" scope="foreground">Astăzi</string>
+<string id="System" scope="foreground">pictograme de stare</string>
+<string id="System_AlarmsEnabled" scope="foreground">Pictogramă alarmă</string>
+<string id="System_BatteryDay" scope="foreground">Ziua</string>
+<string id="System_BatteryDays" scope="foreground">Zile</string>
+<string id="System_BatteryEnabled" scope="foreground">Pictograma baterie</string>
+<string id="System_BluetoothEnabled" scope="foreground">Pictogramă Bluetooth</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Pictogramă Nu deranjați</string>
+<string id="System_NotificationsEnabled" scope="foreground">Pictograma Notificări</string>
+<string id="Temperature" scope="glance">Temperatura</string>
+<string id="Temperature_Adjustment" scope="foreground">Ajustare</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Conversie în Core</string>
+<string id="Time" scope="foreground">Ora</string>
+<string id="Time_DisplayFormat" scope="foreground">Format de afișare</string>
+<string id="Time_DisplayFormat_0" scope="foreground">Implicit</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 ore</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 de ore</string>
+<string id="Time_NextEventEnabled" scope="foreground">Afișați următorul eveniment</string>
+<string id="Twilight" scope="foreground">Amurg</string>
+<string id="Twilight_Level" scope="foreground">Nivel</string>
+<string id="Twilight_Level_0" scope="foreground">Astronomic</string>
+<string id="Twilight_Level_1" scope="foreground">Nautic</string>
+<string id="Twilight_Level_2" scope="foreground">Civil</string>
+<string id="Units" scope="foreground">Unități</string>
+<string id="Units_Date" scope="foreground">Data</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">MMMM DD</string>
+<string id="Units_Date_2" scope="foreground">MM ZZ AAA</string>
+<string id="Units_Date_3" scope="foreground">ZZ LMM AA</string>
+<string id="Units_Pressure" scope="foreground">Barometru</string>
+<string id="Units_Pressure_0" scope="foreground">hPa</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">mmHg</string>
+<string id="Units_Pressure_3" scope="foreground">mBar</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Utilizați font mai mare</string>
+<string id="UX_MeterHandStyle" scope="foreground">Stil de mână contor</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Stil 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Stil 2</string>

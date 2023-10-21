@@ -1,0 +1,314 @@
+<string id="Altitude" scope="glance">Висота</string>
+<string id="Altitude_Ascent" scope="foreground">Сходження</string>
+<string id="Altitude_Descent" scope="foreground">Спуск</string>
+<string id="Altitude_Oxygen" scope="foreground">Кисень</string>
+<string id="Altitude_Precision" scope="foreground">Точність</string>
+<string id="Altitude_Precision_0" scope="foreground">0 десяткових знаків</string>
+<string id="Altitude_Precision_1" scope="foreground">1 десятковий знак</string>
+<string id="Altitude_Precision_2" scope="foreground">2 десяткові знаки</string>
+<string id="Altitude_Risk" scope="foreground">Ризик</string>
+<string id="Altitude_RiskAms" scope="foreground">A.M.S.</string>
+<string id="Altitude_RiskHace" scope="foreground">H.A.C.E.</string>
+<string id="Altitude_RiskHape" scope="foreground">H.A.P.E.</string>
+<string id="Altitude_RiskNone" scope="foreground">Немає</string>
+<string id="Altitude_UnitsEnabled" scope="foreground">Показати одиниці</string>
+<string id="Altitude_ZoneExtreme" scope="foreground">Екстремальний</string>
+<string id="Altitude_ZoneHigh" scope="foreground">Високо</string>
+<string id="Altitude_ZoneLow" scope="foreground">Низький</string>
+<string id="Altitude_ZoneModerate" scope="foreground">Помірно</string>
+<string id="Altitude_ZoneVeryHigh" scope="foreground">Дуже високо</string>
+<string id="AOD" scope="foreground">Пристрої AMOLED</string>
+<string id="AOD_Enabled" scope="foreground">Увімкнути режим AOD</string>
+<string id="Barometer" scope="glance">Барометр</string>
+<string id="Barometer_UnitOfMeasurement" scope="foreground">Одиниця вимірювання</string>
+<string id="Barometer_UnitOfMeasurement_0" scope="foreground">гПа</string>
+<string id="Barometer_UnitOfMeasurement_1" scope="foreground">inHg</string>
+<string id="Barometer_UnitOfMeasurement_2" scope="foreground">мм рт.ст.</string>
+<string id="Barometer_UnitOfMeasurement_3" scope="foreground">мбар</string>
+<string id="Barometer_UnitsEnabled" scope="foreground">Показати одиниці</string>
+<string id="Clock" scope="foreground">Годинник</string>
+<string id="Clock_AmPmColor" scope="foreground">Колір AM/PM</string>
+<string id="Clock_AmPmEnabled" scope="foreground">Показати AM/PM</string>
+<string id="Clock_Enlarge" scope="foreground">Збільшити текст годинника</string>
+<string id="Clock_HoursColor" scope="foreground">Колір годин</string>
+<string id="Clock_MinutesColor" scope="foreground">Колір хвилин</string>
+<string id="Clock_SecondsColor" scope="foreground">Колір секунд</string>
+<string id="Clock_SecondsEnabled" scope="foreground">Показати секунди</string>
+<string id="Clock_SecondsOnlyWhenActiveEnabled" scope="foreground">Увімкнути лише секунди, коли активовано</string>
+<string id="Compass" scope="glance">Компас</string>
+<string id="Compass_Color" scope="foreground">Колір</string>
+<string id="Compass_Declination" scope="foreground">Схилення</string>
+<string id="Compass_Degrees" scope="foreground">360°</string>
+<string id="Compass_DegreesFormat" scope="foreground">Формат градусів</string>
+<string id="Compass_Deviation" scope="foreground">Відхилення</string>
+<string id="Compass_Mils" scope="foreground">6400 миль (НАТО)</string>
+<string id="Compass_RefreshRate" scope="foreground">Частота оновлення</string>
+<string id="Compass_RefreshRate_1" scope="foreground">250 мс</string>
+<string id="Compass_RefreshRate_2" scope="foreground">500 мс</string>
+<string id="Complications" scope="foreground">Ускладнення</string>
+<string id="Complications_BottomColor" scope="foreground">Колір нижніх даних</string>
+<string id="Complications_BottomType" scope="foreground">Нижній елемент даних</string>
+<string id="Complications_BottomType_0" scope="foreground">Немає</string>
+<string id="Complications_BottomType_1" scope="foreground">Хвилини активності сьогодні</string>
+<string id="Complications_BottomType_10" scope="foreground">Дата</string>
+<string id="Complications_BottomType_11" scope="foreground">Денне світло – схід сонця</string>
+<string id="Complications_BottomType_12" scope="foreground">Денне світло – захід сонця</string>
+<string id="Complications_BottomType_13" scope="foreground">Денне світло - наступна подія</string>
+<string id="Complications_BottomType_14" scope="foreground">Відстань</string>
+<string id="Complications_BottomType_15" scope="foreground">Поверхи - підйом</string>
+<string id="Complications_BottomType_16" scope="foreground">Поверхи - спуск</string>
+<string id="Complications_BottomType_17" scope="foreground">Поверхи - Загальна кількість</string>
+<string id="Complications_BottomType_18" scope="foreground">Часота пульсу</string>
+<string id="Complications_BottomType_19" scope="foreground">Зона ЧСС</string>
+<string id="Complications_BottomType_2" scope="foreground">Хвилини активності цього тижня</string>
+<string id="Complications_BottomType_20" scope="foreground">Перемістити рівень</string>
+<string id="Complications_BottomType_21" scope="foreground">Частота дихання</string>
+<string id="Complications_BottomType_22" scope="foreground">Тиск на рівні моря</string>
+<string id="Complications_BottomType_23" scope="foreground">Швидкість (потрібен GPS)</string>
+<string id="Complications_BottomType_24" scope="foreground">Кроки</string>
+<string id="Complications_BottomType_25" scope="foreground">Температура</string>
+<string id="Complications_BottomType_26" scope="foreground">Час відновлення</string>
+<string id="Complications_BottomType_27" scope="foreground">Погода - начебто</string>
+<string id="Complications_BottomType_28" scope="foreground">Погода - прогнозована висока/низька</string>
+<string id="Complications_BottomType_29" scope="foreground">Погода - ймовірність опадів</string>
+<string id="Complications_BottomType_3" scope="foreground">Висота</string>
+<string id="Complications_BottomType_30" scope="foreground">Погода - відносна вологість</string>
+<string id="Complications_BottomType_31" scope="foreground">Погода - температура</string>
+<string id="Complications_BottomType_32" scope="foreground">Погода - швидкість вітру</string>
+<string id="Complications_BottomType_4" scope="foreground">Тиск навколишнього середовища</string>
+<string id="Complications_BottomType_5" scope="foreground">Акумулятор корпусу</string>
+<string id="Complications_BottomType_6" scope="foreground">Калорії</string>
+<string id="Complications_BottomType_7" scope="foreground">Поточний заголовок - градуси</string>
+<string id="Complications_BottomType_8" scope="foreground">Поточний заголовок - дипломи НАТО</string>
+<string id="Complications_BottomType_9" scope="foreground">Поточний заголовок - NESW</string>
+<string id="Complications_Color" scope="foreground">Колір даних</string>
+<string id="Complications_EnlargeEnabled" scope="foreground">Збільшити розмір тексту даних</string>
+<string id="Complications_IconEnabled" scope="foreground">Значок увімкнення</string>
+<string id="Complications_Label_Active" scope="foreground">Активний</string>
+<string id="Complications_Label_Altitude" scope="foreground">Висота</string>
+<string id="Complications_Label_Ascended" scope="foreground">Піднято</string>
+<string id="Complications_Label_Barometer" scope="foreground">Барометр</string>
+<string id="Complications_Label_BodyBattery" scope="foreground">Акумулятор тіла</string>
+<string id="Complications_Label_Calories" scope="foreground">Калорії</string>
+<string id="Complications_Label_Current" scope="foreground">Поточний</string>
+<string id="Complications_Label_Descended" scope="foreground">Спустився</string>
+<string id="Complications_Label_Distance" scope="foreground">Відстань</string>
+<string id="Complications_Label_Floors" scope="foreground">Поверхи</string>
+<string id="Complications_Label_Heading" scope="foreground">Заголовок</string>
+<string id="Complications_Label_HeadingDegrees" scope="foreground">Ступені</string>
+<string id="Complications_Label_HeadingTrueNorth" scope="foreground">Справжня північ</string>
+<string id="Complications_Label_HeartRate" scope="foreground">Часота серцевих скорочень</string>
+<string id="Complications_Label_HeartRateZone" scope="foreground">Зона ЧСС</string>
+<string id="Complications_Label_MoveLevel" scope="foreground">Рівень переміщення</string>
+<string id="Complications_Label_RecoveryTime" scope="foreground">Відновлення</string>
+<string id="Complications_Label_RespirationRate" scope="foreground">Дихання</string>
+<string id="Complications_Label_Speed" scope="foreground">Швидкість</string>
+<string id="Complications_Label_Steps" scope="foreground">Кроки</string>
+<string id="Complications_Label_Sunrise" scope="foreground">Схід сонця</string>
+<string id="Complications_Label_Sunset" scope="foreground">Захід сонця</string>
+<string id="Complications_Label_Temperature" scope="foreground">Температура</string>
+<string id="Complications_Label_Today" scope="foreground">Сьогодні</string>
+<string id="Complications_Label_Tomorrow" scope="foreground">Завтра</string>
+<string id="Complications_Label_Total" scope="foreground">Усього</string>
+<string id="Complications_Label_WeatherCurrentTemperature" scope="foreground">Температура</string>
+<string id="Complications_Label_WeatherFeelsLike" scope="foreground">Відчуття, як</string>
+<string id="Complications_Label_WeatherHighLow" scope="foreground">Високий/Низький</string>
+<string id="Complications_Label_WeatherPrecipitationChance" scope="foreground">Імовірність дощу</string>
+<string id="Complications_Label_WeatherRelativeHumidity" scope="foreground">Вологість</string>
+<string id="Complications_Label_WeatherWindSpeed" scope="foreground">Швидкість вітру</string>
+<string id="Complications_Label_Week" scope="foreground">Тиждень</string>
+<string id="Complications_TopColor" scope="foreground">Колір верхніх даних</string>
+<string id="Complications_TopType" scope="foreground">Найпопулярніший елемент даних</string>
+<string id="Complications_TopType_0" scope="foreground">Немає</string>
+<string id="Complications_TopType_1" scope="foreground">Хвилини активності сьогодні</string>
+<string id="Complications_TopType_10" scope="foreground">Дата</string>
+<string id="Complications_TopType_11" scope="foreground">Денне світло – схід сонця</string>
+<string id="Complications_TopType_12" scope="foreground">Денне світло – захід сонця</string>
+<string id="Complications_TopType_13" scope="foreground">Денне світло - наступна подія</string>
+<string id="Complications_TopType_14" scope="foreground">Відстань</string>
+<string id="Complications_TopType_15" scope="foreground">Поверхи - підйом</string>
+<string id="Complications_TopType_16" scope="foreground">Поверхи - спуск</string>
+<string id="Complications_TopType_17" scope="foreground">Поверхи - Загальна кількість</string>
+<string id="Complications_TopType_18" scope="foreground">Часота пульсу</string>
+<string id="Complications_TopType_19" scope="foreground">Зона ЧСС</string>
+<string id="Complications_TopType_2" scope="foreground">Хвилини активності цього тижня</string>
+<string id="Complications_TopType_20" scope="foreground">Перемістити рівень</string>
+<string id="Complications_TopType_21" scope="foreground">Частота дихання</string>
+<string id="Complications_TopType_22" scope="foreground">Тиск на рівні моря</string>
+<string id="Complications_TopType_23" scope="foreground">Швидкість (потрібен GPS)</string>
+<string id="Complications_TopType_24" scope="foreground">Кроки</string>
+<string id="Complications_TopType_25" scope="foreground">Температура</string>
+<string id="Complications_TopType_26" scope="foreground">Час відновлення</string>
+<string id="Complications_TopType_27" scope="foreground">Погода - начебто</string>
+<string id="Complications_TopType_28" scope="foreground">Погода - прогнозована висока/низька</string>
+<string id="Complications_TopType_29" scope="foreground">Погода - ймовірність опадів</string>
+<string id="Complications_TopType_3" scope="foreground">Висота</string>
+<string id="Complications_TopType_30" scope="foreground">Погода - відносна вологість</string>
+<string id="Complications_TopType_31" scope="foreground">Погода - Температура</string>
+<string id="Complications_TopType_32" scope="foreground">Погода - швидкість вітру</string>
+<string id="Complications_TopType_4" scope="foreground">Тиск навколишнього середовища</string>
+<string id="Complications_TopType_5" scope="foreground">Акумулятор для тіла</string>
+<string id="Complications_TopType_6" scope="foreground">Калорії</string>
+<string id="Complications_TopType_7" scope="foreground">Поточний заголовок - Ступені</string>
+<string id="Complications_TopType_8" scope="foreground">Поточний заголовок - дипломи НАТО</string>
+<string id="Complications_TopType_9" scope="foreground">Поточний заголовок - NESW</string>
+<string id="Complications_Type" scope="foreground">Елемент даних</string>
+<string id="Complications_Type_0" scope="foreground">Немає</string>
+<string id="Complications_Type_1" scope="foreground">Хвилини активності сьогодні</string>
+<string id="Complications_Type_10" scope="foreground">Дата</string>
+<string id="Complications_Type_11" scope="foreground">Денне світло - Схід сонця</string>
+<string id="Complications_Type_12" scope="foreground">Денне світло – захід сонця</string>
+<string id="Complications_Type_13" scope="foreground">Денне світло - наступна подія</string>
+<string id="Complications_Type_14" scope="foreground">Відстань</string>
+<string id="Complications_Type_15" scope="foreground">Поверхи - підйом</string>
+<string id="Complications_Type_16" scope="foreground">Поверхи - спуск</string>
+<string id="Complications_Type_17" scope="foreground">Поверхів - Загальна кількість</string>
+<string id="Complications_Type_18" scope="foreground">Часота серцевих скорочень</string>
+<string id="Complications_Type_19" scope="foreground">Зона ЧСС</string>
+<string id="Complications_Type_2" scope="foreground">Хвилини активності цього тижня</string>
+<string id="Complications_Type_20" scope="foreground">Перемістити рівень</string>
+<string id="Complications_Type_21" scope="foreground">Частота дихання</string>
+<string id="Complications_Type_22" scope="foreground">Тиск на рівні моря</string>
+<string id="Complications_Type_23" scope="foreground">Швидкість (потрібен GPS)</string>
+<string id="Complications_Type_24" scope="foreground">Кроки</string>
+<string id="Complications_Type_25" scope="foreground">Температура</string>
+<string id="Complications_Type_26" scope="foreground">Час відновлення</string>
+<string id="Complications_Type_27" scope="foreground">Погода - таке відчуття</string>
+<string id="Complications_Type_28" scope="foreground">Погода - прогнозована висока/низька</string>
+<string id="Complications_Type_29" scope="foreground">Погода - ймовірність опадів</string>
+<string id="Complications_Type_3" scope="foreground">Висота</string>
+<string id="Complications_Type_30" scope="foreground">Погода - відносна вологість</string>
+<string id="Complications_Type_31" scope="foreground">Погода - температура</string>
+<string id="Complications_Type_32" scope="foreground">Погода - швидкість вітру</string>
+<string id="Complications_Type_4" scope="foreground">Тиск навколишнього середовища</string>
+<string id="Complications_Type_5" scope="foreground">Акумулятор тіла</string>
+<string id="Complications_Type_6" scope="foreground">Калорії</string>
+<string id="Complications_Type_7" scope="foreground">Поточний заголовок - ступені</string>
+<string id="Complications_Type_8" scope="foreground">Поточний заголовок - дипломи НАТО</string>
+<string id="Complications_Type_9" scope="foreground">Поточний заголовок - NESW</string>
+<string id="Coordinates" scope="foreground">Координати</string>
+<string id="Coordinates_Format" scope="foreground">Формат</string>
+<string id="Coordinates_Format_0" scope="foreground">Градуси</string>
+<string id="Coordinates_Format_1" scope="foreground">Градуси/хвилини</string>
+<string id="Coordinates_Format_2" scope="foreground">Градуси/Хвилини/Секунди</string>
+<string id="Coordinates_Format_3" scope="foreground">Військова система координат</string>
+<string id="Days" scope="foreground">Днів</string>
+<string id="Days_Color" scope="foreground">Колір кільця</string>
+<string id="Days_EnlargeEnabled" scope="foreground">Збільшити розмір тексту</string>
+<string id="Days_Goal" scope="foreground">Ціль</string>
+<string id="Days_TextColor" scope="foreground">Колір тексту</string>
+<string id="Days_TextGoalColor" scope="foreground">Колір тексту цілі</string>
+<string id="Days_Type" scope="foreground">Метрика</string>
+<string id="Days_Type_0" scope="foreground">Жодного</string>
+<string id="Days_Type_1" scope="foreground">Кроки</string>
+<string id="Days_Type_2" scope="foreground">Поверхи</string>
+<string id="Days_Type_3" scope="foreground">Хвилини активності</string>
+<string id="Days_Type_4" scope="foreground">Калорії</string>
+<string id="Days_Type_5" scope="foreground">Відстань</string>
+<string id="Global_Settings" scope="foreground">Налаштування</string>
+<string id="GPS" scope="foreground">GPS</string>
+<string id="GPS_Enabled" scope="foreground">Використовувати GPS</string>
+<string id="GPS_Latitude" scope="foreground">Широта</string>
+<string id="GPS_Longitude" scope="foreground">Довгота</string>
+<string id="Heart_Bpm" scope="foreground">уд/хв</string>
+<string id="Heart_Hrv" scope="foreground">hrv</string>
+<string id="HeartRate" scope="glance">Часота пульсу</string>
+<string id="HeartRate_Adjustment" scope="foreground">Коригування</string>
+<string id="HeartRate_HRV" scope="foreground">ВСР</string>
+<string id="HeartRate_Resting" scope="foreground">Відпочинок</string>
+<string id="History" scope="foreground">Історія</string>
+<string id="History_AlphaWeightEnabled" scope="foreground">Зменшити посилення</string>
+<string id="History_Max" scope="foreground">MAX</string>
+<string id="History_Min" scope="foreground">MIN</string>
+<string id="History_Span" scope="foreground">ОСТАННІ $1$ ГОДИН</string>
+<string id="History_Type" scope="foreground">Стиль графіка</string>
+<string id="History_Type_0" scope="foreground">Стовпець</string>
+<string id="History_Type_1" scope="foreground">Сплайн</string>
+<string id="Location_Acquiring" scope="foreground">Отримання позиції GPS, будь ласка, добре бачу небо.</string>
+<string id="Location_InvalidLong" scope="foreground">Не вдається визначити місцезнаходження, перевірте GPS або налаштування пристрою.</string>
+<string id="Location_InvalidShort" scope="glance">Недійсне розташування</string>
+<string id="Location_RequiredLong" scope="foreground">Потрібна GPS-позиція, торкніться або виберіть віджет.</string>
+<string id="Location_RequiredShort" scope="glance">Потрібне розташування</string>
+<string id="LowBattery" scope="foreground">Низький заряд батареї</string>
+<string id="LowBattery_Enabled" scope="foreground">Увімкнути режим низького заряду батареї</string>
+<string id="MinimalDays" scope="foreground">Мінімальна кількість днів</string>
+<string id="MIP" scope="foreground">Пристрої MIP</string>
+<string id="MIP_RaiseToWakeEnabled" scope="foreground">Підняти/торкнутися, щоб розбудити</string>
+<string id="Months_April" scope="foreground">Квітень</string>
+<string id="Months_August" scope="foreground">Серпень</string>
+<string id="Months_December" scope="foreground">Грудень</string>
+<string id="Months_February" scope="foreground">Лютий</string>
+<string id="Months_January" scope="foreground">Січень</string>
+<string id="Months_July" scope="foreground">Липень</string>
+<string id="Months_June" scope="foreground">Червень</string>
+<string id="Months_March" scope="foreground">Березень</string>
+<string id="Months_May" scope="foreground">Травень</string>
+<string id="Months_November" scope="foreground">Листопад</string>
+<string id="Months_October" scope="foreground">Жовтень</string>
+<string id="Months_September" scope="foreground">Вересень</string>
+<string id="RefreshRate_100" scope="foreground">100 мс</string>
+<string id="RefreshRate_1000" scope="foreground">1 с</string>
+<string id="SimplyElegant" scope="foreground">Просто елегантно</string>
+<string id="Sleep" scope="foreground">Сон</string>
+<string id="Sleep_Enabled" scope="foreground">Увімкнути режим сну</string>
+<string id="StormAlert" scope="foreground">Попередження про зміну тиску</string>
+<string id="StormAlert_Active" scope="foreground">Сповіщення</string>
+<string id="StormAlert_Message" scope="foreground">Повідомлення</string>
+<string id="StormAlert_MessageError" scope="foreground">Повідомлення є обов'язковим</string>
+<string id="StormAlert_RateOfChange" scope="foreground">Швидкість зміни</string>
+<string id="StormAlert_RateOfChange_0" scope="foreground">6 мілібарів на 3 години</string>
+<string id="StormAlert_RateOfChange_1" scope="foreground">5,5 мілібарів на 3 години</string>
+<string id="StormAlert_RateOfChange_10" scope="foreground">1 мілібар на 3 години</string>
+<string id="StormAlert_RateOfChange_2" scope="foreground">5 мілібарів на 3 години</string>
+<string id="StormAlert_RateOfChange_3" scope="foreground">4,5 мілібар на 3 години</string>
+<string id="StormAlert_RateOfChange_4" scope="foreground">4 мілібари за 3 години</string>
+<string id="StormAlert_RateOfChange_5" scope="foreground">3,5 мілібар на 3 години</string>
+<string id="StormAlert_RateOfChange_6" scope="foreground">3 мілібари за 3 години</string>
+<string id="StormAlert_RateOfChange_7" scope="foreground">2,5 мілібар на 3 години</string>
+<string id="StormAlert_RateOfChange_8" scope="foreground">2 мілібари на 3 години</string>
+<string id="StormAlert_RateOfChange_9" scope="foreground">1,5 мілібар на 3 години</string>
+<string id="SunTimes" scope="glance">Sun Times</string>
+<string id="SunTimes_NextEventIn" scope="foreground">Наступна подія в</string>
+<string id="SunTimes_Sunrise" scope="foreground">Схід сонця</string>
+<string id="SunTimes_SunriseIn" scope="glance">Схід сонця</string>
+<string id="SunTimes_Sunset" scope="foreground">Захід сонця</string>
+<string id="SunTimes_SunsetIn" scope="glance">Захід у</string>
+<string id="SunTimes_Today" scope="foreground">Сьогодні</string>
+<string id="System" scope="foreground">Піктограми стану</string>
+<string id="System_AlarmsEnabled" scope="foreground">Піктограма будильника</string>
+<string id="System_BatteryDay" scope="foreground">День</string>
+<string id="System_BatteryDays" scope="foreground">Днів</string>
+<string id="System_BatteryEnabled" scope="foreground">Піктограма батареї</string>
+<string id="System_BluetoothEnabled" scope="foreground">Піктограма Bluetooth</string>
+<string id="System_DoNotDisturbEnabled" scope="foreground">Піктограма режиму "не турбувати"</string>
+<string id="System_NotificationsEnabled" scope="foreground">Піктограма сповіщень</string>
+<string id="Temperature" scope="glance">Температура</string>
+<string id="Temperature_Adjustment" scope="foreground">Коригування</string>
+<string id="Temperature_CoreEnabled" scope="foreground">Перетворити на ядро</string>
+<string id="Time" scope="foreground">Час</string>
+<string id="Time_DisplayFormat" scope="foreground">Формат відображення</string>
+<string id="Time_DisplayFormat_0" scope="foreground">За умовчанням</string>
+<string id="Time_DisplayFormat_1" scope="foreground">12 годин</string>
+<string id="Time_DisplayFormat_2" scope="foreground">24 години</string>
+<string id="Time_NextEventEnabled" scope="foreground">Показати наступну подію</string>
+<string id="Twilight" scope="foreground">Сутінки</string>
+<string id="Twilight_Level" scope="foreground">Рівень</string>
+<string id="Twilight_Level_0" scope="foreground">Астрономічний</string>
+<string id="Twilight_Level_1" scope="foreground">Морський</string>
+<string id="Twilight_Level_2" scope="foreground">Цивільний</string>
+<string id="Units" scope="foreground">Одиниці</string>
+<string id="Units_Date" scope="foreground">Дата</string>
+<string id="Units_Date_0" scope="foreground">DDD DD</string>
+<string id="Units_Date_1" scope="foreground">МММ ДД</string>
+<string id="Units_Date_2" scope="foreground">ДД МММ РР</string>
+<string id="Units_Date_3" scope="foreground">ДД МММ РР</string>
+<string id="Units_Pressure" scope="foreground">Барометр</string>
+<string id="Units_Pressure_0" scope="foreground">гПа</string>
+<string id="Units_Pressure_1" scope="foreground">inHg</string>
+<string id="Units_Pressure_2" scope="foreground">мм рт.ст.</string>
+<string id="Units_Pressure_3" scope="foreground">мБар</string>
+<string id="UX" scope="foreground">UX</string>
+<string id="UX_LargerFontEnabled" scope="foreground">Використовувати більший шрифт</string>
+<string id="UX_MeterHandStyle" scope="foreground">Стиль лічильника</string>
+<string id="UX_MeterHandStyle_0" scope="foreground">Стиль 1</string>
+<string id="UX_MeterHandStyle_1" scope="foreground">Стиль 2</string>
