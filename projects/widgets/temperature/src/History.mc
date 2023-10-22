@@ -20,6 +20,10 @@ class History extends Views.AbstractHistoryView
   }
 
   public function format(value) {
+    if (Temperature.shouldBeConvertedToCore()) {
+      value = Temperature.toCore(value);
+    }
+
     return Temperature.format(value);
   }
 

@@ -43,7 +43,7 @@ class Index extends Views.AbstractWidgetView
     var icon = :cold;
     var percentage = 0;
 
-    if (Device.isOnWrist() && Setting.getValue("Temperature_CoreEnabled", false) == true) {
+    if (temperature.isCore) {
     	if (temperature.value > 37.5) {
         icon = :hot;
       } else if (temperature.value > 35.0 && temperature.value <= 37.5) {

@@ -29,7 +29,7 @@ class Glance extends Views.AbstractGlanceView
     var thermometerColor = 0xFFFFFF;
     var thermometerPercentage = 1;
 
-    if (Device.isOnWrist() && Setting.getValue("Temperature_CoreEnabled", false) == true) {
+    if (temperature.isCore) {
       if (temperature.value > 37.5) {
         thermometerColor = 0xFF0000;
       } else if (temperature.value > 35.0 && temperature.value <= 37.5) {

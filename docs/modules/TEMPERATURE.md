@@ -38,21 +38,9 @@ The unit of measurement for the temperature based on device settings. Will eithe
 
 The raw value.
 
-`core` as _[TemperatureCoreInfo](SUN.md#temperaturecoreinfo)_
+`isCore` as ${\textsf{\color{salmon}boolean}}$
 
-The estimated core body temperature based on project settings.
-
-***
-
-### _TemperatureCoreInfo_
-
-`asString()` as ${\textsf{\color{salmon}string}}$
-
-The formatted temperature.
-
-`value` as ${\textsf{\color{salmon}float}}$
-
-The raw value.
+The temperature value has been calculated as estimated core body temperature.
 
 ***
 
