@@ -1,7 +1,7 @@
 {
   "name": "Temperature",
   "id": "69ee9a59-d626-4870-b0ec-0720498fbbf2",
-  "version": "2.1.8",
+  "version": "2.1.9",
   "deviceExclusions": [
     "vivoactive5"
   ],
