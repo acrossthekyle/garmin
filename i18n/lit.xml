@@ -222,7 +222,7 @@
 <string id="History_AlphaWeightEnabled" scope="foreground">Sumažinti stiprinimą</string>
 <string id="History_Max" scope="foreground">MAX</string>
 <string id="History_Min" scope="foreground">MIN</string>
-<string id="History_Span" scope="foreground">PASKUTINĖS 1 USD VALANDOS</string>
+<string id="History_Span" scope="foreground">PASKUTINĖS $1$ VALANDOS</string>
 <string id="History_Type" scope="foreground">Diagramos stilius</string>
 <string id="History_Type_0" scope="foreground">Stulpelis</string>
 <string id="History_Type_1" scope="foreground">Spline</string>

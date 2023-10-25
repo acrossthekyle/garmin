@@ -222,7 +222,7 @@
 <string id="History_AlphaWeightEnabled" scope="foreground">Znížiť zosilnenie</string>
 <string id="History_Max" scope="foreground">MAX</string>
 <string id="History_Min" scope="foreground">MIN</string>
-<string id="History_Span" scope="foreground">POSLEDNÉ HODINY 1 $</string>
+<string id="History_Span" scope="foreground">POSLEDNÉ HODINY $1$</string>
 <string id="History_Type" scope="foreground">Štýl grafu</string>
 <string id="History_Type_0" scope="foreground">Stĺpec</string>
 <string id="History_Type_1" scope="foreground">Spline</string>

@@ -222,7 +222,7 @@
 <string id="History_AlphaWeightEnabled" scope="foreground">Zmniejsz wzmocnienie</string>
 <string id="History_Max" scope="foreground">MAX</string>
 <string id="History_Min" scope="foreground">MIN</string>
-<string id="History_Span" scope="foreground">OSTATNIE GODZINY 1 $</string>
+<string id="History_Span" scope="foreground">OSTATNIE GODZINY $1$</string>
 <string id="History_Type" scope="foreground">Styl wykresu</string>
 <string id="History_Type_0" scope="foreground">Kolumna</string>
 <string id="History_Type_1" scope="foreground">Splajn</string>

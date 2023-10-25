@@ -220,7 +220,7 @@
 <string id="History_AlphaWeightEnabled" scope="foreground">減少放大</string>
 <string id="History_Max" scope="foreground">最大</string>
 <string id="History_Min" scope="foreground">MIN</string>
-<string id="History_Span" scope="foreground">過去 1 美元小時</string>
+<string id="History_Span" scope="foreground">過去 $1$ 美元小時</string>
 <string id="History_Type" scope="foreground">圖表樣式</string>
 <string id="History_Type_0" scope="foreground">列</string>
 <string id="History_Type_1" scope="foreground">樣條線</string>

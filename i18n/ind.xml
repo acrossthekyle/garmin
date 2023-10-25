@@ -222,7 +222,7 @@
 <string id="History_AlphaWeightEnabled" scope="foreground">Kurangi Amplifikasi</string>
 <string id="History_Max" scope="foreground">MAKS</string>
 <string id="History_Min" scope="foreground">MIN</string>
-<string id="History_Span" scope="foreground">$1$JAM TERAKHIR</string>
+<string id="History_Span" scope="foreground">$1$ JAM TERAKHIR</string>
 <string id="History_Type" scope="foreground">Gaya Grafik</string>
 <string id="History_Type_0" scope="foreground">Kolom</string>
 <string id="History_Type_1" scope="foreground">Spline</string>
