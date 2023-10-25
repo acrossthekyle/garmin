@@ -1,7 +1,7 @@
 {
   "name": "Barometer",
   "id": "3d55863b-b432-4096-ac37-e634607911c8",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "deviceExclusions": [
     "vivoactive5"
   ],
