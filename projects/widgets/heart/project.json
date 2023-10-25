@@ -1,7 +1,7 @@
 {
   "name": "HeartRate",
   "id": "017bffe6-f0b0-453e-abd6-b836347f54fd",
-  "version": "1.9.7",
+  "version": "1.9.8",
   "modules": [
     "Sensor",
     "SensorHistory",
