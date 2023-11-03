@@ -1,7 +1,7 @@
 {
   "name": "Compass",
   "id": "09f6ab28-719d-4523-8bdb-da7557227f99",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "deviceExclusions": [
     "vivoactive5"
   ],
