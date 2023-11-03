@@ -87,7 +87,7 @@ module Keg
 		    }
 		  }
 
-		  var radians = heading + Setting.getValue("Compass_Declination", 0).toFloat() * Math.PI/180;
+		  var radians = (heading == null ? 0 : heading) + Setting.getValue("Compass_Declination", 0).toFloat() * Math.PI/180;
 
 	    if (radians < 0) {
 	      radians = 2 * Math.PI + radians;

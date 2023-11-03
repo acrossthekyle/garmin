@@ -2,6 +2,9 @@
   "name": "Compass",
   "id": "8dff1719-2593-4b0d-86f4-c6cce999f113",
   "version": "1.0.4",
+  "deviceExclusions": [
+    "vivoactive5"
+  ],
   "modules": [
     "Positioning",
     "Sensor",

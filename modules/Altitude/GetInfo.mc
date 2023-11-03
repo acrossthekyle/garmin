@@ -24,6 +24,10 @@ module Keg
 			}
 
 			public function calculate() {
+				if (self.elevation == null) {
+					self.elevation = 0;
+				}
+
 				var feet = Math.ceil(self.elevation.toFloat() * 3.28084);
 
 			  self.value = 100;
