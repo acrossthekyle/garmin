@@ -1,7 +1,7 @@
 {
   "name": "Altitude",
   "id": "3cec7485-60a3-4693-a0f7-fcf4f3d9d5cf",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "deviceExclusions": [
     "vivoactive5"
   ],
