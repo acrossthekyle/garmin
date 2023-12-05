@@ -36,7 +36,7 @@ class Index extends Views.AbstractWatchFaceView
 
   public function onSettingsReady() {
     self.clockAmPmColor = Setting.getValue("Clock_AmPmColor", 0xFFFFFF);
-    self.clockAmPmEnabled = Setting.getValue("clockAmPmEnabled", false);
+    self.clockAmPmEnabled = Setting.getValue("Clock_AmPmEnabled", false);
     self.clockEnlarge = Setting.getValue("Clock_Enlarge", false);
     self.clockHoursColor = Setting.getValue("Clock_HoursColor", 0xFFFFFF);
     self.clockMinutesColor = Setting.getValue("Clock_MinutesColor", 0xFF0000);
@@ -278,7 +278,7 @@ class Index extends Views.AbstractWatchFaceView
   }
 
   private function clock(dc, isPartial, isLowPower) {
-    var fontSize = self.clockEnlarge ? 16 : 17;
+    var fontSize = self.clockEnlarge ? 17 : 16;
 
     var canSeeSeconds = (self.canShowSeconds && self.clockSecondsEnabled);
     var cannotSeeSeconds = !canSeeSeconds || isLowPower;
