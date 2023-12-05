@@ -1,7 +1,7 @@
 {
   "name": "Simply Elegant",
   "id": "38cabbb2-9c57-4e70-b9f5-05aec2ebc8aa",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "modules": [
     "Positioning",
     "SensorHistory",
