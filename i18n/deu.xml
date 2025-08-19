@@ -268,9 +268,9 @@
 <string id="StormAlert_RateOfChange_9" scope="foreground">1,5 Millibar pro 3 Stunden</string>
 <string id="SunTimes" scope="glance">Sun Times</string>
 <string id="SunTimes_NextEventIn" scope="foreground">Nächstes Ereignis in</string>
-<string id="SunTimes_Sunrise" scope="foreground">Sonnenaufgang</string>
-<string id="SunTimes_SunriseIn" scope="glance">Sonnenaufgang herein</string>
-<string id="SunTimes_Sunset" scope="foreground">Sonnenuntergang</string>
+<string id="SunTimes_Sunrise" scope="foreground">So.aufg.</string>
+<string id="SunTimes_SunriseIn" scope="glance">Sonnenaufgang in</string>
+<string id="SunTimes_Sunset" scope="foreground">Sonnenunt.</string>
 <string id="SunTimes_SunsetIn" scope="glance">Sonnenuntergang in</string>
 <string id="SunTimes_Today" scope="foreground">Heute</string>
 <string id="System" scope="foreground">Statussymbole</string>
